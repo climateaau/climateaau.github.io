@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Climate Research at Aalborg University",
+    "section": "",
+    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day events."
+  },
+  {
+    "objectID": "index.html#earth-day-2024",
+    "href": "index.html#earth-day-2024",
+    "title": "Climate Research at Aalborg University",
+    "section": "Earth Day 2024",
+    "text": "Earth Day 2024\nThe next Earth Day will be on April 22, 2024."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "climateaau.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
