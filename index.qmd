@@ -1,7 +1,11 @@
 ---
-title: "climateaau.github.io"
+title: "Climate Research at [Aalborg University](https://www.en.aau.dk/)"
 ---
 
-This is a Quarto website.
+This is the website for climate-related research at Aalborg University. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+It hosts the Earth Day events.
+
+## Earth Day 2024
+
+The next Earth Day will be on April 22, 2024.
