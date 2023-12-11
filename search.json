@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Climate Research at Aalborg University",
@@ -12,12 +19,5 @@
     "title": "Climate Research at Aalborg University",
     "section": "Earth Day 2024",
     "text": "Earth Day 2024\nThe next Earth Day will be on April 22, 2024."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
