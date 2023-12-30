@@ -4,8 +4,23 @@ title: "Climate Research at [Aalborg University](https://www.en.aau.dk/)"
 
 This is the website for climate-related research at Aalborg University. 
 
-It hosts the Earth Day events.
+It hosts the Earth Day events and Climate Econometrics research projects at the University.
 
-## Earth Day 2024
+## Earth Day Events 
 
-The next Earth Day will be on April 22, 2024.
+The Department of Mathematical Sciences organizes the yearly "Mathematics and Statistics for Climate Change Research" events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.
+
+The events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.
+
+The next Earth Day will be on April 22, 2024. For more information about the next event, follow [this link](earthday2024.qmd). For previous events, follow [this link](previousearthdays.qmd). 
+
+If you want to know more about Earth day, follow [this link](aboutearthday.qmd).
+
+## Climate Econometrics Research Projects
+
+The Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow [this link](climateeconometrics.qmd).
+
+
+### About the Website
+
+The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/). Report any issues [here](mailto:eduardo@math.aau.dk).

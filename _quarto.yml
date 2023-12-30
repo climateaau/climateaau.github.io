@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "climateaau.github.io"
+  title: "Climate Research at AAU"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - earthday2024.qmd
+      - climateeconometrics.qmd
       - about.qmd
+  open-graph: true
 
 format:
   html:
-    theme: lux
+    theme:  
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
