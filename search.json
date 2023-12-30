@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Climate Research at Aalborg University",
     "section": "",
-    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day events."
+    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day events and Climate Econometrics research projects at the University."
   },
   {
-    "objectID": "index.html#earth-day-2024",
-    "href": "index.html#earth-day-2024",
+    "objectID": "index.html#earth-day-events",
+    "href": "index.html#earth-day-events",
     "title": "Climate Research at Aalborg University",
-    "section": "Earth Day 2024",
-    "text": "Earth Day 2024\nThe next Earth Day will be on April 22, 2024."
+    "section": "Earth Day Events",
+    "text": "Earth Day Events\nThe Department of Mathematical Sciences organizes the yearly “Mathematics and Statistics for Climate Change Research” events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.\nThe events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.\nThe next Earth Day will be on April 22, 2024. For more information about the next event, follow this link. For previous events, follow this link.\nIf you want to know more about Earth day, follow this link."
+  },
+  {
+    "objectID": "index.html#climate-econometrics-research-projects",
+    "href": "index.html#climate-econometrics-research-projects",
+    "title": "Climate Research at Aalborg University",
+    "section": "Climate Econometrics Research Projects",
+    "text": "Climate Econometrics Research Projects\nThe Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow this link.\n\nAbout the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
   },
   {
     "objectID": "about.html",
@@ -19,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "aboutearthday.html",
+    "href": "aboutearthday.html",
+    "title": "Earth Day",
+    "section": "",
+    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection.\n\nHistory\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a UNESCO Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\n\n\nAalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The day is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
+  },
+  {
+    "objectID": "earthday2024.html",
+    "href": "earthday2024.html",
+    "title": "Earth Day 2024",
+    "section": "",
+    "text": "The next Earth Day will be on April 22, 2024."
   }
 ]
