@@ -28,6 +28,8 @@ website:
           file: previousevents/earthday2023_schedule.qmd
         - text: "Hackathon"
           file: previousevents/earthday2023_hackathon.qmd
+        - text: "Photo Gallery"
+          file: previousevents/earthday2023_gallery.qmd
 
     - id: ed2024
       title: "2024"

@@ -1,0 +1,58 @@
+---
+title: "Earth Day 2023"
+subtitle: "Data Science to Combat Global Heating"
+---
+
+# Photo Gallery
+
+---
+
+Thanks to all participants for making Earth Day 2023 a huge success!
+
+We hope to see you again next year.
+
+---
+
+## Welcome to Earth Day 2023!
+
+
+::: {layout="[[1,1], [1]]"}
+![](/images/ed2023/IMG_3938.jpg)
+
+![](/images/ed2023/IMG_3939.jpg)
+
+![](/images/ed2023/IMG_3940.jpg)
+
+The Department of Mathematical Sciences ready for the Earth Day Event.
+
+:::
+
+
+---
+
+![Getting ready](/images/ed2023/IMG_3943.jpg)
+
+---
+
+Welcome speech by the Head of Section, Ege Rubak.
+
+![Ege Rubak, Head of Stats and MathEcon Section](/images/ed2023/IMG_3947.jpg)
+
+---
+
+## Research presentations
+
+::: {layout="[[1,1], [1,1], [1]]"}
+
+![Mikkel Mandrup Nielsen, *Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach*](/images/ed2023/IMG_3949.jpg)
+
+![Olivia Kvist, *The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks*](/images/ed2023/IMG_3952.jpg)
+
+![Jingying Zhou Lykke, [*Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data*](https://arxiv.org/abs/2205.10269)](/images/ed2023/IMG_3954.jpg)
+
+![Mikkel Bennedsen, *A New Statistical Reduced Complexity Climate Model*](/images/ed2023/IMG_3955.jpg)
+
+![Mikkel Bennedsen, *A New Statistical Reduced Complexity Climate Model*](/images/ed2023/IMG_3957.jpg)
+
+:::
+
