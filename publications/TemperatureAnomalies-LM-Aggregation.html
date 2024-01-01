@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="J.E. Vera-Valdés">
+<meta name="dcterms.date" content="2021-02-24">
 
-<title>Climate Research - Earth Day</title>
+<title>Climate Research - Temperature Anomalies, Long Memory, and Aggregation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +22,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -63,13 +99,14 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Climate Research - Earth Day">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Climate Research - Temperature Anomalies, Long Memory, and Aggregation">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://climateaau.github.io//images/earth_day_cc.png">
+<meta property="og:image" content="https://climateaau.github.io//images/LM-Estimates-Temperatures.png">
 <meta property="og:site-name" content="Climate Research">
-<meta property="og:image:height" content="1240">
-<meta property="og:image:width" content="2000">
+<meta property="og:image:height" content="732">
+<meta property="og:image:width" content="840">
+<meta property="og:image:alt" content="Worldwide long memory estimates of temperature anomalies">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Climate Research</span>
     </a>
   </div>
@@ -90,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -99,17 +136,17 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-earth-day">    
         <li>
-    <a class="dropdown-item" href="./earthday2024.html" rel="" target="">
+    <a class="dropdown-item" href="../earthday2024.html" rel="" target="">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./previousevents/earthday2023.html" rel="" target="">
+    <a class="dropdown-item" href="../previousevents/earthday2023.html" rel="" target="">
  <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./climateeconometrics.html" rel="" target="">
+    <a class="nav-link" href="../climateeconometrics.html" rel="" target="">
  <span class="menu-text">Research Projects</span></a>
   </li>  
 </ul>
@@ -129,8 +166,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#history" id="toc-history" class="nav-link active" data-scroll-target="#history">History</a></li>
-  <li><a href="#aalborg-university" id="toc-aalborg-university" class="nav-link" data-scroll-target="#aalborg-university">Aalborg University</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">Download</a></li>
+  <li><a href="#recommended-citation" id="toc-recommended-citation" class="nav-link" data-scroll-target="#recommended-citation">Recommended citation</a></li>
   </ul>
 </nav>
     </div>
@@ -139,14 +177,32 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Earth Day</h1>
-</div>
+<h1 class="title">Temperature Anomalies, Long Memory, and Aggregation</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Published</div>
+    <div class="quarto-category">Climate Econometrics</div>
+    <div class="quarto-category">Long Memory</div>
+    <div class="quarto-category">Data Science</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>J.E. Vera-Valdés </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 24, 2021</p>
+    </div>
+  </div>
   
     
   </div>
@@ -154,15 +210,37 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection.</p>
-<section id="history" class="level2">
-<h2 class="anchored" data-anchor-id="history">History</h2>
-<p>First celebrated in 1970, it now includes events coordinated globally by the <a href="https://www.earthday.org/">Earth Day Network</a> in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (<a href="https://www.unesco.org/en">UNESCO</a>) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.</p>
-<p>Source: <a href="https://earthdayalliance.com/earth-day-the-story/">Earth Day Alliance</a>.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Econometric studies for global heating have typically used regional or global temperature averages to study its long memory properties. One typical explanation behind the long memory properties of temperature averages is cross-sectional aggregation. Nonetheless, formal analysis regarding the effect that aggregation has on the long memory dynamics of temperature data has been missing. Thus, this paper studies the long memory properties of individual grid temperatures and compares them against the long memory dynamics of global and regional averages. Our results show that the long memory parameters in individual grid observations are smaller than those from regional averages. Global and regional long memory estimates are greatly affected by temperature measurements at the Tropics, where the data is less reliable. Thus, this paper supports the notion that aggregation may be exacerbating the long memory estimated in regional and global temperature data. The results are robust to the bandwidth parameter, limit for station radius of influence, and sampling frequency.</p>
 </section>
-<section id="aalborg-university" class="level2">
-<h2 class="anchored" data-anchor-id="aalborg-university">Aalborg University</h2>
-<p>At Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the <a href="https://www.math.aau.dk/">Department of Mathematical Sciences</a>, and is open to all students and staff at <a href="https://www.en.aau.dk/">Aalborg University</a> and the general public.</p>
+<section id="download" class="level2">
+<h2 class="anchored" data-anchor-id="download">Download</h2>
+<p>The version of record can be freely (open access) downloaded <a href="https://www.mdpi.com/2225-1146/9/1/9">here</a>.</p>
+</section>
+<section id="recommended-citation" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-citation">Recommended citation</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Text</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">BibTex</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p>Vera-Valdés, J.E. (2021). “Temperature Anomalies, Long Memory, and Aggregation.” Econometrics. 9(1). https://www.mdpi.com/2225-1146/9/1/9</p>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">VERAVALDES2021c</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="dt">title</span> = {Temperature Anomalies, Long Memory, and Aggregation},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="dt">journal</span> = {Econometrics},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="dt">volume</span> = {9},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="dt">number</span> = {1},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="dt">year</span> = {2021},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="dt">doi</span> = {10.3390/econometrics9010009},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="dt">url</span> = {https://www.mdpi.com/2225-1146/9/1/9},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="dt">issn</span> = {2225-1146},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="dt">author</span> = {Vera-Valdés, J.E.},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+</div>
 
 
 </section>

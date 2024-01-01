@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://climateaau.github.io/publications/TemperatureAnomalies-LM-Aggregation.html</loc>
+    <lastmod>2024-01-01T20:46:03.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/publications/HighFrequencyEnergyStocks.html</loc>
+    <lastmod>2024-01-01T20:45:57.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/publications/AirPollutionCausality-MCMA-COVID19.html</loc>
+    <lastmod>2024-01-01T20:45:54.832Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/previousevents/earthday2023_schedule.html</loc>
+    <lastmod>2024-01-01T20:45:49.014Z</lastmod>
+  </url>
+  <url>
     <loc>https://climateaau.github.io/previousevents/earthday2023.html</loc>
-    <lastmod>2024-01-01T17:45:50.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climateaau.github.io/index.html</loc>
-    <lastmod>2024-01-01T17:45:49.560Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climateaau.github.io/climateeconometrics.html</loc>
-    <lastmod>2024-01-01T17:45:48.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climateaau.github.io/about.html</loc>
-    <lastmod>2024-01-01T17:45:46.563Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climateaau.github.io/aboutearthday.html</loc>
-    <lastmod>2024-01-01T17:45:47.466Z</lastmod>
+    <lastmod>2024-01-01T20:45:44.547Z</lastmod>
   </url>
   <url>
     <loc>https://climateaau.github.io/earthday2024.html</loc>
-    <lastmod>2024-01-01T17:45:48.882Z</lastmod>
+    <lastmod>2024-01-01T20:45:38.503Z</lastmod>
   </url>
   <url>
-    <loc>https://climateaau.github.io/previousearthdays.html</loc>
-    <lastmod>2024-01-01T17:45:50.279Z</lastmod>
+    <loc>https://climateaau.github.io/aboutearthday.html</loc>
+    <lastmod>2024-01-01T20:45:35.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/about.html</loc>
+    <lastmod>2024-01-01T20:45:34.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/climateeconometrics.html</loc>
+    <lastmod>2024-01-01T20:45:37.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/index.html</loc>
+    <lastmod>2024-01-01T20:45:41.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/previousevents/earthday2023_hackathon.html</loc>
+    <lastmod>2024-01-01T20:45:46.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/publications/AirPollutionCarrier-COVID19.html</loc>
+    <lastmod>2024-01-01T20:45:52.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/publications/FinancialVolatilityAfterPA.html</loc>
+    <lastmod>2024-01-01T20:45:56.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climateaau.github.io/publications/Nonfractional-LRD.html</loc>
+    <lastmod>2024-01-01T20:46:00.479Z</lastmod>
   </url>
 </urlset>

@@ -1,24 +1,164 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Climate Research at Aalborg University",
+    "objectID": "publications/TemperatureAnomalies-LM-Aggregation.html",
+    "href": "publications/TemperatureAnomalies-LM-Aggregation.html",
+    "title": "Temperature Anomalies, Long Memory, and Aggregation",
     "section": "",
-    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day events and Climate Econometrics research projects at the University."
+    "text": "Econometric studies for global heating have typically used regional or global temperature averages to study its long memory properties. One typical explanation behind the long memory properties of temperature averages is cross-sectional aggregation. Nonetheless, formal analysis regarding the effect that aggregation has on the long memory dynamics of temperature data has been missing. Thus, this paper studies the long memory properties of individual grid temperatures and compares them against the long memory dynamics of global and regional averages. Our results show that the long memory parameters in individual grid observations are smaller than those from regional averages. Global and regional long memory estimates are greatly affected by temperature measurements at the Tropics, where the data is less reliable. Thus, this paper supports the notion that aggregation may be exacerbating the long memory estimated in regional and global temperature data. The results are robust to the bandwidth parameter, limit for station radius of influence, and sampling frequency."
   },
   {
-    "objectID": "index.html#earth-day-events",
-    "href": "index.html#earth-day-events",
-    "title": "Climate Research at Aalborg University",
-    "section": "Earth Day Events",
-    "text": "Earth Day Events\nThe Department of Mathematical Sciences organizes the yearly “Mathematics and Statistics for Climate Change Research” events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.\nThe events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.\nThe next Earth Day will be on April 22, 2024. For more information about the next event, follow this link. For previous events, follow this link.\nIf you want to know more about Earth day, follow this link."
+    "objectID": "publications/TemperatureAnomalies-LM-Aggregation.html#abstract",
+    "href": "publications/TemperatureAnomalies-LM-Aggregation.html#abstract",
+    "title": "Temperature Anomalies, Long Memory, and Aggregation",
+    "section": "",
+    "text": "Econometric studies for global heating have typically used regional or global temperature averages to study its long memory properties. One typical explanation behind the long memory properties of temperature averages is cross-sectional aggregation. Nonetheless, formal analysis regarding the effect that aggregation has on the long memory dynamics of temperature data has been missing. Thus, this paper studies the long memory properties of individual grid temperatures and compares them against the long memory dynamics of global and regional averages. Our results show that the long memory parameters in individual grid observations are smaller than those from regional averages. Global and regional long memory estimates are greatly affected by temperature measurements at the Tropics, where the data is less reliable. Thus, this paper supports the notion that aggregation may be exacerbating the long memory estimated in regional and global temperature data. The results are robust to the bandwidth parameter, limit for station radius of influence, and sampling frequency."
   },
   {
-    "objectID": "index.html#climate-econometrics-research-projects",
-    "href": "index.html#climate-econometrics-research-projects",
-    "title": "Climate Research at Aalborg University",
-    "section": "Climate Econometrics Research Projects",
-    "text": "Climate Econometrics Research Projects\nThe Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow this link.\n\nAbout the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
+    "objectID": "publications/TemperatureAnomalies-LM-Aggregation.html#download",
+    "href": "publications/TemperatureAnomalies-LM-Aggregation.html#download",
+    "title": "Temperature Anomalies, Long Memory, and Aggregation",
+    "section": "Download",
+    "text": "Download\nThe version of record can be freely (open access) downloaded here."
+  },
+  {
+    "objectID": "publications/TemperatureAnomalies-LM-Aggregation.html#recommended-citation",
+    "href": "publications/TemperatureAnomalies-LM-Aggregation.html#recommended-citation",
+    "title": "Temperature Anomalies, Long Memory, and Aggregation",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2021). “Temperature Anomalies, Long Memory, and Aggregation.” Econometrics. 9(1). https://www.mdpi.com/2225-1146/9/1/9\n\n\n@article{VERAVALDES2021c,\ntitle = {Temperature Anomalies, Long Memory, and Aggregation},\njournal = {Econometrics},\nvolume = {9},\nnumber = {1},\nyear = {2021},\ndoi = {10.3390/econometrics9010009},\nurl = {https://www.mdpi.com/2225-1146/9/1/9},\nissn = {2225-1146},\nauthor = {Vera-Valdés, J.E.},\n}"
+  },
+  {
+    "objectID": "publications/HighFrequencyEnergyStocks.html",
+    "href": "publications/HighFrequencyEnergyStocks.html",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "",
+    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
+  },
+  {
+    "objectID": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "href": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "",
+    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
+  },
+  {
+    "objectID": "publications/HighFrequencyEnergyStocks.html#download",
+    "href": "publications/HighFrequencyEnergyStocks.html#download",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "Download",
+    "text": "Download\nThe paper can be downloaded here."
+  },
+  {
+    "objectID": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "href": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nKvist, O., and Vera-Valdés, J.E. (2024). “The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis.”\n\n\n@article{VERAVALDES2024,\ntitle = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},\nyear = {2024},\nauthor = {Kvist, O., and Vera-Valdés, J.E.},\n}"
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "Highlights",
+    "text": "Highlights\n\nAir pollution did not decrease following the restrictions imposed due to COVID-19.\nMobility in public transit systems in the MCMA decreased by more than 65%.\nPublic transport mobility does not Granger-cause air pollution after COVID-19."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "Download",
+    "text": "Download\nDownload the paper freely (open access) here."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
+  },
+  {
+    "objectID": "previousevents/earthday2023_schedule.html",
+    "href": "previousevents/earthday2023_schedule.html",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "Schedule\n\n8:25-8:30 Welcome\n8:30-8:55 “Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach” by Mikkel Mandrup, Aalborg University\n8:55-9:20 “The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks” by Olivia Kvist, Aalborg University\n9:20-9:30 Coffe break\n9:30-9:55 “Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data” by Jingying Zhou Lykke, Aarhus University [Link to the article]\n9:55-10:20 “A New Statistical Reduced Complexity Climate Model” by Mikkel Bennedsen, Aarhus University\n10:20-10:50 Coffe + Cake break\n10:50-11:00 Hackathon rules\n11:00-14:30 Hackathon with pizza drop around noon\n14:30-15:00 Evaluation of solutions\n15:00 Hackathon Winner Announcement\n15:00-17:00 Meme Competition (Fridays Bar adjacent)\n18:30 Event Dinner\n\nPresentations are 20 minutes + 5 minutes for questions."
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#organizers",
+    "href": "previousevents/earthday2023.html#organizers",
+    "title": "Earth Day 2023",
+    "section": "Organizers",
+    "text": "Organizers\n\nJ. Eduardo Vera Valdés\nChristophe Biscio\nYossi Bleile"
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#sponsorship",
+    "href": "previousevents/earthday2023.html#sponsorship",
+    "title": "Earth Day 2023",
+    "section": "Sponsorship",
+    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA."
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#about-earth-day",
+    "href": "previousevents/earthday2023.html#about-earth-day",
+    "title": "Earth Day 2023",
+    "section": "About Earth Day",
+    "text": "About Earth Day\nIf you want to know more about Earth day, follow this link."
+  },
+  {
+    "objectID": "earthday2024.html#call-for-participation",
+    "href": "earthday2024.html#call-for-participation",
+    "title": "Earth Day 2024",
+    "section": "Call for Participation",
+    "text": "Call for Participation\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information."
+  },
+  {
+    "objectID": "earthday2024.html#organizers",
+    "href": "earthday2024.html#organizers",
+    "title": "Earth Day 2024",
+    "section": "Organizers",
+    "text": "Organizers\n\nJ. Eduardo Vera Valdés\nOlivia Kvist\nChristophe Biscio\nYossi Bleile"
+  },
+  {
+    "objectID": "earthday2024.html#about-earth-day",
+    "href": "earthday2024.html#about-earth-day",
+    "title": "Earth Day 2024",
+    "section": "About Earth Day",
+    "text": "About Earth Day\nIf you want to know more about Earth Day, follow this link."
+  },
+  {
+    "objectID": "aboutearthday.html",
+    "href": "aboutearthday.html",
+    "title": "Earth Day",
+    "section": "",
+    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection."
+  },
+  {
+    "objectID": "aboutearthday.html#history",
+    "href": "aboutearthday.html#history",
+    "title": "Earth Day",
+    "section": "History",
+    "text": "History\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (UNESCO) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\nSource: Earth Day Alliance."
+  },
+  {
+    "objectID": "aboutearthday.html#aalborg-university",
+    "href": "aboutearthday.html#aalborg-university",
+    "title": "Earth Day",
+    "section": "Aalborg University",
+    "text": "Aalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
   },
   {
     "objectID": "about.html",
@@ -35,24 +175,164 @@
     "text": "This site was created to promote the climate related-research at Aalborg University."
   },
   {
-    "objectID": "aboutearthday.html",
-    "href": "aboutearthday.html",
-    "title": "Earth Day",
+    "objectID": "climateeconometrics.html",
+    "href": "climateeconometrics.html",
+    "title": "Research Projects",
     "section": "",
-    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection.\n\nHistory\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a UNESCO Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\n\n\nAalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
+    "text": "Climate Econometrics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "earthday2024.html",
-    "href": "earthday2024.html",
-    "title": "Earth Day 2024",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Climate Research at Aalborg University",
     "section": "",
-    "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés."
+    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day Events and Climate Econometrics Research Projects at the University."
   },
   {
-    "objectID": "previousearthdays.html",
-    "href": "previousearthdays.html",
-    "title": "Previous Earth Day Events",
+    "objectID": "index.html#earth-day-events",
+    "href": "index.html#earth-day-events",
+    "title": "Climate Research at Aalborg University",
+    "section": "Earth Day Events",
+    "text": "Earth Day Events\nThe Department of Mathematical Sciences organizes the yearly “Mathematics and Statistics for Climate Change Research” events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.\nThe events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.\nThe next Earth Day will be on April 22, 2024. For more information about the next event, follow this link.\nIf you want to know more about Earth day, follow this link."
+  },
+  {
+    "objectID": "index.html#climate-econometrics-research-projects",
+    "href": "index.html#climate-econometrics-research-projects",
+    "title": "Climate Research at Aalborg University",
+    "section": "Climate Econometrics Research Projects",
+    "text": "Climate Econometrics Research Projects\nThe Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow this link.\n\nAbout the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html",
+    "href": "previousevents/earthday2023_hackathon.html",
+    "title": "Earth Day 2023",
     "section": "",
-    "text": "Earth Day 2023\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The winner of the Earth Day 2023 Hackathon is:\n\nTobias Kallehauge\n\nRunners ups:\n\nMartin Voigt Vejling\nMikkel Mandrup Nielsen\n\n\n\n\n\nThe files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023\n\n\n\n\n\nIn this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf\n\n\n\n\n\nThe repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7).\n\n\n\n\nYour goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset.\n\n\n\nYou will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up."
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#results",
+    "href": "previousevents/earthday2023_hackathon.html#results",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "The winner of the Earth Day 2023 Hackathon is:\n\nTobias Kallehauge\n\nRunners ups:\n\nMartin Voigt Vejling\nMikkel Mandrup Nielsen"
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#repository",
+    "href": "previousevents/earthday2023_hackathon.html#repository",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "The files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023"
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#instructions",
+    "href": "previousevents/earthday2023_hackathon.html#instructions",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "In this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf"
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#data",
+    "href": "previousevents/earthday2023_hackathon.html#data",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "The repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7)."
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#the-task",
+    "href": "previousevents/earthday2023_hackathon.html#the-task",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "Your goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset."
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#the-format",
+    "href": "previousevents/earthday2023_hackathon.html#the-format",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "You will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html",
+    "href": "publications/AirPollutionCarrier-COVID19.html",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "",
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "",
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
+    "href": "publications/AirPollutionCarrier-COVID19.html#download",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "Download",
+    "text": "Download\nDownload the paper freely (open access) here."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
+  },
+  {
+    "objectID": "publications/FinancialVolatilityAfterPA.html",
+    "href": "publications/FinancialVolatilityAfterPA.html",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "section": "",
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+  },
+  {
+    "objectID": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "href": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "section": "",
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+  },
+  {
+    "objectID": "publications/FinancialVolatilityAfterPA.html#download",
+    "href": "publications/FinancialVolatilityAfterPA.html#download",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "section": "Download",
+    "text": "Download\nThe paper can be downloaded here."
+  },
+  {
+    "objectID": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "href": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2024). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.”\n\n\n@article{VERAVALDES2024,\ntitle = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\nyear = {2024},\nauthor = {Vera-Valdés, J.E., and Kvist, O.},\n}"
+  },
+  {
+    "objectID": "publications/Nonfractional-LRD.html",
+    "href": "publications/Nonfractional-LRD.html",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
+    "section": "",
+    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
+  },
+  {
+    "objectID": "publications/Nonfractional-LRD.html#abstract",
+    "href": "publications/Nonfractional-LRD.html#abstract",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
+    "section": "",
+    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
+  },
+  {
+    "objectID": "publications/Nonfractional-LRD.html#download",
+    "href": "publications/Nonfractional-LRD.html#download",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
+    "section": "Download",
+    "text": "Download\nThe version of record can be freely (open access) downloaded here."
+  },
+  {
+    "objectID": "publications/Nonfractional-LRD.html#recommended-citation",
+    "href": "publications/Nonfractional-LRD.html#recommended-citation",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2021). “Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation.” Econometrics. 9(39). https://www.mdpi.com/2225-1146/9/4/39\n\n\n@article{VERAVALDES2021c,\ntitle = {Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation},\njournal = {Econometrics},\nvolume = {9},\nnumber = {4},\nyear = {2021},\ndoi = {10.3390/econometrics9010009},\nurl = {https://www.mdpi.com/2225-1146/9/4/39},\nissn = {2225-1146},\nauthor = {J.E. Vera-Valdés},\n}"
   }
 ]

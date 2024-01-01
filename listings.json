@@ -1,8 +1,13 @@
 [
   {
-    "listing": "/previousearthdays.html",
+    "listing": "/climateeconometrics.html",
     "items": [
-      "/previousevents/earthday2023.html"
+      "/publications/AirPollutionCausality-MCMA-COVID19.html",
+      "/publications/AirPollutionCarrier-COVID19.html",
+      "/publications/FinancialVolatilityAfterPA.html",
+      "/publications/Nonfractional-LRD.html",
+      "/publications/TemperatureAnomalies-LM-Aggregation.html",
+      "/publications/HighFrequencyEnergyStocks.html"
     ]
   }
 ]
