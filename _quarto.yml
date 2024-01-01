@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Climate Research at AAU"
@@ -8,7 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - earthday2024.qmd
+      - text: Earth Day
+        menu:
+          - href: earthday2024.qmd
+            text: "2024"
+          - href: previousearthdays.qmd
+            text: Previous Events
       - climateeconometrics.qmd
       - about.qmd
   open-graph: true

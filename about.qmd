@@ -1,7 +1,8 @@
 ---
-title: "About"
+title: "The Team"
 ---
 
 ## About this site
 
 This site was created to promote the climate related-research at Aalborg University. 
+
