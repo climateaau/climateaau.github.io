@@ -1,0 +1,35 @@
+---
+title: "Earth Day 2023"
+subtitle: "Data Science to Combat Global Heating"
+image: /images/earth_day_cc.png
+---
+
+# Schedule
+
+- 8:25-8:30 Welcome
+
+- 8:30-8:55 "**Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach**" by *Mikkel Mandrup*, Aalborg University
+
+- 8:55-9:20 "**The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks**" by *Olivia Kvist*, Aalborg University
+
+- 9:20-9:30 Coffe break 
+
+- 9:30-9:55 "**Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data**" by *Jingying Zhou Lykke*, Aarhus University [Link to the article]
+
+- 9:55-10:20 “**A New Statistical Reduced Complexity Climate Model**" by *Mikkel Bennedsen*, Aarhus University
+
+- 10:20-10:50 Coffe + Cake break
+
+- 10:50-11:00 [Hackathon rules](earthday2023.qmd#hackathon)
+
+- 11:00-14:30 Hackathon with pizza drop around noon
+
+- 14:30-15:00 Evaluation of solutions
+
+- 15:00 Hackathon Winner Announcement
+
+- 15:00-17:00 Meme Competition (Fridays Bar adjacent)
+
+- 18:30 Event Dinner
+
+Presentations are 20 minutes + 5 minutes for questions.

@@ -2,20 +2,40 @@ project:
   type: website
 
 website:
-  title: "Climate Research at AAU"
+  title: "Climate Research"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: Earth Day
+      - text: "Home"
+        file: index.qmd
+      - text: "Earth Day"
         menu:
-          - href: earthday2024.qmd
-            text: "2024"
-          - href: previousearthdays.qmd
-            text: Previous Events
-      - climateeconometrics.qmd
-      - about.qmd
+          - sidebar:ed2024  
+          - sidebar:ed2023
+      - text: "Research Projects"
+        file: climateeconometrics.qmd
+        
   open-graph: true
+
+  sidebar:
+    - id: ed2023
+      title: "2023"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "Earth Day 2023"
+          file: previousevents/earthday2023.qmd
+        - text: "Schedule"
+          file: previousevents/earthday2023_schedule.qmd
+        - text: "Hackathon"
+          file: previousevents/earthday2023_hackathon.qmd
+
+    - id: ed2024
+      title: "2024"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "Earth Day 2024"
+          file: earthday2024.qmd
 
 format:
   html:

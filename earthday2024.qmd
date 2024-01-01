@@ -1,7 +1,41 @@
 ---
 title: "Earth Day 2024"
+subtitle: "Data Science to Combat Global Heating"
+image: /images/earth_day_cc.png
 ---
+
+![](/images/earth_day_cc.png){fig-alt="Earth Day Poster."}
+
+# Announcement
 
 The next Earth Day will be on April 22, 2024.
 
 More information will be available closer to the date. For questions, please contact [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk).
+
+## Call for Participation
+
+We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:
+
+- Data science for climate change
+- Data science for sustainability
+- Data science for the environment
+- Data science for the energy transition
+
+Where the term "data science" is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.
+
+If you are interested in participating, please send an email to [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk) for more information.
+
+
+## Organizers
+
+- [J. Eduardo Vera Valdés](https://everval.github.io/)
+
+- [Olivia Kvist](https://www.linkedin.com/in/olivia-kvist-813251216/)
+
+- [Christophe Biscio](https://biscio.github.io/)
+
+- [Yossi Bleile](https://github.com/yossibokorbleile)
+
+## About Earth Day
+
+If you want to know more about Earth Day, follow [this link](aboutearthday.qmd).

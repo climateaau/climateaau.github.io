@@ -1,3 +1,47 @@
 ---
 title: "Earth Day 2023"
+subtitle: "Data Science to Combat Global Heating"
+image: /images/earth_day_cc.png
 ---
+
+![](/images/earth_day_cc.png){fig-alt="Earth Day Poster."}
+
+# Announcement
+
+The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the "**Data Science to Combat Global Heating**" event commemorating Earth Day 2023.  The event consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.
+
+The event will feature:
+
+- **Research presentations by invited speakers and faculty members** on how Mathematics, Statistics, and Data Science are used for Climate Change Research.
+
+- **A climate-related hackathon** where you can apply your data science skills to solve real-world problems related to climate change. 
+    - **Free pizza🍕 and drinks🥤for all participants in the hackathon** (indicate dietary constraints at registration).
+    - **Prizes for the best solutions**.
+
+- A climate change-related ***meme competition***.
+
+**Date**: April 28th, 2023.
+
+**Time**: 8:00 am - 5:00 pm.
+
+**Location**: Department of Mathematical Sciences at Aalborg University. (Skjernvej 4A, 9220)
+
+**Registration**: Closed.
+
+Don't miss this opportunity to learn more about how Mathematics, Statistics, and Data Science can make a difference in addressing one of the most challenging problems of our times. We hope to see you there!
+
+## Organizers
+
+- [J. Eduardo Vera Valdés](https://everval.github.io/)
+
+- [Christophe Biscio](https://biscio.github.io/)
+
+- [Yossi Bleile](https://github.com/yossibokorbleile)
+
+## Sponsorship
+
+This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.dk/).
+
+## About Earth Day
+
+If you want to know more about Earth day, follow [this link](aboutearthday.qmd).

@@ -1,0 +1,36 @@
+---
+title: "The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis"
+author: ["O. Kvist", "J.E. Vera-Valdés"]
+date: "2024/01/02"
+image: /images/HF_RBV.png
+image-alt: "High frequency jump test on energy stocks"
+categories: ["Working Paper", "Climate Econometrics", "Data Science"]
+---
+
+## Abstract
+
+We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement.
+
+## Download
+
+The paper can be downloaded [here]().
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Kvist, O., and Vera-Valdés, J.E. (2024). "The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis." 
+
+### BibTex
+
+```bibtex
+@article{VERAVALDES2024,
+title = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},
+year = {2024},
+author = {Kvist, O., and Vera-Valdés, J.E.},
+}
+```
+
+:::

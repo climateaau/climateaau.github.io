@@ -1,9 +1,0 @@
----
-title: "Previous Earth Day Events"
-listing:
-    contents: previousevents/
-    type: grid
-    fields: [title, description, image]
-    sort: "date desc"
----
-

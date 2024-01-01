@@ -1,0 +1,45 @@
+---
+title: "Temperature Anomalies, Long Memory, and Aggregation"
+author: ["J.E. Vera-Valdés"]
+date: "2021/02/24"
+image: /images/LM-Estimates-Temperatures.png
+image-alt: "Worldwide long memory estimates of temperature anomalies"
+categories: ["Published", "Climate Econometrics", "Long Memory", "Data Science"]
+---
+
+## Abstract
+
+Econometric studies for global heating have typically used regional or global temperature averages to study its long memory properties. One typical explanation behind the long memory properties of temperature averages is cross-sectional aggregation. Nonetheless, formal analysis regarding the effect that aggregation has on the long memory dynamics of temperature data has been missing. Thus, this paper studies the long memory properties of individual grid temperatures and compares them against the long memory dynamics of global and regional averages. Our results show that the long memory parameters in individual grid observations are smaller than those from regional averages. Global and regional long memory estimates are greatly affected by temperature measurements at the Tropics, where the data is less reliable. Thus, this paper supports the notion that aggregation may be exacerbating the long memory estimated in regional and global temperature data. The results are robust to the bandwidth parameter, limit for station radius of influence, and sampling frequency.
+
+
+## Download
+
+The version of record can be freely (open access) downloaded [here](https://www.mdpi.com/2225-1146/9/1/9).
+
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Vera-Valdés, J.E. (2021). "Temperature Anomalies, Long Memory, and Aggregation." Econometrics. 9(1). https://www.mdpi.com/2225-1146/9/1/9
+
+### BibTex
+
+```bibtex
+@article{VERAVALDES2021c,
+title = {Temperature Anomalies, Long Memory, and Aggregation},
+journal = {Econometrics},
+volume = {9},
+number = {1},
+year = {2021},
+doi = {10.3390/econometrics9010009},
+url = {https://www.mdpi.com/2225-1146/9/1/9},
+issn = {2225-1146},
+author = {Vera-Valdés, J.E.},
+}
+
+```
+
+:::

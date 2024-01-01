@@ -1,0 +1,45 @@
+---
+title: "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation"
+author: ["J.E. Vera-Valdés"]
+date: "2021/10/12"
+image: /images/CSA-TemperatureAnomalies.png
+image-alt: "CSA model estiamted on temperature anomalies"
+categories: ["Published", "Long Memory", "Forecasting", "Climate Econometrics"]
+---
+
+## Abstract
+
+This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator.
+
+
+## Download
+
+The version of record can be freely (open access) downloaded [here](https://www.mdpi.com/2225-1146/9/4/39).
+
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Vera-Valdés, J.E. (2021). "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation." Econometrics. 9(39). https://www.mdpi.com/2225-1146/9/4/39
+
+### BibTex
+
+```bibtex
+@article{VERAVALDES2021c,
+title = {Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation},
+journal = {Econometrics},
+volume = {9},
+number = {4},
+year = {2021},
+doi = {10.3390/econometrics9010009},
+url = {https://www.mdpi.com/2225-1146/9/4/39},
+issn = {2225-1146},
+author = {J.E. Vera-Valdés},
+}
+
+```
+
+:::

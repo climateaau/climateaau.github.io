@@ -1,0 +1,43 @@
+---
+title: "Air Pollution and Mobility, What Drives COVID-19?"
+author: ["Rodríguez-Caballero, C.V.", "J.E. Vera-Valdés"]
+date: "2021/09/24"
+image: /images/AirPollutionCarrier-COVID19.png
+image-alt: "Mobility common factor COVID-19 spread"
+categories: ["Published", "Data Science", "COVID-19"]
+---
+
+## Abstract
+
+This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns.
+
+## Download
+
+Download the paper freely (open access) [here](https://www.mdpi.com/2225-1146/9/4/37).
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Rodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). "Air Pollution and Mobility, What Drives COVID-19?." Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37
+
+### BibTex
+
+```bibtex
+@article{VERAVALDES2021c,
+title = {Air Pollution and Mobility, What Drives COVID-19?},
+author = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},
+journal = {Econometrics},
+volume = {9},
+year = {2021},
+number = {4},
+issue = {37},
+url = {https://www.mdpi.com/2225-1146/9/4/37},
+doi = {10.3390/econometrics9040037}
+}
+
+```
+
+:::
