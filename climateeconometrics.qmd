@@ -3,11 +3,10 @@ title: "Research Projects"
 sidebar: false
 listing:
     contents: publications/
-    type: grid
+    type: default
     fields: [title, author, description, image]
     categories: false
     sort: "title asc"
 ---
 
-# Climate Econometrics
 
