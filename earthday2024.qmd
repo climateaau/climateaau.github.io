@@ -28,9 +28,15 @@ If you are interested in participating, please send an email to [J. Eduardo Vera
 
 ## Organizers
 
-- [J. Eduardo Vera Valdés](https://everval.github.io/)
+### Scientific Committee
+
+- [J. Eduardo Vera-Valdés](https://everval.github.io/)
 
 - [Olivia Kvist](https://www.linkedin.com/in/olivia-kvist-813251216/)
+
+### Hackathon Committee
+
+- [J. Eduardo Vera-Valdés](https://everval.github.io/)
 
 - [Christophe Biscio](https://biscio.github.io/)
 
