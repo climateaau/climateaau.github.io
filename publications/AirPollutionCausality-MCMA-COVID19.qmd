@@ -2,6 +2,7 @@
 title: "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19"
 author: ["J.E. Vera-Valdés", "C.V. Rodríguez-Caballero"]
 date: "2023/01/23"
+date-format: "YYYY"
 image: /images/AirPollutionMCMA-COVID19.png
 image-alt: "Mobility indexes in the MCMA during COVID-19"
 categories: ["Published", "Data Science", "COVID-19"]

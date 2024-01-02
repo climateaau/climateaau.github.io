@@ -2,6 +2,7 @@
 title: "The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis"
 author: ["O. Kvist", "J.E. Vera-Valdés"]
 date: "2024/01/02"
+date-format: "YYYY"
 image: /images/HF_RBV.png
 image-alt: "High frequency jump test on energy stocks"
 categories: ["Working Paper", "Climate Econometrics", "Data Science"]

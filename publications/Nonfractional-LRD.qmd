@@ -2,6 +2,7 @@
 title: "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation"
 author: ["J.E. Vera-Valdés"]
 date: "2021/10/12"
+date-format: "YYYY"
 image: /images/CSA-TemperatureAnomalies.png
 image-alt: "CSA model estiamted on temperature anomalies"
 categories: ["Published", "Long Memory", "Forecasting", "Climate Econometrics"]

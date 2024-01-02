@@ -2,6 +2,7 @@
 title: "Temperature Anomalies, Long Memory, and Aggregation"
 author: ["J.E. Vera-Valdés"]
 date: "2021/02/24"
+date-format: "YYYY"
 image: /images/LM-Estimates-Temperatures.png
 image-alt: "Worldwide long memory estimates of temperature anomalies"
 categories: ["Published", "Climate Econometrics", "Long Memory", "Data Science"]

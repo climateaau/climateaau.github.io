@@ -2,6 +2,7 @@
 title: "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis"
 author: ["J.E. Vera-Valdés", "O. Kvist"]
 date: "2024/01/01"
+date-format: "YYYY"
 image: /images/LM_Paris_Energy_LW_PRE_LogReturns.png
 image-alt: "Violing plots long memory estimate climate stocks after Paris Agreement"
 categories: ["Working Paper", "Climate Econometrics", "COVID-19", "Long Memory", "Data Science"]

@@ -2,6 +2,7 @@
 title: "Air Pollution and Mobility, What Drives COVID-19?"
 author: ["Rodríguez-Caballero, C.V.", "J.E. Vera-Valdés"]
 date: "2021/09/24"
+date-format: "YYYY"
 image: /images/AirPollutionCarrier-COVID19.png
 image-alt: "Mobility common factor COVID-19 spread"
 categories: ["Published", "Data Science", "COVID-19"]
