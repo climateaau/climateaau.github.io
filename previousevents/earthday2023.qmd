@@ -44,4 +44,4 @@ This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.d
 
 ## About Earth Day
 
-If you want to know more about Earth day, follow [this link](aboutearthday.qmd).
+If you want to know more about Earth day, follow [this link](../aboutearthday.qmd).
