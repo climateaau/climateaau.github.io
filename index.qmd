@@ -1,5 +1,5 @@
 ---
-title: "Climate Research at [Aalborg University](https://www.en.aau.dk/)"
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Climate Research at [Aalborg University](https://www.en.aau.dk/)"
 sidebar: false
 ---
 

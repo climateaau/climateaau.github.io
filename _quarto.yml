@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Climate Research"
+  title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=8%} Climate Research"
   navbar:
     left:
       - text: "Home"

@@ -1,5 +1,5 @@
 ---
-title: "Earth Day 2023"
+title: "![AAU logo](../images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2023"
 subtitle: "Data Science to Combat Global Heating"
 image: /images/earth_day_cc.png
 ---
