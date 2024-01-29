@@ -25,6 +25,11 @@ Where the term "data science" is understood in a broad sense, including applied 
 
 If you are interested in participating, please send an email to [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk) for more information.
 
+## Cofirmed Speakers
+
+- [Eric Hillebrand](https://sites.google.com/site/erichillebrand/home), Professor of Econometrics, Aarhus University, Denmark. Board Member of the [Econometric Models of Climate Change Conference Series.](https://sites.google.com/view/emccconference/home)
+
+- [Mikel Bennedsen](https://sites.google.com/site/mbennedsen/), Associate Professor of Economics, Aarhus University, Denmark.
 
 ## Organizers
 
@@ -41,6 +46,10 @@ If you are interested in participating, please send an email to [J. Eduardo Vera
 - [Christophe Biscio](https://biscio.github.io/)
 
 - [Yossi Bleile](https://github.com/yossibokorbleile)
+
+## Sponsorship
+
+This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.dk/).
 
 ## About Earth Day
 
