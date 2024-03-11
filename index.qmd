@@ -21,6 +21,13 @@ If you want to know more about Earth day, follow [this link](aboutearthday.qmd).
 
 The [Department of Mathematical Sciences](https://earthdayalliance.com/earth-day-the-story/) hosts several research projects on Climate Econometrics. To get more information about the projects, follow [this link](climateeconometrics.qmd).
 
-### About the Website
+## Act Now
 
-The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/). Report any issues [here](mailto:eduardo@math.aau.dk).
+The time to act is now. We need to [act now](https://www.un.org/actnow) to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.
+
+![](/images/ActNow_UN_emblem_horizontal_E.png){fig-alt="Act Now Logo." width=70%}
+
+
+## About the Website
+
+The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/). Report any issues [here](mailto:eduardo@math.aau.dk). 

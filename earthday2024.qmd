@@ -1,6 +1,6 @@
 ---
 title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2024"
-subtitle: "Data Science to Combat Global Heating"
+subtitle: "Communicating Climate Change Research"
 image: /images/earth_day_cc.png
 ---
 
@@ -8,30 +8,47 @@ image: /images/earth_day_cc.png
 
 # Announcement
 
-The next Earth Day will be on April 22, 2024.
+The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the **Earth Day 2024 Event**. The theme for this year is "*Communicating Climate Change Research*".  
 
-More information will be available closer to the date. For questions, please contact [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk).
+The event is a day-long celebration of the importance and challenges of communicating climate change research to the public. *The event is open to researchers, students, and anyone who is interested in learning more about this pressing topic*. 
 
-## Call for Participation
+The event will take place on [April 22](https://www.earthday.org/), 2024, at [Aalborg University](https://www.en.aau.dk/), Denmark.
 
-We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:
 
-- Data science for climate change
-- Data science for sustainability
-- Data science for the environment
-- Data science for the energy transition
+## Event Program
 
-Where the term "data science" is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.
+The event features:
 
-If you are interested in participating, please send an email to [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk) for more information.
+- **Climate change research presentations** by invited speakers. You will get to hear about the latest findings and methods in this field, and how they can help us understand and address the complex issues of climate change. The talks are tailored for a general audience, so *no previous experience on the topics is needed*.
 
-## Cofirmed Speakers (Up to date)
+- **A climate-related hackacthon** to design the best way to communicate to the general public . The theme for this year means that the best solutions will come from cross-disciplinary collaboration between participants with different sets of skills. So, convince all your friends to join your team. *You don't need to be an expert to join*, just bring your enthusiasm and willingness to learn and work with others!
+
+    - Free pizza 🍕 and drinks 🥤 for all hackathon participants.
+ 
+- **A climate change-related meme-competition**. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event's website.
+
+
+## Confirmed Speakers (Up to date)
  
 - [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/), Associate Professor of Economics, Aarhus University, Denmark.
 
 - [Chiara Binelli](https://sites.google.com/view/chiara-binelli/home), Associate Professor of Economics, University of Bologna, Italy.
 
 - [Eric Hillebrand](https://sites.google.com/site/erichillebrand/home), Professor of Econometrics, Aarhus University, Denmark. Board Member of the [Econometric Models of Climate Change Conference Series.](https://sites.google.com/view/emccconference/home)
+
+- [Josué M. Polanco-Martínez](https://www.researchgate.net/profile/Josue-Polanco-Martinez), Assistant Professor of Statistics, University of Salamanca, Spain.
+
+## Date and Location
+
+- **Date**: April 22, 2024.
+
+- **Time**: 8:45 am to 5 pm organized as presentations from 8:45 am to 11 and hackathon from 11:30 to 5pm. Exact schedule will be announced soon.
+
+- **Location**: Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg.
+
+## Registration
+
+**The event is free and open to the public**. However, *registration is required*. To register, please fill out the form [here](https://forms.office.com/e/3mWbaZ5Kvy).
 
 ## Organizers
 
@@ -48,6 +65,13 @@ If you are interested in participating, please send an email to [J. Eduardo Vera
 - [Christophe Biscio](https://biscio.github.io/)
 
 - [Yossi Bleile](https://github.com/yossibokorbleile)
+
+
+## Act Now
+
+The time to act is now. We need to [act now](https://www.un.org/actnow) to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.
+
+![](/images/ActNow_UN_emblem_horizontal_E.png){fig-alt="Act Now Logo." width=70%}
 
 ## Sponsorship
 
