@@ -166,6 +166,34 @@
     "text": "About the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
   },
   {
+    "objectID": "earthday2024_hackathon.html",
+    "href": "earthday2024_hackathon.html",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "TBA.\n\n\n\n\nTBA.\n\n\n\nTBA."
+  },
+  {
+    "objectID": "earthday2024_hackathon.html#instructions",
+    "href": "earthday2024_hackathon.html#instructions",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "TBA."
+  },
+  {
+    "objectID": "earthday2024_hackathon.html#data",
+    "href": "earthday2024_hackathon.html#data",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "TBA."
+  },
+  {
+    "objectID": "earthday2024_hackathon.html#the-format",
+    "href": "earthday2024_hackathon.html#the-format",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "TBA."
+  },
+  {
     "objectID": "earthday2024.html#event-program",
     "href": "earthday2024.html#event-program",
     "title": " Earth Day 2024",
@@ -294,7 +322,7 @@
     "section": "",
     "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.\n\n\n\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.\n\n\n\n\nThis event is sponsored by the Danish Data Science Academy DDSA.\n\n\n\n\nIf you want to know more about Earth Day, follow this link.",
     "crumbs": [
-      "Call for Speakers [CLOSED]"
+      "Call for Speakers  "
     ]
   },
   {
@@ -304,7 +332,7 @@
     "section": "",
     "text": "We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.",
     "crumbs": [
-      "Call for Speakers [CLOSED]"
+      "Call for Speakers  "
     ]
   },
   {
@@ -314,7 +342,7 @@
     "section": "",
     "text": "The time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
     "crumbs": [
-      "Call for Speakers [CLOSED]"
+      "Call for Speakers  "
     ]
   },
   {
@@ -324,7 +352,7 @@
     "section": "",
     "text": "This event is sponsored by the Danish Data Science Academy DDSA.",
     "crumbs": [
-      "Call for Speakers [CLOSED]"
+      "Call for Speakers  "
     ]
   },
   {
@@ -334,7 +362,17 @@
     "section": "",
     "text": "If you want to know more about Earth Day, follow this link.",
     "crumbs": [
-      "Call for Speakers [CLOSED]"
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_schedule.html",
+    "href": "earthday2024_schedule.html",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "Schedule\n\n8:25-8:30 Welcome.\n8:30-9:00 “Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\n9:00-9:30 “Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli, Associate Professor, University of Bologna.\n9:30-10:00 “State space models for paleo time series” by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\n10:00-10:30 Coffee break.\n10:30-11:00 “Green portfolios” by Frederik Lundtofte, Professor, Aalborg University.\n11:00-11:30 “State space models for paleo time series” by Eric Hillebrand, Professor, Aarhus University.\n11:30-11:40 Break.\n11:40-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n12:00-17:00 Meme competition.\n18:30 Event dinner for speakers and organizers.\n\nPresentations are 25 minutes + 5 minutes for questions.",
+    "crumbs": [
+      "Schedule"
     ]
   },
   {
