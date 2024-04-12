@@ -38,7 +38,9 @@ website:
       contents:
         - text: "Earth Day 2024"
           file: earthday2024.qmd
-        - text: "Call for Speakers"
+        - text: "Schedule"
+          file: earthday2024_schedule.qmd
+        - text: "Call for Speakers  "
           file: earthday2024_callforspeakers.qmd
 
 format:

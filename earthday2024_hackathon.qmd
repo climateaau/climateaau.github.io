@@ -1,0 +1,22 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2024"
+subtitle: "Communicating Climate Change Research"
+image: /images/earth_day_cc.png
+---
+
+# Hackathon
+
+## Instructions
+
+### The task
+
+TBA.
+
+## Data
+
+TBA. 
+
+
+## The format
+
+TBA.

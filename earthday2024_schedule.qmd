@@ -6,32 +6,33 @@ image: /images/earth_day_cc.png
 
 # Schedule
 
-- 8:25-8:30 Welcome
+- 8:25-8:30 Welcome.
 
-- 8:30-9:00 "**Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach**" by *Mikkel Mandrup*, Aalborg University
+- 8:30-9:00 "**Estimating running correlations for two environmental time series: not running into problems**" by *[Josué Moisés Polanco Martínez](https://www.researchgate.net/profile/Josue-Polanco-Martinez)*, Assistant Professor, Universidad of Salamanca.
 
-- 9:00-9:30 "**The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks**" by *Olivia Kvist*, Aalborg University
+- 9:00-9:30 "**Climate change perceptions, environmental actions, support for policy, 
+and information provision: experimental evidence from the US**" by *[Chiara Binelli](https://sites.google.com/view/chiara-binelli/home)*, Associate Professor, University of Bologna.
 
-- 9:30-10:00 "**The Impact of Climate Change on the Global Economy**" by *Mikkel Bennedsen*, Aarhus University
+- 9:30-10:00 "**State space models for paleo time series**" by *[Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/)*, Associate Professor, Aarhus University. [Link to paper](https://arxiv.org/abs/2311.01053).
 
-- 10:00-10:30 Coffe break 
+- 10:00-10:30 Coffee break.
 
-- 10:30-11:00 "**Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data**" by *Jingying Zhou Lykke*, Aarhus University [Link to the article]
+- 10:30-11:00 "**Green portfolios**" by *[Frederik Lundtofte](https://sites.google.com/site/frederiklundtofte/)*, Professor, Aalborg University.
 
-- 11:00-11:30 “**A New Statistical Reduced Complexity Climate Model**" by *Mikkel Bennedsen*, Aarhus University
+- 11:00-11:30 “**State space models for paleo time series**" by *[Eric Hillebrand](https://sites.google.com/site/erichillebrand/)*, Professor, Aarhus University.
 
-- 11:30-11:50 Coffe + Cake break
+- 11:30-11:40 Break.
 
-- 11:50-12:00 [Hackathon rules](earthday2023.qmd#hackathon)
+- 11:40-12:00 [Hackathon instructions](earthday2024_hackathon.qmd#instructions) and Q&A.
 
-- 12:00-16:30 Hackathon with pizza drop around 13:00 
+- 12:00-16:30 Hackathon with pizza drop around 13:00. 
 
-- 16:30-17:00 Evaluation of solutions
+- 16:30-17:00 Evaluation of solutions.
 
-- 17:00 Hackathon Winner Announcement
+- 17:00 Hackathon winner announcement.
 
-- 12:00-17:00 Meme Competition 
+- 12:00-17:00 Meme competition.
 
-- 18:30 Event Dinner
+- 18:30 Event dinner for speakers and organizers.
 
 Presentations are 25 minutes + 5 minutes for questions.
