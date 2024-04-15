@@ -42,9 +42,9 @@ The event features:
 
 - **Date**: April 22, 2024.
 
-- **Time**: 8:45 am to 5 pm organized as presentations from 8:45 am to 11 and hackathon from 11:30 to 5pm. Exact schedule will be announced soon.
+- **Time**: 8:45 am to 5 pm organized as presentations from 8:45 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen [here](earthday2024_schedule.qmd).
 
-- **Location**: Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg.
+- **Location**: [Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg](https://maps.app.goo.gl/sEQNm9HnZhpPoTLR7).
 
 ## Registration
 
