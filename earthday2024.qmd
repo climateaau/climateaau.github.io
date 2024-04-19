@@ -27,8 +27,9 @@ The event features:
  
 - **A climate change-related meme-competition**. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event's website.
 
+Complete program can be seen [here](earthday2024_schedule.qmd).
 
-## Confirmed External Speakers (Up to date)
+## Confirmed External Speakers
  
 - [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/), Associate Professor of Economics, Aarhus University, Denmark.
 
@@ -42,7 +43,7 @@ The event features:
 
 - **Date**: April 22, 2024.
 
-- **Time**: 8:45 am to 5 pm organized as presentations from 8:45 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen [here](earthday2024_schedule.qmd).
+- **Time**: 8:25 am to 5 pm organized as presentations from 8:25 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen [here](earthday2024_schedule.qmd).
 
 - **Location**: [Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg](https://maps.app.goo.gl/sEQNm9HnZhpPoTLR7).
 

@@ -1,0 +1,24 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2024"
+subtitle: "Communicating Climate Change Research"
+image: /images/earth_day_cc.png
+---
+
+# Research Presentations
+
+- **Estimating running correlations for two environmental time series: not running into problems** by *[Josué Moisés Polanco Martínez](https://www.researchgate.net/profile/Josue-Polanco-Martinez)*, Assistant Professor, Universidad of Salamanca.
+
+- **Climate change perceptions, environmental actions, support for policy, 
+and information provision: experimental evidence from the US** by *[Chiara Binelli](https://sites.google.com/view/chiara-binelli/home)*, Associate Professor, University of Bologna.
+
+- **A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions** by *[Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/)*, Associate Professor, Aarhus University. [Link to paper](https://arxiv.org/abs/2311.01053).
+
+- **Green portfolios** by *[Frederik Lundtofte](https://sites.google.com/site/frederiklundtofte/)*, Professor, Aalborg University.
+
+- **State space models for paleo time series** by *[Eric Hillebrand](https://sites.google.com/site/erichillebrand/)*, Professor, Aarhus University.
+
+Presentations are 25 minutes + 5 minutes for questions.
+
+## Schedule 
+
+The schedule can be found [here](earthday2024_schedule.qmd).

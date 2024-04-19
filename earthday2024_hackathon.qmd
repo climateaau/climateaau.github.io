@@ -4,19 +4,92 @@ subtitle: "Communicating Climate Change Research"
 image: /images/earth_day_cc.png
 ---
 
+This year's event interactive session consists of a [hackathon](earthday2024_hackathon.qmd#hackathon) and a [meme competition](earthday2024_hackathon.qmd#meme-competition).
+
+---
+
 # Hackathon
+
+Welcome to the Earth Day 2024 Hackathon! This hackathon is part of Earth Day 2024, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The hackathon is an opportunity for participants to work together to develop innovative ways of disseminating the causes and effects of climate change.
 
 ## Instructions
 
+### The challenge
+
+Your aim is to develop a tool that can be used to communicate the causes and effects of climate change to the general public. The tool can be a plot, gif, website, an app, a game, a visualization, or any other form of communication that you think will be effective in reaching a wide audience. The tool should be engaging, informative, and easy to understand, and should be based on true scientific data.
+
+### The data
+
+You can use any data you like to develop your tool, the only restriction is that it has to be *true data publicly available*. 
+
+Examples of data sources include:
+
+- [Our World in Data](https://ourworldindata.org/climate-change)
+- [IPCC Data Distribution Centre](https://www.ipcc-data.org/)
+- [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/)
+- [NASA GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
+- [Zachary Labe Repository](https://zacklabe.com/resources-and-data-references/)
+
 ### The task
 
-TBA.
+1. Form a team of 2-4 people. You can also participate individually.
+2. Choose the data you want to use. You can combine data from different sources if you like.
+3. Develop a tool to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like.
+4. Prepare a short pitch/presentation to showcase your tool to the judges.
+5. Submit the steps to reproduce your tool in a GitHub repository or via email to the organizers.
 
-## Data
+### The timeline
 
-TBA. 
+- 11:45-12:00 Hackathon instructions and Q&A.
+- 12:00-16:30 Hackathon with pizza drop around 13:00.
+- 16:30 Deadline for submission of solutions. 
+- 16:30-17:00 Evaluation of solutions.
+- 17:00 Hackathon winner announcement.
 
+### Examples
 
-## The format
+As inspiration, you can look at [*show your stripes*](https://showyourstripes.info/):
 
-TBA.
+![Temperature change in Denmark since 1850 #showyourstripes](images/ed24/EUROPE-Denmark-Stripes.png)
+
+Or the following gif:
+
+![Global temperature anomalies for August 2020 vs 1951-1980 baseline](images/ed24/Globe_Temperature_Anomalies_August.gif)
+
+### The judging
+
+The judging will be based on the following criteria:
+
+- **Innovation**: How innovative is the tool?
+- **Engagement**: How engaging is the tool?
+- **Informative**: How informative is the tool?
+- **Ease of understanding**: How easy is it to understand the tool?
+- **Relevance**: How relevant is the tool to the challenge?
+
+### The prizes
+
+The top 3 teams will receive a book bundle on climate change research and communication.
+
+---
+
+# Meme competition
+
+Welcome to the Earth Day 2024 Meme Competition! This competition is part of Earth Day 2024, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The meme competition is an opportunity for participants to develop fun memes that communicate the causes and effects of climate change in a fun and engaging way.
+
+## Instructions
+
+### The challenge
+
+Develop a meme that communicates the causes and/or effects of climate change in a fun and engaging way. The meme should be printed and displayed in the blackboard of the event's venue (Auditorium 5.034). Do not forget to include your name and affiliation below the meme.
+
+### The timeline
+
+Make sure to submit your meme by 16:30. The winner will be announced at 17:00.
+
+### The judging
+
+The winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.
+
+### The prize
+
+The winner will receive a book on climate change research and communication.

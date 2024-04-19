@@ -21,17 +21,17 @@ and information provision: experimental evidence from the US**" by *[Chiara Bine
 
 - 11:00-11:30 “**State space models for paleo time series**" by *[Eric Hillebrand](https://sites.google.com/site/erichillebrand/)*, Professor, Aarhus University.
 
-- 11:30-11:40 Break.
+- 11:30-11:45 Break.
 
-- 11:40-12:00 [Hackathon instructions](earthday2024_hackathon.qmd#instructions) and Q&A.
+- 11:45-12:00 [Hackathon instructions](earthday2024_hackathon.qmd#hackathon) and Q&A.
 
-- 12:00-16:30 Hackathon with pizza drop around 13:00. 
+- 12:00-16:30 [Hackathon](earthday2024_hackathon.qmd#hackathon) with pizza drop around 13:00. 
 
 - 16:30-17:00 Evaluation of solutions.
 
 - 17:00 Hackathon winner announcement.
 
-- 12:00-17:00 Meme competition.
+- 12:00-17:00 [Meme competition](earthday2024_hackathon.qmd#meme-competition).
 
 - 18:30 Event dinner for speakers and organizers.
 
