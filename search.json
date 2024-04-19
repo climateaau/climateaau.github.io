@@ -166,49 +166,133 @@
     "text": "About the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
   },
   {
-    "objectID": "earthday2024_hackathon.html",
-    "href": "earthday2024_hackathon.html",
+    "objectID": "earthday2024_researchpresentations.html",
+    "href": "earthday2024_researchpresentations.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "TBA.\n\n\n\n\nTBA.\n\n\n\nTBA."
+    "text": "Estimating running correlations for two environmental time series: not running into problems by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\nClimate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US by Chiara Binelli, Associate Professor, University of Bologna.\nA New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\nGreen portfolios by Frederik Lundtofte, Professor, Aalborg University.\nState space models for paleo time series by Eric Hillebrand, Professor, Aarhus University.\n\nPresentations are 25 minutes + 5 minutes for questions.\n\n\nThe schedule can be found here.",
+    "crumbs": [
+      "Research Presentations"
+    ]
   },
   {
-    "objectID": "earthday2024_hackathon.html#instructions",
-    "href": "earthday2024_hackathon.html#instructions",
+    "objectID": "earthday2024_researchpresentations.html#schedule",
+    "href": "earthday2024_researchpresentations.html#schedule",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "TBA."
+    "text": "The schedule can be found here.",
+    "crumbs": [
+      "Research Presentations"
+    ]
   },
   {
-    "objectID": "earthday2024_hackathon.html#data",
-    "href": "earthday2024_hackathon.html#data",
+    "objectID": "earthday2024_callforspeakers.html",
+    "href": "earthday2024_callforspeakers.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "TBA."
+    "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.\n\n\n\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.\n\n\n\n\nThis event is sponsored by the Danish Data Science Academy DDSA.\n\n\n\n\nIf you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
   },
   {
-    "objectID": "earthday2024_hackathon.html#the-format",
-    "href": "earthday2024_hackathon.html#the-format",
+    "objectID": "earthday2024_callforspeakers.html#call-for-speakers-closed",
+    "href": "earthday2024_callforspeakers.html#call-for-speakers-closed",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "TBA."
+    "text": "We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#act-now",
+    "href": "earthday2024_callforspeakers.html#act-now",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "The time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#sponsorship",
+    "href": "earthday2024_callforspeakers.html#sponsorship",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "This event is sponsored by the Danish Data Science Academy DDSA.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#about-earth-day",
+    "href": "earthday2024_callforspeakers.html#about-earth-day",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "If you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "climateeconometrics.html",
+    "href": "climateeconometrics.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Team",
+    "section": "",
+    "text": "This site was created to promote the climate related-research at Aalborg University."
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "The Team",
+    "section": "",
+    "text": "This site was created to promote the climate related-research at Aalborg University."
+  },
+  {
+    "objectID": "aboutearthday.html",
+    "href": "aboutearthday.html",
+    "title": "Earth Day",
+    "section": "",
+    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection."
+  },
+  {
+    "objectID": "aboutearthday.html#history",
+    "href": "aboutearthday.html#history",
+    "title": "Earth Day",
+    "section": "History",
+    "text": "History\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (UNESCO) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\nSource: Earth Day Alliance."
+  },
+  {
+    "objectID": "aboutearthday.html#aalborg-university",
+    "href": "aboutearthday.html#aalborg-university",
+    "title": "Earth Day",
+    "section": "Aalborg University",
+    "text": "Aalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
   },
   {
     "objectID": "earthday2024.html#event-program",
     "href": "earthday2024.html#event-program",
     "title": " Earth Day 2024",
     "section": "Event Program",
-    "text": "Event Program\nThe event features:\n\nClimate change research presentations by invited speakers. You will get to hear about the latest findings and methods in this field, and how they can help us understand and address the complex issues of climate change. The talks are tailored for a general audience, so no previous experience on the topics is needed.\nA climate-related hackathon to design the best way to communicate to the general public . The theme for this year means that the best solutions will come from cross-disciplinary collaboration between participants with different sets of skills. So, convince all your friends to join your team. You don’t need to be an expert to join, just bring your enthusiasm and willingness to learn and work with others!\n\nFree pizza 🍕 and drinks 🥤 for all hackathon participants.\n\nA climate change-related meme-competition. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event’s website.",
+    "text": "Event Program\nThe event features:\n\nClimate change research presentations by invited speakers. You will get to hear about the latest findings and methods in this field, and how they can help us understand and address the complex issues of climate change. The talks are tailored for a general audience, so no previous experience on the topics is needed.\nA climate-related hackathon to design the best way to communicate to the general public . The theme for this year means that the best solutions will come from cross-disciplinary collaboration between participants with different sets of skills. So, convince all your friends to join your team. You don’t need to be an expert to join, just bring your enthusiasm and willingness to learn and work with others!\n\nFree pizza 🍕 and drinks 🥤 for all hackathon participants.\n\nA climate change-related meme-competition. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event’s website.\n\nComplete program can be seen here.",
     "crumbs": [
       "Earth Day 2024"
     ]
   },
   {
-    "objectID": "earthday2024.html#confirmed-external-speakers-up-to-date",
-    "href": "earthday2024.html#confirmed-external-speakers-up-to-date",
+    "objectID": "earthday2024.html#confirmed-external-speakers",
+    "href": "earthday2024.html#confirmed-external-speakers",
     "title": " Earth Day 2024",
-    "section": "Confirmed External Speakers (Up to date)",
-    "text": "Confirmed External Speakers (Up to date)\n\nMikkel Bennedsen, Associate Professor of Economics, Aarhus University, Denmark.\nChiara Binelli, Associate Professor of Economics, University of Bologna, Italy.\nEric Hillebrand, Professor of Econometrics, Aarhus University, Denmark. Board Member of the Econometric Models of Climate Change Conference Series.\nJosué M. Polanco-Martínez, Assistant Professor of Statistics, University of Salamanca, Spain.",
+    "section": "Confirmed External Speakers",
+    "text": "Confirmed External Speakers\n\nMikkel Bennedsen, Associate Professor of Economics, Aarhus University, Denmark.\nChiara Binelli, Associate Professor of Economics, University of Bologna, Italy.\nEric Hillebrand, Professor of Econometrics, Aarhus University, Denmark. Board Member of the Econometric Models of Climate Change Conference Series.\nJosué M. Polanco-Martínez, Assistant Professor of Statistics, University of Salamanca, Spain.",
     "crumbs": [
       "Earth Day 2024"
     ]
@@ -218,7 +302,7 @@
     "href": "earthday2024.html#date-and-location",
     "title": " Earth Day 2024",
     "section": "Date and Location",
-    "text": "Date and Location\n\nDate: April 22, 2024.\nTime: 8:45 am to 5 pm organized as presentations from 8:45 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen here.\nLocation: Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg.",
+    "text": "Date and Location\n\nDate: April 22, 2024.\nTime: 8:25 am to 5 pm organized as presentations from 8:25 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen here.\nLocation: Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg.",
     "crumbs": [
       "Earth Day 2024"
     ]
@@ -274,95 +358,33 @@
     ]
   },
   {
-    "objectID": "aboutearthday.html",
-    "href": "aboutearthday.html",
-    "title": "Earth Day",
-    "section": "",
-    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection."
-  },
-  {
-    "objectID": "aboutearthday.html#history",
-    "href": "aboutearthday.html#history",
-    "title": "Earth Day",
-    "section": "History",
-    "text": "History\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (UNESCO) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\nSource: Earth Day Alliance."
-  },
-  {
-    "objectID": "aboutearthday.html#aalborg-university",
-    "href": "aboutearthday.html#aalborg-university",
-    "title": "Earth Day",
-    "section": "Aalborg University",
-    "text": "Aalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Team",
-    "section": "",
-    "text": "This site was created to promote the climate related-research at Aalborg University."
-  },
-  {
-    "objectID": "about.html#about-this-site",
-    "href": "about.html#about-this-site",
-    "title": "The Team",
-    "section": "",
-    "text": "This site was created to promote the climate related-research at Aalborg University."
-  },
-  {
-    "objectID": "climateeconometrics.html",
-    "href": "climateeconometrics.html",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "earthday2024_callforspeakers.html",
-    "href": "earthday2024_callforspeakers.html",
+    "objectID": "earthday2024_hackathon.html",
+    "href": "earthday2024_hackathon.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.\n\n\n\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.\n\n\n\n\nThis event is sponsored by the Danish Data Science Academy DDSA.\n\n\n\n\nIf you want to know more about Earth Day, follow this link.",
+    "text": "This year’s event interactive session consists of a hackathon and a meme competition.",
     "crumbs": [
-      "Call for Speakers  "
+      "Hackathon"
     ]
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#call-for-speakers-closed",
-    "href": "earthday2024_callforspeakers.html#call-for-speakers-closed",
+    "objectID": "earthday2024_hackathon.html#instructions",
+    "href": "earthday2024_hackathon.html#instructions",
     "title": " Earth Day 2024",
-    "section": "",
-    "text": "We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.",
+    "section": "Instructions",
+    "text": "Instructions\n\nThe challenge\nYour aim is to develop a tool that can be used to communicate the causes and effects of climate change to the general public. The tool can be a plot, gif, website, an app, a game, a visualization, or any other form of communication that you think will be effective in reaching a wide audience. The tool should be engaging, informative, and easy to understand, and should be based on true scientific data.\n\n\nThe data\nYou can use any data you like to develop your tool, the only restriction is that it has to be true data publicly available.\nExamples of data sources include:\n\nOur World in Data\nIPCC Data Distribution Centre\nNOAA Climate Data Online\nNASA GISS Surface Temperature Analysis\nZachary Labe Repository\n\n\n\nThe task\n\nForm a team of 2-4 people. You can also participate individually.\nChoose the data you want to use. You can combine data from different sources if you like.\nDevelop a tool to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like.\nPrepare a short pitch/presentation to showcase your tool to the judges.\nSubmit the steps to reproduce your tool in a GitHub repository or via email to the organizers.\n\n\n\nThe timeline\n\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30 Deadline for submission of solutions.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n\n\n\nExamples\nAs inspiration, you can look at show your stripes:\n\n\n\nTemperature change in Denmark since 1850 #showyourstripes\n\n\nOr the following gif:\n\n\n\nGlobal temperature anomalies for August 2020 vs 1951-1980 baseline\n\n\n\n\nThe judging\nThe judging will be based on the following criteria:\n\nInnovation: How innovative is the tool?\nEngagement: How engaging is the tool?\nInformative: How informative is the tool?\nEase of understanding: How easy is it to understand the tool?\nRelevance: How relevant is the tool to the challenge?\n\n\n\nThe prizes\nThe top 3 teams will receive a book bundle on climate change research and communication.",
     "crumbs": [
-      "Call for Speakers  "
+      "Hackathon"
     ]
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#act-now",
-    "href": "earthday2024_callforspeakers.html#act-now",
+    "objectID": "earthday2024_hackathon.html#instructions-1",
+    "href": "earthday2024_hackathon.html#instructions-1",
     "title": " Earth Day 2024",
-    "section": "",
-    "text": "The time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
+    "section": "Instructions",
+    "text": "Instructions\n\nThe challenge\nDevelop a meme that communicates the causes and/or effects of climate change in a fun and engaging way. The meme should be printed and displayed in the blackboard of the event’s venue (Auditorium 5.034). Do not forget to include your name and affiliation below the meme.\n\n\nThe timeline\nMake sure to submit your meme by 16:30. The winner will be announced at 17:00.\n\n\nThe judging\nThe winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.\n\n\nThe prize\nThe winner will receive a book on climate change research and communication.",
     "crumbs": [
-      "Call for Speakers  "
-    ]
-  },
-  {
-    "objectID": "earthday2024_callforspeakers.html#sponsorship",
-    "href": "earthday2024_callforspeakers.html#sponsorship",
-    "title": " Earth Day 2024",
-    "section": "",
-    "text": "This event is sponsored by the Danish Data Science Academy DDSA.",
-    "crumbs": [
-      "Call for Speakers  "
-    ]
-  },
-  {
-    "objectID": "earthday2024_callforspeakers.html#about-earth-day",
-    "href": "earthday2024_callforspeakers.html#about-earth-day",
-    "title": " Earth Day 2024",
-    "section": "",
-    "text": "If you want to know more about Earth Day, follow this link.",
-    "crumbs": [
-      "Call for Speakers  "
+      "Hackathon"
     ]
   },
   {
@@ -370,7 +392,7 @@
     "href": "earthday2024_schedule.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "Schedule\n\n8:25-8:30 Welcome.\n8:30-9:00 “Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\n9:00-9:30 “Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli, Associate Professor, University of Bologna.\n9:30-10:00 “A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\n10:00-10:30 Coffee break.\n10:30-11:00 “Green portfolios” by Frederik Lundtofte, Professor, Aalborg University.\n11:00-11:30 “State space models for paleo time series” by Eric Hillebrand, Professor, Aarhus University.\n11:30-11:40 Break.\n11:40-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n12:00-17:00 Meme competition.\n18:30 Event dinner for speakers and organizers.\n\nPresentations are 25 minutes + 5 minutes for questions.",
+    "text": "Schedule\n\n8:25-8:30 Welcome.\n8:30-9:00 “Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\n9:00-9:30 “Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli, Associate Professor, University of Bologna.\n9:30-10:00 “A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\n10:00-10:30 Coffee break.\n10:30-11:00 “Green portfolios” by Frederik Lundtofte, Professor, Aalborg University.\n11:00-11:30 “State space models for paleo time series” by Eric Hillebrand, Professor, Aarhus University.\n11:30-11:45 Break.\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n12:00-17:00 Meme competition.\n18:30 Event dinner for speakers and organizers.\n\nPresentations are 25 minutes + 5 minutes for questions.",
     "crumbs": [
       "Schedule"
     ]
