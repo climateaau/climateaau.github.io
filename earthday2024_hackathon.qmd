@@ -10,6 +10,21 @@ This year's event interactive session consists of a [hackathon](earthday2024_hac
 
 # Hackathon
 
+
+::: {.callout-tip title="Hackathon results"}
+
+This year we highlight the 3 best solutions to the hackathon challenge (in no particular order):
+
+- Alexander Dougherty, Jacob Pedersen and Emil Raunstrup 
+
+- Hans Larsen and Casper Pedersen
+
+- Rasmus Pedersen
+
+Congratulations to the winners!
+
+:::
+
 Welcome to the Earth Day 2024 Hackathon! This hackathon is part of Earth Day 2024, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The hackathon is an opportunity for participants to work together to develop innovative ways of disseminating the causes and effects of climate change.
 
 ## Instructions
@@ -73,6 +88,18 @@ The top 3 teams will receive a book bundle on climate change research and commun
 ---
 
 # Meme competition
+
+::: {.callout-tip title="Meme competition results" collapse="true"}
+
+The winners of the meme competition are:
+
+- Andreas Pedersen and Kevin Luu
+
+Congratulations to the winners!
+
+![Winner meme](images/ed24/8nmcpd.jpg)
+
+:::
 
 Welcome to the Earth Day 2024 Meme Competition! This competition is part of Earth Day 2024, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The meme competition is an opportunity for participants to develop fun memes that communicate the causes and effects of climate change in a fun and engaging way.
 

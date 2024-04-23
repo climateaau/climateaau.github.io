@@ -8,6 +8,12 @@ image: /images/earth_day_cc.png
 
 # Announcement
 
+::: {.callout-note}
+
+Thanks to all the participants, speakers, and sponsors for making the Earth Day 2024 Event a success. We hope to see you next year!
+
+:::
+
 The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the "**Data Science to Combat Global Heating**" event commemorating Earth Day 2023.  The event consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.
 
 The event will feature:

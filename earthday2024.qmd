@@ -8,6 +8,12 @@ image: /images/earth_day_cc.png
 
 # Announcement
 
+::: {.callout-note}
+
+Thanks to all the participants, speakers, and sponsors for making the Earth Day 2024 Event a success. We hope to see you next year!
+
+:::
+
 The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the **Earth Day 2024 Event**. The theme for this year is "*Communicating Climate Change Research*".  
 
 The event is a day-long celebration of the importance and challenges of communicating climate change research to the public. *The event is open to researchers, students, and anyone who is interested in learning more about this pressing topic*. 

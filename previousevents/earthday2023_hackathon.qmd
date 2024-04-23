@@ -6,9 +6,7 @@ image: /images/earth_day_cc.png
 
 # Hackathon
 
----
-
-## Results
+::: {.callout-tip title="Hackathon results"}
 
 The winner of the Earth Day 2023 Hackathon is:
 
@@ -20,7 +18,7 @@ Runners ups:
 
 - Mikkel Mandrup Nielsen
 
----
+:::
 
 ## Repository
 

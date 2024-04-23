@@ -10,7 +10,13 @@ The next Earth Day will be on April 22, 2024.
 
 More information will be available closer to the date. For questions, please contact [J. Eduardo Vera-Valdés](mailto:eduardo@math.aau.dk).
 
-## Call for Speakers [CLOSED]
+## Call for Speakers 
+
+::: {.callout-important}
+
+The call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2025.
+
+:::
 
 We are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:
 
