@@ -81,10 +81,6 @@ The judging will be based on the following criteria:
 - **Ease of understanding**: How easy is it to understand the tool?
 - **Relevance**: How relevant is the tool to the challenge?
 
-### The prizes
-
-The top 3 teams will receive a book bundle on climate change research and communication.
-
 ---
 
 # Meme competition
@@ -116,7 +112,3 @@ Make sure to submit your meme by 16:30. The winner will be announced at 17:00.
 ### The judging
 
 The winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.
-
-### The prize
-
-The winner will receive a book on climate change research and communication.
