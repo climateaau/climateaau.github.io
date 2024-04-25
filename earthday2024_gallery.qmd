@@ -1,0 +1,21 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2024"
+subtitle: "Communicating Climate Change Research"
+image: /images/earth_day_cc.png
+---
+
+# Photo Gallery
+
+
+::: {layout="[[1,1], [1,1]]"}
+
+!["Estimating running correlations for two environmental time series: not running into problems" by [*Josué Moisés Polanco Martínez*](https://www.researchgate.net/profile/Josue-Polanco-Martinez)](/images/ed24/JMP.jpeg)
+
+!["A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions" by [*Mikkel Bennedsen*](https://sites.google.com/site/mbennedsen/)](/images/ed24/MB.jpeg)
+
+!["Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US" by [*Chiara Binelli*](https://sites.google.com/view/chiara-binelli/home)](/images/ed24/CB.jpeg)
+
+!["Econometric methods for $\delta^{18}O$ and $\delta^{13}C$" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/)](/images/ed24/EH.jpeg)
+
+:::
+

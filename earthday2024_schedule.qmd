@@ -8,18 +8,18 @@ image: /images/earth_day_cc.png
 
 - 8:25-8:30 Welcome.
 
-- 8:30-9:00 "**Estimating running correlations for two environmental time series: not running into problems**" by *[Josué Moisés Polanco Martínez](https://www.researchgate.net/profile/Josue-Polanco-Martinez)*, Assistant Professor, Universidad of Salamanca.
+- 8:30-9:00 "**Estimating running correlations for two environmental time series: not running into problems**" by [*Josué Moisés Polanco Martínez*](https://www.researchgate.net/profile/Josue-Polanco-Martinez)*, Assistant Professor, Universidad of Salamanca.
 
 - 9:00-9:30 "**Climate change perceptions, environmental actions, support for policy, 
-and information provision: experimental evidence from the US**" by *[Chiara Binelli](https://sites.google.com/view/chiara-binelli/home)*, Associate Professor, University of Bologna.
+and information provision: experimental evidence from the US**" by [*Chiara Binelli*](https://sites.google.com/view/chiara-binelli/home)*, Associate Professor, University of Bologna.
 
-- 9:30-10:00 "**A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions**" by *[Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/)*, Associate Professor, Aarhus University. [Link to paper](https://arxiv.org/abs/2311.01053).
+- 9:30-10:00 "**A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions**" by [*Mikkel Bennedsen*](https://sites.google.com/site/mbennedsen/), Associate Professor, Aarhus University. [Link to paper](https://arxiv.org/abs/2311.01053).
 
 - 10:00-10:30 Coffee break.
 
-- 10:30-11:00 "**Green portfolios**" by *[Frederik Lundtofte](https://sites.google.com/site/frederiklundtofte/)*, Professor, Aalborg University.
+- 10:30-11:00 "**Green portfolios**" by [*Frederik Lundtofte*](https://sites.google.com/site/frederiklundtofte/), Professor, Aalborg University.
 
-- 11:00-11:30 “**State space models for paleo time series**" by *[Eric Hillebrand](https://sites.google.com/site/erichillebrand/)*, Professor, Aarhus University.
+- 11:00-11:30 “**State space models for paleo time series**" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/), Professor, Aarhus University.
 
 - 11:30-11:45 Break.
 
