@@ -1,9 +1,10 @@
 ---
-title: "The Team"
+title: "The Page"
 sidebar: false
 ---
 
 ## About this site
 
-This site was created to promote the climate related-research at Aalborg University. 
+This site was created to promote the climate related-research at Aalborg University.
 
+The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/).
