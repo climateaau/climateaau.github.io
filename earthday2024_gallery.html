@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="AAU Climate -  Earth Day 2024">
@@ -79,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:image:width" content="2000">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -126,76 +155,17 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./earthday2024_schedule.html">Schedule</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Earth Day 2024</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://forms.office.com/pages/responsepage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUMTNYWjNWWlgxTUlCVkNUWFNEMDRISkFVUC4u" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Register</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024_schedule.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Schedule</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024_researchpresentations.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research Presentations</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024_hackathon.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Hackathon</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024_hackathon.html#meme-competition" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Meme Competition</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./earthday2024_callforspeakers.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Call for Speakers</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#schedule" id="toc-schedule" class="nav-link active" data-scroll-target="#schedule">Schedule</a></li>
+  <li><a href="#photo-gallery" id="toc-photo-gallery" class="nav-link active" data-scroll-target="#photo-gallery">Photo Gallery</a></li>
   </ul>
 </nav>
     </div>
@@ -222,25 +192,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="schedule" class="level1">
-<h1>Schedule</h1>
-<ul>
-<li><p>8:25-8:30 Welcome.</p></li>
-<li><p>8:30-9:00 “<strong>Estimating running correlations for two environmental time series: not running into problems</strong>” by <a href="https://www.researchgate.net/profile/Josue-Polanco-Martinez"><em>Josué Moisés Polanco Martínez</em></a>*, Assistant Professor, Universidad of Salamanca.</p></li>
-<li><p>9:00-9:30 “<strong>Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US</strong>” by <a href="https://sites.google.com/view/chiara-binelli/home"><em>Chiara Binelli</em></a>*, Associate Professor, University of Bologna.</p></li>
-<li><p>9:30-10:00 “<strong>A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions</strong>” by <a href="https://sites.google.com/site/mbennedsen/"><em>Mikkel Bennedsen</em></a>, Associate Professor, Aarhus University. <a href="https://arxiv.org/abs/2311.01053">Link to paper</a>.</p></li>
-<li><p>10:00-10:30 Coffee break.</p></li>
-<li><p>10:30-11:00 “<strong>Green portfolios</strong>” by <a href="https://sites.google.com/site/frederiklundtofte/"><em>Frederik Lundtofte</em></a>, Professor, Aalborg University.</p></li>
-<li><p>11:00-11:30 “<strong>State space models for paleo time series</strong>” by <a href="https://sites.google.com/site/erichillebrand/"><em>Eric Hillebrand</em></a>, Professor, Aarhus University.</p></li>
-<li><p>11:30-11:45 Break.</p></li>
-<li><p>11:45-12:00 <a href="./earthday2024_hackathon.html#hackathon">Hackathon instructions</a> and Q&amp;A.</p></li>
-<li><p>12:00-16:30 <a href="./earthday2024_hackathon.html#hackathon">Hackathon</a> with pizza drop around 13:00.</p></li>
-<li><p>16:30-17:00 Evaluation of solutions.</p></li>
-<li><p>17:00 Hackathon winner announcement.</p></li>
-<li><p>12:00-17:00 <a href="./earthday2024_hackathon.html#meme-competition">Meme competition</a>.</p></li>
-<li><p>18:30 Event dinner for speakers and organizers.</p></li>
-</ul>
-<p>Presentations are 25 minutes + 5 minutes for questions.</p>
+<section id="photo-gallery" class="level1">
+<h1>Photo Gallery</h1>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[[1,1], [1,1]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/ed24/JMP.jpeg" class="img-fluid figure-img"></p>
+<figcaption>“Estimating running correlations for two environmental time series: not running into problems” by <a href="https://www.researchgate.net/profile/Josue-Polanco-Martinez"><em>Josué Moisés Polanco Martínez</em></a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/ed24/MB.jpeg" class="img-fluid figure-img"></p>
+<figcaption>“A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by <a href="https://sites.google.com/site/mbennedsen/"><em>Mikkel Bennedsen</em></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/ed24/CB.jpeg" class="img-fluid figure-img"></p>
+<figcaption>“Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by <a href="https://sites.google.com/view/chiara-binelli/home"><em>Chiara Binelli</em></a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/ed24/EH.jpeg" class="img-fluid figure-img"></p>
+<figcaption>“Econometric methods for <span class="math inline">\(\delta^{18}O\)</span> and <span class="math inline">\(\delta^{13}C\)</span>” by <a href="https://sites.google.com/site/erichillebrand/"><em>Eric Hillebrand</em></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
 
 
 </section>
