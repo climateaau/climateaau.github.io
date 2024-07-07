@@ -19,7 +19,7 @@ If you want to know more about Earth day, follow [this link](aboutearthday.qmd).
 
 ## [Climate Econometrics Research Projects](climateeconometrics.qmd)
 
-The Department of Mathematical Sciences](https://www.math.aau.dk/) hosts several research projects on Climate Econometrics. To get more information about the projects, follow [this link](climateeconometrics.qmd).
+The [Department of Mathematical Sciences](https://www.math.aau.dk/) hosts several research projects on Climate Econometrics. To get more information about the projects, follow [this link](climateeconometrics.qmd).
 
 ## Act Now
 
