@@ -4,6 +4,7 @@ project:
 website:
   title: "AAU Climate"
   navbar:
+    background: "#276221"
     left:
       - text: "Home"
         file: index.qmd
@@ -57,6 +58,7 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
+    fontsize: 1.1rem
     toc: true
 
 
