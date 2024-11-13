@@ -91,106 +91,254 @@
     "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
   },
   {
-    "objectID": "previousevents/earthday2023_schedule.html",
-    "href": "previousevents/earthday2023_schedule.html",
+    "objectID": "publications/AirborneFraction.html",
+    "href": "publications/AirborneFraction.html",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "This paper discusses the effect of measurement errors in the estimation of the carbon dioxide (CO\\(_2\\)) airborne fraction. We are the first to present regression-based estimates and standard errors that are robust to measurement errors for the extended model, the preferred specification to estimate the CO\\(_2\\) airborne fraction. To achieve this goal, we add to the literature in three ways: \\(i)\\) We generalise the Deming regression to handle multiple variables. \\(ii)\\) We introduce a bootstrap approach to construct confidence intervals for Deming regression in both univariate and multivariate scenarios. \\(iii)\\) Propose to estimate the airborne fraction using instrumental variables (IV), taking advantage of the variation of additional measurements, to obtain consistent estimates that are robust to measurement errors. IV estimates for the airborne fraction are 44.8%(± 1.4%; 1\\(\\sigma\\)) for the simple specification, and 47.3%(± 1.1%; 1\\(\\sigma\\)) for the extended specification. We show that these estimates are not statistically different from the ordinary least squares (OLS) estimates, while being robust to measurement errors without relying on additional assumptions. In contrast, OLS estimates are shown to fall outside the confidence interval of the Deming regression estimates."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#abstract",
+    "href": "publications/AirborneFraction.html#abstract",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "This paper discusses the effect of measurement errors in the estimation of the carbon dioxide (CO\\(_2\\)) airborne fraction. We are the first to present regression-based estimates and standard errors that are robust to measurement errors for the extended model, the preferred specification to estimate the CO\\(_2\\) airborne fraction. To achieve this goal, we add to the literature in three ways: \\(i)\\) We generalise the Deming regression to handle multiple variables. \\(ii)\\) We introduce a bootstrap approach to construct confidence intervals for Deming regression in both univariate and multivariate scenarios. \\(iii)\\) Propose to estimate the airborne fraction using instrumental variables (IV), taking advantage of the variation of additional measurements, to obtain consistent estimates that are robust to measurement errors. IV estimates for the airborne fraction are 44.8%(± 1.4%; 1\\(\\sigma\\)) for the simple specification, and 47.3%(± 1.1%; 1\\(\\sigma\\)) for the extended specification. We show that these estimates are not statistically different from the ordinary least squares (OLS) estimates, while being robust to measurement errors without relying on additional assumptions. In contrast, OLS estimates are shown to fall outside the confidence interval of the Deming regression estimates."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#download",
+    "href": "publications/AirborneFraction.html#download",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Download",
+    "text": "Download\nDownload the working paper freely (open access) here.\nBut a much nicer looking version is available at the manuscript repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#recommended-citation",
+    "href": "publications/AirborneFraction.html#recommended-citation",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Griva, C. (2024). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. arXiv: 2411.07836. URL: https://arxiv.org/abs/2411.07836.\n\n\n@misc{veravaldés2024robustestimationcarbondioxide,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2024},\n      eprint={2411.07836},\n      archivePrefix={arXiv},\n      primaryClass={stat.AP},\n      url={https://arxiv.org/abs/2411.07836}, \n}"
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html",
+    "href": "previousevents/earthday2023_hackathon.html",
     "title": "Earth Day 2023",
     "section": "",
-    "text": "Schedule\n\n8:25-8:30 Welcome\n8:30-8:55 “Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach” by Mikkel Mandrup, Aalborg University\n8:55-9:20 “The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks” by Olivia Kvist, Aalborg University\n9:20-9:30 Coffe break\n9:30-9:55 “Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data” by Jingying Zhou Lykke, Aarhus University [Link to the article]\n9:55-10:20 “A New Statistical Reduced Complexity Climate Model” by Mikkel Bennedsen, Aarhus University\n10:20-10:50 Coffe + Cake break\n10:50-11:00 Hackathon rules\n11:00-14:30 Hackathon with pizza drop around noon\n14:30-15:00 Evaluation of solutions\n15:00 Hackathon Winner Announcement\n15:00-17:00 Meme Competition (Fridays Bar adjacent)\n18:30 Event Dinner\n\nPresentations are 20 minutes + 5 minutes for questions.",
+    "text": "Hackathon results\n\n\n\nThe winner of the Earth Day 2023 Hackathon is:\n\nTobias Kallehauge\n\nRunners ups:\n\nMartin Voigt Vejling\nMikkel Mandrup Nielsen\n\n\n\n\n\nThe files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023\n\n\n\n\n\nIn this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf\n\n\n\n\n\nThe repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7).\n\n\n\n\nYour goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset.\n\n\n\nYou will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up.",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#repository",
+    "href": "previousevents/earthday2023_hackathon.html#repository",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "The files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#instructions",
+    "href": "previousevents/earthday2023_hackathon.html#instructions",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "In this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#data",
+    "href": "previousevents/earthday2023_hackathon.html#data",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "The repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7).",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#the-task",
+    "href": "previousevents/earthday2023_hackathon.html#the-task",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "Your goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset.",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023_hackathon.html#the-format",
+    "href": "previousevents/earthday2023_hackathon.html#the-format",
+    "title": "Earth Day 2023",
+    "section": "",
+    "text": "You will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up.",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#organizers",
+    "href": "previousevents/earthday2023.html#organizers",
+    "title": " Earth Day 2023",
+    "section": "Organizers",
+    "text": "Organizers\n\nJ. Eduardo Vera Valdés\nChristophe Biscio\nYossi Bleile",
+    "crumbs": [
+      "Earth Day 2023"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#sponsorship",
+    "href": "previousevents/earthday2023.html#sponsorship",
+    "title": " Earth Day 2023",
+    "section": "Sponsorship",
+    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
+    "crumbs": [
+      "Earth Day 2023"
+    ]
+  },
+  {
+    "objectID": "previousevents/earthday2023.html#about-earth-day",
+    "href": "previousevents/earthday2023.html#about-earth-day",
+    "title": " Earth Day 2023",
+    "section": "About Earth Day",
+    "text": "About Earth Day\nIf you want to know more about Earth day, follow this link.",
+    "crumbs": [
+      "Earth Day 2023"
+    ]
+  },
+  {
+    "objectID": "earthday2024_schedule.html",
+    "href": "earthday2024_schedule.html",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "Schedule\n\n8:25-8:30 Welcome.\n8:30-9:00 “Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez*, Assistant Professor, Universidad of Salamanca.\n9:00-9:30 “Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli*, Associate Professor, University of Bologna.\n9:30-10:00 “A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\n10:00-10:30 Coffee break.\n10:30-11:00 “Green portfolios” by Frederik Lundtofte, Professor, Aalborg University.\n11:00-11:30 “State space models for paleo time series” by Eric Hillebrand, Professor, Aarhus University.\n11:30-11:45 Break.\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n12:00-17:00 Meme competition.\n18:30 Event dinner for speakers and organizers.\n\nPresentations are 25 minutes + 5 minutes for questions.",
     "crumbs": [
       "Schedule"
     ]
   },
   {
-    "objectID": "previousevents/earthday2023_gallery.html",
-    "href": "previousevents/earthday2023_gallery.html",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "Thanks to all participants for making Earth Day 2023 a huge success!\nWe hope to see you again next year.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Department of Mathematical Sciences ready for the Earth Day Event.\n\n\n\n\n\n\n\nGetting ready\n\n\n\nWelcome speech by the Head of Section, Ege Rubak.\n\n\n\nEge Rubak, Head of Stats and MathEcon Section\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMikkel Mandrup Nielsen, Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach\n\n\n\n\n\n\n\nOlivia Kvist, The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks\n\n\n\n\n\n\n\n\n\nJingying Zhou Lykke, Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model\n\n\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model",
-    "crumbs": [
-      "Photo Gallery"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_gallery.html#welcome-to-earth-day-2023",
-    "href": "previousevents/earthday2023_gallery.html#welcome-to-earth-day-2023",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "The Department of Mathematical Sciences ready for the Earth Day Event.\n\n\n\n\n\n\n\nGetting ready\n\n\n\nWelcome speech by the Head of Section, Ege Rubak.\n\n\n\nEge Rubak, Head of Stats and MathEcon Section",
-    "crumbs": [
-      "Photo Gallery"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_gallery.html#research-presentations",
-    "href": "previousevents/earthday2023_gallery.html#research-presentations",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "Mikkel Mandrup Nielsen, Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach\n\n\n\n\n\n\n\nOlivia Kvist, The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks\n\n\n\n\n\n\n\n\n\nJingying Zhou Lykke, Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model\n\n\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model",
-    "crumbs": [
-      "Photo Gallery"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": " Climate Research at Aalborg University",
-    "section": "",
-    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day Events and Climate Econometrics Research Projects at the University."
-  },
-  {
-    "objectID": "index.html#earth-day-events",
-    "href": "index.html#earth-day-events",
-    "title": " Climate Research at Aalborg University",
-    "section": "Earth Day Events",
-    "text": "Earth Day Events\nThe Department of Mathematical Sciences organizes yearly events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.\nThe events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.\nThe next Earth Day will be on April 22, 2025.\nIf you want to know more about Earth day, follow this link."
-  },
-  {
-    "objectID": "index.html#climate-econometrics-research-projects",
-    "href": "index.html#climate-econometrics-research-projects",
-    "title": " Climate Research at Aalborg University",
-    "section": "Climate Econometrics Research Projects",
-    "text": "Climate Econometrics Research Projects\nThe Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow this link."
-  },
-  {
-    "objectID": "index.html#act-now",
-    "href": "index.html#act-now",
-    "title": " Climate Research at Aalborg University",
-    "section": "Act Now",
-    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations."
-  },
-  {
-    "objectID": "index.html#about-the-website",
-    "href": "index.html#about-the-website",
-    "title": " Climate Research at Aalborg University",
-    "section": "About the Website",
-    "text": "About the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
-  },
-  {
-    "objectID": "earthday2024_researchpresentations.html",
-    "href": "earthday2024_researchpresentations.html",
+    "objectID": "earthday2024_hackathon.html",
+    "href": "earthday2024_hackathon.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "Estimating running correlations for two environmental time series: not running into problems by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\nClimate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US by Chiara Binelli, Associate Professor, University of Bologna.\nA New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\nGreen portfolios by Frederik Lundtofte, Professor, Aalborg University.\nState space models for paleo time series by Eric Hillebrand, Professor, Aarhus University.\n\nPresentations are 25 minutes + 5 minutes for questions.\n\n\nThe schedule can be found here.",
+    "text": "This year’s event interactive session consists of a hackathon and a meme competition.",
     "crumbs": [
-      "Research Presentations"
+      "Hackathon"
     ]
   },
   {
-    "objectID": "earthday2024_researchpresentations.html#schedule",
-    "href": "earthday2024_researchpresentations.html#schedule",
+    "objectID": "earthday2024_hackathon.html#instructions",
+    "href": "earthday2024_hackathon.html#instructions",
     "title": " Earth Day 2024",
-    "section": "",
-    "text": "The schedule can be found here.",
+    "section": "Instructions",
+    "text": "Instructions\n\nThe challenge\nYour aim is to develop a tool that can be used to communicate the causes and effects of climate change to the general public. The tool can be a plot, gif, website, an app, a game, a visualization, or any other form of communication that you think will be effective in reaching a wide audience. The tool should be engaging, informative, and easy to understand, and should be based on true scientific data.\n\n\nThe data\nYou can use any data you like to develop your tool, the only restriction is that it has to be true data publicly available.\nExamples of data sources include:\n\nOur World in Data\nIPCC Data Distribution Centre\nNOAA Climate Data Online\nNASA GISS Surface Temperature Analysis\nZachary Labe Repository\n\n\n\nThe task\n\nForm a team of 2-4 people. You can also participate individually.\nChoose the data you want to use. You can combine data from different sources if you like.\nDevelop a tool to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like.\nPrepare a short pitch/presentation to showcase your tool to the judges.\nSubmit the steps to reproduce your tool in a GitHub repository or via email to the organizers.\n\n\n\nThe timeline\n\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30 Deadline for submission of solutions.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n\n\n\nExamples\nAs inspiration, you can look at show your stripes:\n\n\n\nTemperature change in Denmark since 1850 #showyourstripes\n\n\nOr the following gif:\n\n\n\nGlobal temperature anomalies for August 2020 vs 1951-1980 baseline\n\n\n\n\nThe judging\nThe judging will be based on the following criteria:\n\nInnovation: How innovative is the tool?\nEngagement: How engaging is the tool?\nInformative: How informative is the tool?\nEase of understanding: How easy is it to understand the tool?\nRelevance: How relevant is the tool to the challenge?",
     "crumbs": [
-      "Research Presentations"
+      "Hackathon"
     ]
   },
   {
-    "objectID": "earthday2024_gallery.html",
-    "href": "earthday2024_gallery.html",
+    "objectID": "earthday2024_hackathon.html#instructions-1",
+    "href": "earthday2024_hackathon.html#instructions-1",
+    "title": " Earth Day 2024",
+    "section": "Instructions",
+    "text": "Instructions\n\nThe challenge\nDevelop a meme that communicates the causes and/or effects of climate change in a fun and engaging way. The meme should be printed and displayed in the blackboard of the event’s venue (Auditorium 5.034). Do not forget to include your name and affiliation below the meme.\n\n\nThe timeline\nMake sure to submit your meme by 16:30. The winner will be announced at 17:00.\n\n\nThe judging\nThe winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.",
+    "crumbs": [
+      "Hackathon"
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html",
+    "href": "earthday2024_callforspeakers.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "Photo Gallery\n\n\n\n\n\n\n\n\n\n“Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez\n\n\n\n\n\n\n\n“A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen\n\n\n\n\n\n\n\n\n\n“Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli\n\n\n\n\n\n\n\n“Econometric methods for \\(\\delta^{18}O\\) and \\(\\delta^{13}C\\)” by Eric Hillebrand"
+    "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2025.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.\n\n\n\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.\n\n\n\n\nThis event is sponsored by the Danish Data Science Academy DDSA.\n\n\n\n\nIf you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#call-for-speakers",
+    "href": "earthday2024_callforspeakers.html#call-for-speakers",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2025.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#act-now",
+    "href": "earthday2024_callforspeakers.html#act-now",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "The time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#sponsorship",
+    "href": "earthday2024_callforspeakers.html#sponsorship",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "This event is sponsored by the Danish Data Science Academy DDSA.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "earthday2024_callforspeakers.html#about-earth-day",
+    "href": "earthday2024_callforspeakers.html#about-earth-day",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "If you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers  "
+    ]
+  },
+  {
+    "objectID": "climateeconometrics.html",
+    "href": "climateeconometrics.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Page",
+    "section": "",
+    "text": "This site was created to promote the climate related-research at Aalborg University.\nThe site is maintained by J. Eduardo Vera-Valdés."
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "The Page",
+    "section": "",
+    "text": "This site was created to promote the climate related-research at Aalborg University.\nThe site is maintained by J. Eduardo Vera-Valdés."
+  },
+  {
+    "objectID": "aboutearthday.html",
+    "href": "aboutearthday.html",
+    "title": "Earth Day",
+    "section": "",
+    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection."
+  },
+  {
+    "objectID": "aboutearthday.html#history",
+    "href": "aboutearthday.html#history",
+    "title": "Earth Day",
+    "section": "History",
+    "text": "History\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (UNESCO) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\nSource: Earth Day Alliance."
+  },
+  {
+    "objectID": "aboutearthday.html#aalborg-university",
+    "href": "aboutearthday.html#aalborg-university",
+    "title": "Earth Day",
+    "section": "Aalborg University",
+    "text": "Aalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
   },
   {
     "objectID": "earthday2024.html#event-program",
@@ -273,225 +421,105 @@
     ]
   },
   {
-    "objectID": "aboutearthday.html",
-    "href": "aboutearthday.html",
-    "title": "Earth Day",
-    "section": "",
-    "text": "Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection."
-  },
-  {
-    "objectID": "aboutearthday.html#history",
-    "href": "aboutearthday.html#history",
-    "title": "Earth Day",
-    "section": "History",
-    "text": "History\nFirst celebrated in 1970, it now includes events coordinated globally by the Earth Day Network in more than 193 countries. In 1969 at a United Nations Educational, Scientific and Cultural Organization (UNESCO) Conference in San Francisco, peace activist John McConnell proposed a day to honor the Earth and the concept of peace, to first be celebrated on March 21, 1970, the first day of spring in the northern hemisphere. This day of nature’s equipoise was later sanctioned in a proclamation written by McConnell and signed by Secretary General U Thant at the United Nations. A month later a separate Earth Day was founded by United States Senator Gaylord Nelson as an environmental teach-in first held on April 22, 1970. Nelson was later awarded the Presidential Medal of Freedom award in recognition of his work. While this April 22 Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues.\nSource: Earth Day Alliance."
-  },
-  {
-    "objectID": "aboutearthday.html#aalborg-university",
-    "href": "aboutearthday.html#aalborg-university",
-    "title": "Earth Day",
-    "section": "Aalborg University",
-    "text": "Aalborg University\nAt Aalborg University, we celebrate Earth Day by having a day of activities and events. The event is organized by the Department of Mathematical Sciences, and is open to all students and staff at Aalborg University and the general public."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Page",
-    "section": "",
-    "text": "This site was created to promote the climate related-research at Aalborg University.\nThe site is maintained by J. Eduardo Vera-Valdés."
-  },
-  {
-    "objectID": "about.html#about-this-site",
-    "href": "about.html#about-this-site",
-    "title": "The Page",
-    "section": "",
-    "text": "This site was created to promote the climate related-research at Aalborg University.\nThe site is maintained by J. Eduardo Vera-Valdés."
-  },
-  {
-    "objectID": "climateeconometrics.html",
-    "href": "climateeconometrics.html",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "earthday2024_callforspeakers.html",
-    "href": "earthday2024_callforspeakers.html",
+    "objectID": "earthday2024_gallery.html",
+    "href": "earthday2024_gallery.html",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "The next Earth Day will be on April 22, 2024.\nMore information will be available closer to the date. For questions, please contact J. Eduardo Vera-Valdés.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2025.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.\n\n\n\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.\n\n\n\n\nThis event is sponsored by the Danish Data Science Academy DDSA.\n\n\n\n\nIf you want to know more about Earth Day, follow this link.",
+    "text": "Photo Gallery\n\n\n\n\n\n\n\n\n\n“Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez\n\n\n\n\n\n\n\n“A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen\n\n\n\n\n\n\n\n\n\n“Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli\n\n\n\n\n\n\n\n“Econometric methods for \\(\\delta^{18}O\\) and \\(\\delta^{13}C\\)” by Eric Hillebrand"
+  },
+  {
+    "objectID": "earthday2024_researchpresentations.html",
+    "href": "earthday2024_researchpresentations.html",
+    "title": " Earth Day 2024",
+    "section": "",
+    "text": "Estimating running correlations for two environmental time series: not running into problems by Josué Moisés Polanco Martínez, Assistant Professor, Universidad of Salamanca.\nClimate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US by Chiara Binelli, Associate Professor, University of Bologna.\nA New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\nGreen portfolios by Frederik Lundtofte, Professor, Aalborg University.\nState space models for paleo time series by Eric Hillebrand, Professor, Aarhus University.\n\nPresentations are 25 minutes + 5 minutes for questions.\n\n\nThe schedule can be found here.",
     "crumbs": [
-      "Call for Speakers  "
+      "Research Presentations"
     ]
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#call-for-speakers",
-    "href": "earthday2024_callforspeakers.html#call-for-speakers",
+    "objectID": "earthday2024_researchpresentations.html#schedule",
+    "href": "earthday2024_researchpresentations.html#schedule",
     "title": " Earth Day 2024",
     "section": "",
-    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2025.\n\n\nWe are looking for enthusiastic data scientists and researchers to join us and share their knowledge and experience in the fight against global heating. We are looking for contributions in the following areas:\n\nData science for climate change\nData science for sustainability\nData science for the environment\nData science for the energy transition\n\nWhere the term “data science” is understood in a broad sense, including applied mathematics, machine learning, statistics, data analysis, data visualization, and data engineering.\nIf you are interested in participating, please send an email to J. Eduardo Vera-Valdés for more information.",
+    "text": "The schedule can be found here.",
     "crumbs": [
-      "Call for Speakers  "
+      "Research Presentations"
     ]
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#act-now",
-    "href": "earthday2024_callforspeakers.html#act-now",
-    "title": " Earth Day 2024",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": " Climate Research at Aalborg University",
     "section": "",
-    "text": "The time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
-    "crumbs": [
-      "Call for Speakers  "
-    ]
+    "text": "This is the website for climate-related research at Aalborg University.\nIt hosts the Earth Day Events and Climate Econometrics Research Projects at the University."
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#sponsorship",
-    "href": "earthday2024_callforspeakers.html#sponsorship",
-    "title": " Earth Day 2024",
+    "objectID": "index.html#earth-day-events",
+    "href": "index.html#earth-day-events",
+    "title": " Climate Research at Aalborg University",
+    "section": "Earth Day Events",
+    "text": "Earth Day Events\nThe Department of Mathematical Sciences organizes yearly events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.\nThe events are open to the public and are free of charge. Moreover, drinks and pizza are provided to all participants at the hackathon.\nThe next Earth Day will be on April 22, 2025.\nIf you want to know more about Earth day, follow this link."
+  },
+  {
+    "objectID": "index.html#climate-econometrics-research-projects",
+    "href": "index.html#climate-econometrics-research-projects",
+    "title": " Climate Research at Aalborg University",
+    "section": "Climate Econometrics Research Projects",
+    "text": "Climate Econometrics Research Projects\nThe Department of Mathematical Sciences hosts several research projects on Climate Econometrics. To get more information about the projects, follow this link."
+  },
+  {
+    "objectID": "index.html#act-now",
+    "href": "index.html#act-now",
+    "title": " Climate Research at Aalborg University",
+    "section": "Act Now",
+    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations."
+  },
+  {
+    "objectID": "index.html#about-the-website",
+    "href": "index.html#about-the-website",
+    "title": " Climate Research at Aalborg University",
+    "section": "About the Website",
+    "text": "About the Website\nThe site is maintained by J. Eduardo Vera-Valdés. Report any issues here."
+  },
+  {
+    "objectID": "previousevents/earthday2023_gallery.html",
+    "href": "previousevents/earthday2023_gallery.html",
+    "title": "Earth Day 2023",
     "section": "",
-    "text": "This event is sponsored by the Danish Data Science Academy DDSA.",
+    "text": "Thanks to all participants for making Earth Day 2023 a huge success!\nWe hope to see you again next year.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Department of Mathematical Sciences ready for the Earth Day Event.\n\n\n\n\n\n\n\nGetting ready\n\n\n\nWelcome speech by the Head of Section, Ege Rubak.\n\n\n\nEge Rubak, Head of Stats and MathEcon Section\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMikkel Mandrup Nielsen, Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach\n\n\n\n\n\n\n\nOlivia Kvist, The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks\n\n\n\n\n\n\n\n\n\nJingying Zhou Lykke, Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model\n\n\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model",
     "crumbs": [
-      "Call for Speakers  "
+      "Photo Gallery"
     ]
   },
   {
-    "objectID": "earthday2024_callforspeakers.html#about-earth-day",
-    "href": "earthday2024_callforspeakers.html#about-earth-day",
-    "title": " Earth Day 2024",
+    "objectID": "previousevents/earthday2023_gallery.html#welcome-to-earth-day-2023",
+    "href": "previousevents/earthday2023_gallery.html#welcome-to-earth-day-2023",
+    "title": "Earth Day 2023",
     "section": "",
-    "text": "If you want to know more about Earth Day, follow this link.",
+    "text": "The Department of Mathematical Sciences ready for the Earth Day Event.\n\n\n\n\n\n\n\nGetting ready\n\n\n\nWelcome speech by the Head of Section, Ege Rubak.\n\n\n\nEge Rubak, Head of Stats and MathEcon Section",
     "crumbs": [
-      "Call for Speakers  "
+      "Photo Gallery"
     ]
   },
   {
-    "objectID": "earthday2024_hackathon.html",
-    "href": "earthday2024_hackathon.html",
-    "title": " Earth Day 2024",
+    "objectID": "previousevents/earthday2023_gallery.html#research-presentations",
+    "href": "previousevents/earthday2023_gallery.html#research-presentations",
+    "title": "Earth Day 2023",
     "section": "",
-    "text": "This year’s event interactive session consists of a hackathon and a meme competition.",
+    "text": "Mikkel Mandrup Nielsen, Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach\n\n\n\n\n\n\n\nOlivia Kvist, The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks\n\n\n\n\n\n\n\n\n\nJingying Zhou Lykke, Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model\n\n\n\n\n\n\n\n\n\nMikkel Bennedsen, A New Statistical Reduced Complexity Climate Model",
     "crumbs": [
-      "Hackathon"
+      "Photo Gallery"
     ]
   },
   {
-    "objectID": "earthday2024_hackathon.html#instructions",
-    "href": "earthday2024_hackathon.html#instructions",
-    "title": " Earth Day 2024",
-    "section": "Instructions",
-    "text": "Instructions\n\nThe challenge\nYour aim is to develop a tool that can be used to communicate the causes and effects of climate change to the general public. The tool can be a plot, gif, website, an app, a game, a visualization, or any other form of communication that you think will be effective in reaching a wide audience. The tool should be engaging, informative, and easy to understand, and should be based on true scientific data.\n\n\nThe data\nYou can use any data you like to develop your tool, the only restriction is that it has to be true data publicly available.\nExamples of data sources include:\n\nOur World in Data\nIPCC Data Distribution Centre\nNOAA Climate Data Online\nNASA GISS Surface Temperature Analysis\nZachary Labe Repository\n\n\n\nThe task\n\nForm a team of 2-4 people. You can also participate individually.\nChoose the data you want to use. You can combine data from different sources if you like.\nDevelop a tool to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like.\nPrepare a short pitch/presentation to showcase your tool to the judges.\nSubmit the steps to reproduce your tool in a GitHub repository or via email to the organizers.\n\n\n\nThe timeline\n\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30 Deadline for submission of solutions.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n\n\n\nExamples\nAs inspiration, you can look at show your stripes:\n\n\n\nTemperature change in Denmark since 1850 #showyourstripes\n\n\nOr the following gif:\n\n\n\nGlobal temperature anomalies for August 2020 vs 1951-1980 baseline\n\n\n\n\nThe judging\nThe judging will be based on the following criteria:\n\nInnovation: How innovative is the tool?\nEngagement: How engaging is the tool?\nInformative: How informative is the tool?\nEase of understanding: How easy is it to understand the tool?\nRelevance: How relevant is the tool to the challenge?",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "earthday2024_hackathon.html#instructions-1",
-    "href": "earthday2024_hackathon.html#instructions-1",
-    "title": " Earth Day 2024",
-    "section": "Instructions",
-    "text": "Instructions\n\nThe challenge\nDevelop a meme that communicates the causes and/or effects of climate change in a fun and engaging way. The meme should be printed and displayed in the blackboard of the event’s venue (Auditorium 5.034). Do not forget to include your name and affiliation below the meme.\n\n\nThe timeline\nMake sure to submit your meme by 16:30. The winner will be announced at 17:00.\n\n\nThe judging\nThe winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "earthday2024_schedule.html",
-    "href": "earthday2024_schedule.html",
-    "title": " Earth Day 2024",
+    "objectID": "previousevents/earthday2023_schedule.html",
+    "href": "previousevents/earthday2023_schedule.html",
+    "title": "Earth Day 2023",
     "section": "",
-    "text": "Schedule\n\n8:25-8:30 Welcome.\n8:30-9:00 “Estimating running correlations for two environmental time series: not running into problems” by Josué Moisés Polanco Martínez*, Assistant Professor, Universidad of Salamanca.\n9:00-9:30 “Climate change perceptions, environmental actions, support for policy, and information provision: experimental evidence from the US” by Chiara Binelli*, Associate Professor, University of Bologna.\n9:30-10:00 “A New Approach to the CO2 Airborne Fraction: Enhancing Statistical Precision and Tackling Zero Emissions” by Mikkel Bennedsen, Associate Professor, Aarhus University. Link to paper.\n10:00-10:30 Coffee break.\n10:30-11:00 “Green portfolios” by Frederik Lundtofte, Professor, Aalborg University.\n11:00-11:30 “State space models for paleo time series” by Eric Hillebrand, Professor, Aarhus University.\n11:30-11:45 Break.\n11:45-12:00 Hackathon instructions and Q&A.\n12:00-16:30 Hackathon with pizza drop around 13:00.\n16:30-17:00 Evaluation of solutions.\n17:00 Hackathon winner announcement.\n12:00-17:00 Meme competition.\n18:30 Event dinner for speakers and organizers.\n\nPresentations are 25 minutes + 5 minutes for questions.",
+    "text": "Schedule\n\n8:25-8:30 Welcome\n8:30-8:55 “Optimizing Battery Capacity: A Data-Driven and Deep Learning Approach” by Mikkel Mandrup, Aalborg University\n8:55-9:20 “The Effect of IPCC’s Release of The Sixth Synthesis Report on Green vs. Brown (Energy) Stocks” by Olivia Kvist, Aalborg University\n9:20-9:30 Coffe break\n9:30-9:55 “Global Temperature Projections from a Statistical Energy Balance Model Using Multiple Sources of Historical Data” by Jingying Zhou Lykke, Aarhus University [Link to the article]\n9:55-10:20 “A New Statistical Reduced Complexity Climate Model” by Mikkel Bennedsen, Aarhus University\n10:20-10:50 Coffe + Cake break\n10:50-11:00 Hackathon rules\n11:00-14:30 Hackathon with pizza drop around noon\n14:30-15:00 Evaluation of solutions\n15:00 Hackathon Winner Announcement\n15:00-17:00 Meme Competition (Fridays Bar adjacent)\n18:30 Event Dinner\n\nPresentations are 20 minutes + 5 minutes for questions.",
     "crumbs": [
       "Schedule"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023.html#organizers",
-    "href": "previousevents/earthday2023.html#organizers",
-    "title": " Earth Day 2023",
-    "section": "Organizers",
-    "text": "Organizers\n\nJ. Eduardo Vera Valdés\nChristophe Biscio\nYossi Bleile",
-    "crumbs": [
-      "Earth Day 2023"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023.html#sponsorship",
-    "href": "previousevents/earthday2023.html#sponsorship",
-    "title": " Earth Day 2023",
-    "section": "Sponsorship",
-    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
-    "crumbs": [
-      "Earth Day 2023"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023.html#about-earth-day",
-    "href": "previousevents/earthday2023.html#about-earth-day",
-    "title": " Earth Day 2023",
-    "section": "About Earth Day",
-    "text": "About Earth Day\nIf you want to know more about Earth day, follow this link.",
-    "crumbs": [
-      "Earth Day 2023"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html",
-    "href": "previousevents/earthday2023_hackathon.html",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "Hackathon results\n\n\n\nThe winner of the Earth Day 2023 Hackathon is:\n\nTobias Kallehauge\n\nRunners ups:\n\nMartin Voigt Vejling\nMikkel Mandrup Nielsen\n\n\n\n\n\nThe files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023\n\n\n\n\n\nIn this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf\n\n\n\n\n\nThe repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7).\n\n\n\n\nYour goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset.\n\n\n\nYou will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up.",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html#repository",
-    "href": "previousevents/earthday2023_hackathon.html#repository",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "The files needed for the hackathon are available in the repository: github.com/everval/EarthDay2023",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html#instructions",
-    "href": "previousevents/earthday2023_hackathon.html#instructions",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "In this hackathon you are going to familiarize yourself with the NetCDF file format and use it to generate temperature predictions.\nNetCDF (Network Common Data Form) is designed to facilitate access to array-oriented scientific data. NetCDF is a portable, self-describing format. This means that there is a header which describes the layout of the rest of the file, in particular the data arrays, as well as arbitrary file metadata in the form of name/value attributes. NetCDF is used extensively in the atmospheric and oceanographic communities to store variables, such as temperature, pressure, wind speed, and wave height. It is also used widely in climate modeling and analysis.\nFor this hackathon, you will be working on a subsample from the GISS Surface Temperature Analysis version 4 (GISTEMP v4). GISTEMP provides a measure of the changing global surface temperature with monthly resolution since 1880. It takes historical temperature data from land-based weather stations as input and combines these data to produce an estimate of temperature change over large regions.\nDue to its compressing, in all programming languages opening NetCDF requires installing a package and a specific list of commands.\n\nIn R, you can try ncdf4: cran.r-project.org/web/packages/ncdf4/index.html\nIn Python, one option is netCDF4: pypi.org/project/netCDF4/\nJulia has NetCDF.jl for the task: juliapackages.com/p/netcdf",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html#data",
-    "href": "previousevents/earthday2023_hackathon.html#data",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "The repository contains three data files in the NetCDF format with suffix .nc. The files contain data on temperature anomalies for a list of latitudes and longitudes across the globe in a 10 by 10 grid. In all files, the last year (12 observations) at the (6,6) grid is missing. Moreover:\n\nEx2 also has missing data in grids (5:6)X(6:7).\nEx3 has missing data in grids (5:7)X(5:7).",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html#the-task",
-    "href": "previousevents/earthday2023_hackathon.html#the-task",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "Your goal is to impute/predict/forecast the missing observations at the (6,6) grid. You can use any method and programming language for prediction, but your results should be shown in a CSV (comma-separated values) file.\nAlongside your predictions, the code used to create the predictions should be provided.\nThe winner of the hackathon is the person/team which predictions achieve the minimum squared loss from the true temperature anomalies while using the least amount of information.\nWe use a point system to determine the winner. Points are awarded in a reverse-order to the top 10 results from solving the exercise using the first dataset temp_anomaly_ex1.nc. That is, the top solution gets 10 points, second gets 9, and so on.\nOnce you are confident with your solution to the first exercise, additional points can be achieved by solving the problem using the second or third datasets. Points are awarded in a reverse order for the top 3 solutions for the exercise using the third dataset, and for the top 2 solutions for the exercise using the second dataset.",
-    "crumbs": [
-      "Hackathon"
-    ]
-  },
-  {
-    "objectID": "previousevents/earthday2023_hackathon.html#the-format",
-    "href": "previousevents/earthday2023_hackathon.html#the-format",
-    "title": "Earth Day 2023",
-    "section": "",
-    "text": "You will have 3.5 hours for the task. You can work in groups or by yourself. We target the groups to be at a maximum of 3 participants, but bigger groups can be accommodated.\nThere is some example starter code using Julia in this repository, you should read it first to familiarize yourselves with the file format.\nYou may ask questions during the hackathon, but try to google things first to speed things up.",
-    "crumbs": [
-      "Hackathon"
     ]
   },
   {
