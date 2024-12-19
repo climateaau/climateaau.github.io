@@ -24,7 +24,7 @@ But a much nicer looking version is available at the [manuscript repository here
 
 ### Text
 
-Vera-Valdés, J.E., and Griva, C. (2024). "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors". arXiv: 2411.07836. URL: [https://arxiv.org/abs/2411.07836](https://arxiv.org/abs/2411.07836).
+Vera-Valdés, J.E., and Grivas, C. (2024). "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors". arXiv: 2411.07836. URL: [https://arxiv.org/abs/2411.07836](https://arxiv.org/abs/2411.07836).
 
 ### BibTex
 
