@@ -62,6 +62,10 @@ website:
           file: earthday2025.qmd
         - text: "Call for Speakers"
           file: earthday2025_callforspeakers.qmd
+        - text: "Schedule"
+          file: earthday2025_schedule.qmd
+        - text: "Register"
+          url: "https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJURUU5S1Q0Q09MT09RVkFaVkFRMEhXTFJZQy4u"
 
 
 format:
