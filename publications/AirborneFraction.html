@@ -8,7 +8,7 @@
 
 <meta name="author" content="J.E. Vera-Valdés">
 <meta name="author" content="C. Grivas">
-<meta name="dcterms.date" content="2024-01-01">
+<meta name="dcterms.date" content="2025-01-01">
 
 <title>Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors – AAU Climate</title>
 <style>
@@ -106,35 +106,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors – AAU Climate">
@@ -220,7 +191,7 @@ window.Quarto = {
 <div class="quarto-title">
 <h1 class="title">Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Working Paper</div>
+    <div class="quarto-category">Published</div>
     <div class="quarto-category">Econometrics</div>
     <div class="quarto-category">Climate Econometrics</div>
   </div>
@@ -241,7 +212,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2024</p>
+      <p class="date">2025</p>
     </div>
   </div>
   
@@ -255,12 +226,12 @@ window.Quarto = {
 
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>This paper discusses the effect of measurement errors in the estimation of the carbon dioxide (CO<span class="math inline">\(_2\)</span>) airborne fraction. We are the first to present regression-based estimates and standard errors that are robust to measurement errors for the extended model, the preferred specification to estimate the CO<span class="math inline">\(_2\)</span> airborne fraction. To achieve this goal, we add to the literature in three ways: <span class="math inline">\(i)\)</span> We generalise the Deming regression to handle multiple variables. <span class="math inline">\(ii)\)</span> We introduce a bootstrap approach to construct confidence intervals for Deming regression in both univariate and multivariate scenarios. <span class="math inline">\(iii)\)</span> Propose to estimate the airborne fraction using instrumental variables (IV), taking advantage of the variation of additional measurements, to obtain consistent estimates that are robust to measurement errors. IV estimates for the airborne fraction are 44.8%(± 1.4%; 1<span class="math inline">\(\sigma\)</span>) for the simple specification, and 47.3%(± 1.1%; 1<span class="math inline">\(\sigma\)</span>) for the extended specification. We show that these estimates are not statistically different from the ordinary least squares (OLS) estimates, while being robust to measurement errors without relying on additional assumptions. In contrast, OLS estimates are shown to fall outside the confidence interval of the Deming regression estimates.</p>
+<p>The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets.</p>
 </section>
 <section id="download" class="level2">
 <h2 class="anchored" data-anchor-id="download">Download</h2>
-<p>Download the working paper freely (open access) <a href="https://arxiv.org/abs/2411.07836">here</a>.</p>
-<p>But a much nicer looking version is available at the <a href="https://everval.github.io/Robust-CO2-Estimation/">manuscript repository here</a>. This version is done using Quarto and contains links to the code and data used in the paper.</p>
+<p>Download the accepted manuscript freely (open access) <a href="http://iopscience.iop.org/article/10.1088/2515-7620/adc06b">here</a>.</p>
+<p>A Jupyter notebook version of the submitted manuscript is available at the <a href="https://everval.github.io/Robust-CO2-Estimation/">repository here</a>. This version is done using Quarto and contains links to the code and data used in the paper.</p>
 </section>
 <section id="recommended-citation" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-citation">Recommended citation</h2>
@@ -268,18 +239,21 @@ window.Quarto = {
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Text</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">BibTex</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p>Vera-Valdés, J.E., and Grivas, C. (2024). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. arXiv: 2411.07836. URL: <a href="https://arxiv.org/abs/2411.07836">https://arxiv.org/abs/2411.07836</a>.</p>
+<p>Vera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: <a href="http://iopscience.iop.org/article/10.1088/2515-7620/adc06b">10.1088/2515-7620/adc06b</a>.</p>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@misc</span>{<span class="ot">veravald</span>é<span class="ot">s2024robustestimationcarbondioxide</span>,</span>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">veravaldes2025robustestimationco2</span>,</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>      <span class="dt">title</span>={Robust estimation of carbon dioxide airborne fraction under measurement errors}, </span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>      <span class="dt">author</span>={J. Eduardo Vera-Valdés and Charisios Grivas},</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>      <span class="dt">year</span>={2024},</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>      <span class="dt">eprint</span>={2411.07836},</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>      <span class="dt">archivePrefix</span>={arXiv},</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>      <span class="dt">primaryClass</span>={stat.AP},</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>      <span class="dt">url</span>={https://arxiv.org/abs/2411.07836}, </span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>      <span class="dt">year</span>={2025},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>      <span class="dt">journal</span>={Environmental Research Communications},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>      <span class="dt">url</span>={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>      <span class="dt">doi</span>={10.1088/2515-7620/adc06b},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>      <span class="dt">volume</span>={7},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>      <span class="dt">number</span>={3},</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>      <span class="dt">pages</span>={031009},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>      <span class="dt">publisher</span>={IOP Publishing}</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </div>
 </div>
