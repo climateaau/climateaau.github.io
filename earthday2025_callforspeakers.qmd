@@ -4,6 +4,11 @@ subtitle: "Climate Change Data Dashboards"
 image: /images/earth_day_cc.png
 ---
 
+::: {.callout-important}
+
+The call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2026.
+
+:::
 
 # Call for Speakers 
 

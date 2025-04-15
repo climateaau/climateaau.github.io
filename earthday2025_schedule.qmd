@@ -6,21 +6,21 @@ image: /images/earth_day_cc.png
 
 # Schedule (Tentative)
 
-- 8:25-8:30 Welcome coffee and registration.
+- 08:25-08:30 Welcome coffee and registration.
 
-- 8:30-8:45 Hackathon instructions and Q&A.
+- 08:30-08:45 Hackathon instructions and Q&A.
 
-- 8:45-14:00 Hackathon with pizza drop around 12:00.
+- 08:45-14:00 Hackathon with pizza drop around 12:00.
 
 - 14:00-14:30 Evaluation of solutions.
 
-- 14:30 Hackathon winner announcement.
+- 14:30-14:35 Hackathon winner announcement.
 
 - 14:35-14:40 Start of the research presentations.
 
-- 14:40-15:10 "**TBD**" by [*Simon Luck*](https://www.unibo.it/sitoweb/simon.luck2/en), PhD Student, University of Bologna.
+- 14:40-15:10 **Using Online Data to Measure Climate Change Awareness** by [*Simon Luck*](https://www.unibo.it/sitoweb/simon.luck2/en), PhD Student, University of Bologna.
 
-- 15:10-15:40 "**TBD**" by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich), Assistant Professor, Vrije Universiteit Amsterdam.
+- 15:10-15:40 **A Statistical Analysis of Atmospheric Ethane** by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich), Assistant Professor, Vrije Universiteit Amsterdam.
 
 - 15:40-16:00 Coffee break.
 

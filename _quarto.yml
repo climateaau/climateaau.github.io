@@ -60,21 +60,23 @@ website:
       contents:
         - text: "Earth Day 2025"
           file: earthday2025.qmd
-        - text: "Call for Speakers"
-          file: earthday2025_callforspeakers.qmd
         - text: "Schedule"
           file: earthday2025_schedule.qmd
         - text: "Register"
           url: "https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJURUU5S1Q0Q09MT09RVkFaVkFRMEhXTFJZQy4u"
+        - text: "Call for Speakers"
+          file: earthday2025_callforspeakers.qmd
 
 
 format:
   html:
-    theme:  
-      light: flatly
-      dark: darkly
+    theme: brite
+    linkcolor: green
+    linkhovercolor: purple
+#      light: flatly
+#      dark: darkly
     css: styles.css
-    fontsize: 1.1rem
+#    fontsize: 1.1rem
     toc: true
 
 
