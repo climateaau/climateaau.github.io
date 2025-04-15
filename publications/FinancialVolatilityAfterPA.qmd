@@ -1,22 +1,18 @@
 ---
 title: "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis"
 author: ["J.E. Vera-Valdés", "O. Kvist"]
-date: "2024/01/01"
+date: "2025/01/27"
 date-format: "YYYY"
 image: /images/LM_Paris_Energy_LW_PRE_LogReturns.png
 image-alt: "Violing plots long memory estimate climate stocks after Paris Agreement"
-categories: ["Working Paper", "Climate Econometrics", "COVID-19", "Long Memory", "Data Science"]
+categories: ["Published", "Climate Econometrics", "COVID-19", "Long Memory", "Data Science"]
 ---
 
 ## Abstract
 
 This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.
 
-The codes to replicate the results of this paper can be found [here]().
-
-## Download
-
-The paper can be downloaded [here]().
+The codes to replicate the results of this paper can be found [here](https://github.com/everval/LM_Paris_Green_Julia).
 
 ## Recommended citation
 
@@ -24,15 +20,17 @@ The paper can be downloaded [here]().
 
 ### Text
 
-Vera-Valdés, J.E., and Kvist, O. (2024). "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis." 
+Vera-Valdés, J.E., and Kvist, O. (2025). "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis." Accepted in Advances in Econometrics.
 
 ### BibTex
 
 ```bibtex
-@article{VERAVALDES2024,
+@article{VERAVALDES2024c,
 title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},
-year = {2024},
+year = {2025},
 author = {Vera-Valdés, J.E., and Kvist, O.},
+journal = {Advances in Econometrics},
+number = {Forthcoming},
 }
 ```
 

@@ -1,22 +1,22 @@
 ---
 title: "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors"
 author: ["J.E. Vera-Valdés", "C. Grivas"]
-date: "2024/11/13"
+date: "2025/03/27"
 date-format: "YYYY"
 image: /images/EmissionsCO2.png
 image-alt: "CO2 emissions from anthropogenic sources"
-categories: ["Working Paper", "Econometrics", "Climate Econometrics"]
+categories: ["Published", "Econometrics", "Climate Econometrics"]
 ---
 
 ## Abstract
 
-This paper discusses the effect of measurement errors in the estimation of the carbon dioxide (CO$_2$) airborne fraction. We are the first to present regression-based estimates and standard errors that are robust to measurement errors for the extended model, the preferred specification to estimate the CO$_2$ airborne fraction. To achieve this goal, we add to the literature in three ways: $i)$ We generalise the Deming regression to handle multiple variables. $ii)$ We introduce a bootstrap approach to construct confidence intervals for Deming regression in both univariate and multivariate scenarios. $iii)$ Propose to estimate the airborne fraction using instrumental variables (IV), taking advantage of the variation of additional measurements, to obtain consistent estimates that are robust to measurement errors. IV estimates for the airborne fraction are 44.8%(± 1.4%; 1$\sigma$) for the simple specification, and 47.3%(± 1.1%; 1$\sigma$) for the extended specification. We show that these estimates are not statistically different from the ordinary least squares (OLS) estimates, while being robust to measurement errors without relying on additional assumptions. In contrast, OLS estimates are shown to fall outside the confidence interval of the Deming regression estimates.
+The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets.
 
 ## Download
 
-Download the working paper freely (open access) [here](https://arxiv.org/abs/2411.07836).
+Download the accepted manuscript freely (open access) [here](http://iopscience.iop.org/article/10.1088/2515-7620/adc06b).
 
-But a much nicer looking version is available at the [manuscript repository here](https://everval.github.io/Robust-CO2-Estimation/). This version is done using Quarto and contains links to the code and data used in the paper.
+A Jupyter notebook version of the submitted manuscript is available at the [repository here](https://everval.github.io/Robust-CO2-Estimation/). This version is done using Quarto and contains links to the code and data used in the paper.
 
 ## Recommended citation
 
@@ -24,19 +24,22 @@ But a much nicer looking version is available at the [manuscript repository here
 
 ### Text
 
-Vera-Valdés, J.E., and Grivas, C. (2024). "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors". arXiv: 2411.07836. URL: [https://arxiv.org/abs/2411.07836](https://arxiv.org/abs/2411.07836).
+Vera-Valdés, J.E., and Grivas, C. (2025). "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors". Environmental Research Communications. 7(3). DOI: [10.1088/2515-7620/adc06b](http://iopscience.iop.org/article/10.1088/2515-7620/adc06b).
 
 ### BibTex
 
 ```bibtex
-@misc{veravaldés2024robustestimationcarbondioxide,
+@article{veravaldes2025robustestimationco2,
       title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, 
       author={J. Eduardo Vera-Valdés and Charisios Grivas},
-      year={2024},
-      eprint={2411.07836},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP},
-      url={https://arxiv.org/abs/2411.07836}, 
+      year={2025},
+      journal={Environmental Research Communications},
+      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, 
+      doi={10.1088/2515-7620/adc06b},
+      volume={7},
+      number={3},
+      pages={031009},
+      publisher={IOP Publishing}
 }
 ```
 
