@@ -1,0 +1,90 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2025"
+subtitle: "Climate Change Data Dashboards"
+image: /images/earth_day_cc.png
+---
+
+This year's event interactive session consists of a [hackathon](earthday2024_hackathon.qmd#hackathon) and a [meme competition](earthday2024_hackathon.qmd#meme-competition).
+
+---
+
+# Hackathon
+
+Welcome to the Earth Day 2025 Hackathon! This hackathon is part of Earth Day 2025, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The hackathon is an opportunity for participants to work together to develop innovative ways of disseminating the causes and effects of climate change.
+
+## Instructions
+
+### The challenge
+
+Your aim is to develop a data dashboard that can be used to communicate the causes and/or effects of climate change to the general public. The dashboard should be engaging, informative, and easy to understand, and should be based on true scientific data.
+
+### The data
+
+You can use any data you like to develop your dashboard, the only restriction is that it has to be *true data publicly available*. 
+
+Examples of data sources include:
+
+- [Our World in Data](https://ourworldindata.org/climate-change)
+- [IPCC Data Distribution Centre](https://www.ipcc-data.org/)
+- [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/)
+- [NASA GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
+- [Zachary Labe Repository](https://zacklabe.com/resources-and-data-references/)
+
+### The task
+
+1. Form a team of 1-4 people. 
+   - You can work alone or in a team. 
+   - If you are looking for a team, please let the organizers know and we will help you find one.
+2. Choose the data you want to use. You can combine data from different sources if you like.
+3. Develop a dashboard to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like. But we recommend using [Quarto](https://quarto.org) for the dashboard. More information on Quarto can be found below. 
+4. Prepare a short pitch/presentation to showcase your dashboard to the judges.
+5. Submit the code to generate your dashboard in a GitHub repository or via email to the organizers.
+
+### The timeline
+
+- 08:25-08:30 Welcome coffee and registration.
+- 08:30-08:45 Hackathon instructions and Q&A.
+- 08:45-14:00 Hackathon with pizza drop around 12:00.
+- 14:00-14:30 Evaluation of solutions.
+- 14:30-14:35 Hackathon winner announcement.
+
+### Examples and more information 
+
+[Quarto](https://quarto.org) is a scientific and technical publishing system that allows you to create documents, presentations, websites, and dashboards using R, Python, or Julia. It is a great tool for creating interactive dashboards and is easy to use. You can find more information on Quarto [here](https://quarto.org).
+
+For more information on how to create dashboards with Quarto, you can check out the [Quarto documentation](https://quarto.org/docs/dashboards/) and the video tutorials [here](https://youtu.be/HW7QbqI4fH0?si=aG2Sk_hucVNAzFhv) and [here](https://youtu.be/_VGJIPRGTy4?si=ituI4qh82WSA5mYk).
+
+You can also find a lot of examples of dashboards created with Quarto [here](https://quarto.org/docs/gallery/#dashboards). If you click on the </> icon in the top right corner of each dashboard, you can see the code used to create it. 
+
+As inspiration, for a climate dashboard you can look at the [following](https://everval.github.io/Dashboard-Breaching-1.5C/).
+
+
+
+### The judging
+
+The judging will be based on the following criteria:
+
+- **Relevance**: How relevant is the dashboard to the topic of climate change?
+- **Engagement**: How engaging is the dashboard?
+- **Informative**: How informative is the dashboard?
+- **Ease of understanding**: How easy is it to understand the dashboard?
+
+---
+
+# Meme competition
+
+Welcome to the Earth Day 2025 Meme Competition! This competition is part of Earth Day 2025, an event that aims to bring together researchers and all interested to discuss the latest research on climate change, its impacts, and ways to communicate them to the general public. The meme competition is an opportunity for participants to develop fun memes that communicate the causes and effects of climate change in a fun and engaging way.
+
+## Instructions
+
+### The challenge
+
+Develop a meme that communicates the causes and/or effects of climate change in a fun and engaging way. The meme should be printed and displayed in the event's venue. Do not forget to include your name and affiliation below the meme.
+
+### The timeline
+
+Make sure to submit your meme by 14:00. The winner will be announced at 14:30.
+
+### The judging
+
+The winner will be selected on popular vote. Attendees will be able to vote for their favourite meme during the event.
