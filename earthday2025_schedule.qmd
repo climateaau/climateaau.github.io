@@ -4,9 +4,9 @@ subtitle: "Climate Change Data Dashboards"
 image: /images/earth_day_cc.png
 ---
 
-# Schedule (Tentative)
+# Schedule 
 
-- 08:25-08:30 Welcome coffee and registration.
+- 08:25-08:30 Welcome coffee and registration[^1].
 
 - 08:30-08:45 Hackathon instructions and Q&A.
 
@@ -14,9 +14,9 @@ image: /images/earth_day_cc.png
 
 - 14:00-14:30 Evaluation of solutions.
 
-- 14:30-14:35 Hackathon winner announcement.
+- 14:30-14:35 Hackathon winner announcement[^2].
 
-- 14:35-14:40 Start of the research presentations.
+- 14:35-14:40 Start of the research presentations[^3].
 
 - 14:40-15:10 **Using Online Data to Measure Climate Change Awareness** by [*Simon Luck*](https://www.unibo.it/sitoweb/simon.luck2/en), PhD Student, University of Bologna.
 
@@ -28,5 +28,8 @@ image: /images/earth_day_cc.png
 
 - 18:30 Event dinner for speakers.
 
+[^1]: Hackathon participants are welcome to join later during the day. Instructions will be posted at the event website and the organizers will be available to answer any questions.
 
-Presentations are 25 minutes + 5 minutes for questions.
+[^2]: Prizes will be awarded to the best solutions. 
+
+[^3]: The research presentations are aimed at a general audience. *No previous experience on the topics is needed*. Presentations are 25 minutes + 5 minutes for questions.
