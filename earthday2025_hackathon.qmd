@@ -4,7 +4,7 @@ subtitle: "Climate Change Data Dashboards"
 image: /images/earth_day_cc.png
 ---
 
-This year's event interactive session consists of a [hackathon](earthday2024_hackathon.qmd#hackathon) and a [meme competition](earthday2024_hackathon.qmd#meme-competition).
+This year's event interactive session consists of a [hackathon](earthday2025_hackathon.qmd#hackathon) and a [meme competition](earthday2024_hackathon.qmd#meme-competition).
 
 ---
 
@@ -28,7 +28,6 @@ Examples of data sources include:
 - [IPCC Data Distribution Centre](https://www.ipcc-data.org/)
 - [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/)
 - [NASA GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
-- [Zachary Labe Repository](https://zacklabe.com/resources-and-data-references/)
 
 ### The task
 
@@ -38,7 +37,10 @@ Examples of data sources include:
 2. Choose the data you want to use. You can combine data from different sources if you like.
 3. Develop a dashboard to communicate the causes and/or effects of climate change. You are free to use any programming language or software you like. But we recommend using [Quarto](https://quarto.org) for the dashboard. More information on Quarto can be found below. 
 4. Prepare a short pitch/presentation to showcase your dashboard to the judges.
-5. Submit the code to generate your dashboard in a GitHub repository or via email to the organizers.
+5. Submit the code to generate your dashboard in the GitHub classroom repository. 
+   - You can use the GitHub classroom repository created for this event [here](https://classroom.github.com/a/kHmR41Gj).
+   - If you are not familiar with GitHub, please let the organizers know and we will help you.
+
 
 ### The timeline
 
@@ -47,6 +49,11 @@ Examples of data sources include:
 - 08:45-14:00 Hackathon with pizza drop around 12:00.
 - 14:00-14:30 Evaluation of solutions.
 - 14:30-14:35 Hackathon winner announcement.
+
+### The place
+
+- We have reserved the *pitch area (C009)* at AAU Innovation for the hackathon, but you are free to work anywhere you like.
+- The pizza will be served at AAU Innovation with your badge which you will receive at the registration desk.
 
 ### Examples and more information 
 
@@ -57,7 +64,6 @@ For more information on how to create dashboards with Quarto, you can check out 
 You can also find a lot of examples of dashboards created with Quarto [here](https://quarto.org/docs/gallery/#dashboards). If you click on the </> icon in the top right corner of each dashboard, you can see the code used to create it. 
 
 As inspiration, for a climate dashboard you can look at the [following](https://everval.github.io/Dashboard-Breaching-1.5C/).
-
 
 
 ### The judging
