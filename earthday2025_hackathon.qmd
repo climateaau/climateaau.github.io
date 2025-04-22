@@ -52,7 +52,7 @@ Examples of data sources include:
 
 ### The place
 
-- We have reserved an area at atAAU Innovation for the hackathon (more information will follow), but you are free to work anywhere you like.
+- We have reserved the *pitch area C.009* (ground floor next to foodhub) at AAU Innovation for the hackathon, but you are free to work anywhere you like.
 - The pizza will be served at AAU Innovation with your badge which you will receive at the registration desk.
 
 ### Examples and more information 
