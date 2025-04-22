@@ -8,7 +8,6 @@ image: /images/earth_day_cc.png
 
 # Announcement
 
-
 The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the **Earth Day 2025 Event**. The theme for this year is "*Climate Change Data Dashboards*".  
 
 The event is a day-long celebration of the importance and challenges of communicating climate change research to the public. *The event is open to researchers, students, and anyone who is interested in learning more about this pressing topic*. 
@@ -29,7 +28,7 @@ The event features:
 - **A climate change-related meme-competition**. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event's website.
 
 
-## Confirmed External Speakers
+## External Speakers
  
 - [Eric Hillebrand](https://sites.google.com/site/erichillebrand/home), Professor of Econometrics at the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark. 
 

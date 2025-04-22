@@ -24,7 +24,7 @@ image: /images/earth_day_cc.png
 
 - 15:40-16:00 Coffee break.
 
-- 16:00-16:30 "**TBD**" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/), Professor, Aarhus University.
+- 16:00-16:30 "**Energy, Economy, and Emissions: A State Space Approach to Projections**" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/), Professor, Aarhus University.
 
 - 18:30 Event dinner for speakers.
 

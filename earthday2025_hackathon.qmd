@@ -4,7 +4,7 @@ subtitle: "Climate Change Data Dashboards"
 image: /images/earth_day_cc.png
 ---
 
-This year's event interactive session consists of a [hackathon](earthday2025_hackathon.qmd#hackathon) and a [meme competition](earthday2024_hackathon.qmd#meme-competition).
+This year's event interactive session consists of a [hackathon](earthday2025_hackathon.qmd#hackathon) and a [meme competition](earthday2025_hackathon.qmd#meme-competition).
 
 ---
 
@@ -52,7 +52,7 @@ Examples of data sources include:
 
 ### The place
 
-- We have reserved the *pitch area (C009)* at AAU Innovation for the hackathon, but you are free to work anywhere you like.
+- We have reserved an area at atAAU Innovation for the hackathon (more information will follow), but you are free to work anywhere you like.
 - The pizza will be served at AAU Innovation with your badge which you will receive at the registration desk.
 
 ### Examples and more information 
