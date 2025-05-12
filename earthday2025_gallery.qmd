@@ -1,0 +1,29 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2025"
+subtitle: "Climate Change Data Dashboards"
+image: /images/earth_day_cc.png
+---
+
+
+# Photo Gallery
+
+
+::: {layout="[[1,1], [1,1]]"}
+
+!["Using Online Data to Measure Climate Change Awareness" by [*Simon Luck*](https://www.unibo.it/sitoweb/simon.luck2/en)](/images/ed25/simon1.png)
+
+!["Using Online Data to Measure Climate Change Awareness" by [*Simon Luck*](https://www.unibo.it/sitoweb/simon.luck2/en)](/images/ed25/simon2.png)
+
+!["A Statistical Analysis of Atmospheric Ethane" by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich)](/images/ed25/marina1.png)
+
+
+!["A Statistical Analysis of Atmospheric Ethane" by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich)](/images/ed25/marina2.png)
+
+
+!["Energy, Economy, and Emissions: A State Space Approach to Projections" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/)](/images/ed25/eric1.png)
+
+!["Energy, Economy, and Emissions: A State Space Approach to Projections" by [*Eric Hillebrand*](https://sites.google.com/site/erichillebrand/)](/images/ed25/eric2.jpeg)
+
+
+:::
+
