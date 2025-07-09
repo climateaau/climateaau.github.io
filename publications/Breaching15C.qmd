@@ -18,6 +18,8 @@ Download the working paper freely (open access) [here](https://arxiv.org/abs/241
 
 But a much nicer looking version is available at the [manuscript repository here](https://everval.github.io/Odds-of-breaching-1.5C/). This version is done using Quarto and contains links to the code and data used in the paper.
 
+Continuously updated results can be accessed via the [dashboard here](https://everval.github.io/Dashboard-Breaching-1.5C).
+
 ## Recommended citation
 
 ::: {.panel-tabset}
