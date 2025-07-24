@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="J.E. Vera-Valdés">
+<meta name="dcterms.date" content="2025-01-01">
 
-<title>Research Projects – AAU Climate</title>
+<title>Global Temperature Anomalies – AAU Climate</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,28 +22,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9d10abea73fd13e470456087b86bcb7d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-9d10abea73fd13e470456087b86bcb7d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,73 +104,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Research Projects – AAU Climate">
-<meta property="og:image" content="https://climateaau.github.io/images/Global_Temperature_Anomalies_Last_30_Years_ONI.png">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Global Temperature Anomalies – AAU Climate">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://climateaau.github.io//images/Global_Temperature_Anomalies_Last_30_Years_ONI.png">
 <meta property="og:site_name" content="AAU Climate">
-<meta property="og:image:alt" content="Plot showing the global temperature anomalies from preindustrial levels for different datasets since 1995.">
 <meta property="og:image:height" content="2000">
 <meta property="og:image:width" content="3000">
+<meta property="og:image:alt" content="Plot showing the global temperature anomalies from preindustrial levels for different datasets since 1995.">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -145,7 +123,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">AAU Climate</span>
     </a>
   </div>
@@ -156,7 +134,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -165,21 +143,21 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-earth-day">    
         <li>
-    <a class="dropdown-item" href="./earthday2025.html">
+    <a class="dropdown-item" href="../earthday2025.html">
  <span class="dropdown-text">2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./earthday2024.html">
+    <a class="dropdown-item" href="../earthday2024.html">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./previousevents/earthday2023.html">
+    <a class="dropdown-item" href="../previousevents/earthday2023.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./climateeconometrics.html" aria-current="page"> 
+    <a class="nav-link" href="../climateeconometrics.html"> 
 <span class="menu-text">Research Projects</span></a>
   </li>  
 </ul>
@@ -193,22 +171,46 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">Download</a></li>
+  <li><a href="#recommended-citation" id="toc-recommended-citation" class="nav-link" data-scroll-target="#recommended-citation">Recommended citation</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research Projects</h1>
-</div>
+<h1 class="title">Global Temperature Anomalies</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Replication Files</div>
+    <div class="quarto-category">Climate Econometrics</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>J.E. Vera-Valdés </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -218,213 +220,39 @@ window.Quarto = {
 </header>
 
 
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>This notebook downloads and compiles the data used in the article <a href="../publications/Breaching15C.html">“Breaching 1.5°C: Give me the odds”</a>. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events.</p>
+</section>
+<section id="download" class="level2">
+<h2 class="anchored" data-anchor-id="download">Download</h2>
+<p>Download the datasets freely <a href="https://everval.github.io/Global-Temperature-Anomalies/">here</a>.</p>
+</section>
+<section id="recommended-citation" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-citation">Recommended citation</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Text</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">BibTex</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p>Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.</p>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">vera</span>-<span class="ot">vald</span>é<span class="ot">s2024</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span> = {Vera-Valdés, J. Eduardo and Kvist, Olivia},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span> = {Breaching {1.5°C:} {Give} Me the Odds},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> = {arXiv},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">date</span> = {2024-12-17},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span> = {https://arxiv.org/abs/2412.13855},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span> = {10.48550/arXiv.2412.13855},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+</div>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UmVwbGljYXRpb24lMjBGaWxlcyUyQ0NsaW1hdGUlMjBFY29ub21ldHJpY3M=" data-listing-date-sort="1753308000000" data-listing-file-modified-sort="1753340944208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
-<div class="thumbnail"><a href="./publications/GlobalTemperatureAnomalies.html" class="no-external">
-
-<img loading="lazy" src="./images/Global_Temperature_Anomalies_Last_30_Years_ONI.png" class="thumbnail-image" alt="Plot showing the global temperature anomalies from preindustrial levels for different datasets since 1995.">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/GlobalTemperatureAnomalies.html" class="no-external">Global Temperature Anomalies</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/GlobalTemperatureAnomalies.html" class="no-external">
-This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/GlobalTemperatureAnomalies.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="UHVibGlzaGVkJTJDRWNvbm9tZXRyaWNzJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcw==" data-listing-date-sort="1743030000000" data-listing-file-modified-sort="1744710300162" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
-<div class="thumbnail"><a href="./publications/AirborneFraction.html" class="no-external">
-
-<img loading="lazy" src="./images/EmissionsCO2.png" class="thumbnail-image" alt="CO2 emissions from anthropogenic sources">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/AirborneFraction.html" class="no-external">Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/AirborneFraction.html" class="no-external">
-The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/AirborneFraction.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés, C. Grivas
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="UHVibGlzaGVkJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcyUyQ0NPVklELTE5JTJDTG9uZyUyME1lbW9yeSUyQ0RhdGElMjBTY2llbmNl" data-listing-date-sort="1737932400000" data-listing-file-modified-sort="1744710274965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
-<div class="thumbnail"><a href="./publications/FinancialVolatilityAfterPA.html" class="no-external">
-
-<img loading="lazy" src="./images/LM_Paris_Energy_LW_PRE_LogReturns.png" class="thumbnail-image" alt="Violing plots long memory estimate climate stocks after Paris Agreement">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/FinancialVolatilityAfterPA.html" class="no-external">Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/FinancialVolatilityAfterPA.html" class="no-external">
-This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis.…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/FinancialVolatilityAfterPA.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés, O. Kvist
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="V29ya2luZyUyMFBhcGVyJTJDRWNvbm9tZXRyaWNzJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcw==" data-listing-date-sort="1734390000000" data-listing-file-modified-sort="1752044566022" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="328">
-<div class="thumbnail"><a href="./publications/Breaching15C.html" class="no-external">
-
-<img loading="lazy" src="./images/Breaching-Realization10.png" class="thumbnail-image" alt="Animation showing the breach of the 1.5°C threshold for realization 10 of the HadCRUT5 dataset">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/Breaching15C.html" class="no-external">Breaching 1.5°C: Give me the odds</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/Breaching15C.html" class="no-external">
-Climate change communication is crucial to raising awareness and motivating action. In the context of breaching the limits set out by the Paris Agreement, we argue that…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/Breaching15C.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés, O. Kvist
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="V29ya2luZyUyMFBhcGVyJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcyUyQ0RhdGElMjBTY2llbmNl" data-listing-date-sort="1704150000000" data-listing-file-modified-sort="1731358738000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
-<div class="thumbnail"><a href="./publications/HighFrequencyEnergyStocks.html" class="no-external">
-
-<img loading="lazy" src="./images/HF_RBV.png" class="thumbnail-image" alt="High frequency jump test on energy stocks">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/HighFrequencyEnergyStocks.html" class="no-external">The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/HighFrequencyEnergyStocks.html" class="no-external">
-We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/HighFrequencyEnergyStocks.html" class="no-external">
-<div class="listing-author">
-O. Kvist, J.E. Vera-Valdés
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="UHVibGlzaGVkJTJDRGF0YSUyMFNjaWVuY2UlMkNDT1ZJRC0xOQ==" data-listing-date-sort="1674428400000" data-listing-file-modified-sort="1731358737000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
-<div class="thumbnail"><a href="./publications/AirPollutionCausality-MCMA-COVID19.html" class="no-external">
-
-<img loading="lazy" src="./images/AirPollutionMCMA-COVID19.png" class="thumbnail-image" alt="Mobility indexes in the MCMA during COVID-19">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/AirPollutionCausality-MCMA-COVID19.html" class="no-external">Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/AirPollutionCausality-MCMA-COVID19.html" class="no-external">
-This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/AirPollutionCausality-MCMA-COVID19.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés, C.V. Rodríguez-Caballero
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="UHVibGlzaGVkJTJDTG9uZyUyME1lbW9yeSUyQ0ZvcmVjYXN0aW5nJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcw==" data-listing-date-sort="1633989600000" data-listing-file-modified-sort="1731358738000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
-<div class="thumbnail"><a href="./publications/Nonfractional-LRD.html" class="no-external">
-
-<img loading="lazy" src="./images/CSA-TemperatureAnomalies.png" class="thumbnail-image" alt="CSA model estiamted on temperature anomalies">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/Nonfractional-LRD.html" class="no-external">Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/Nonfractional-LRD.html" class="no-external">
-This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/Nonfractional-LRD.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="UHVibGlzaGVkJTJDRGF0YSUyMFNjaWVuY2UlMkNDT1ZJRC0xOQ==" data-listing-date-sort="1632434400000" data-listing-file-modified-sort="1731358737000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
-<div class="thumbnail"><a href="./publications/AirPollutionCarrier-COVID19.html" class="no-external">
-
-<img loading="lazy" src="./images/AirPollutionCarrier-COVID19.png" class="thumbnail-image" alt="Mobility common factor COVID-19 spread">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/AirPollutionCarrier-COVID19.html" class="no-external">Air Pollution and Mobility, What Drives COVID-19?</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/AirPollutionCarrier-COVID19.html" class="no-external">
-This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/AirPollutionCarrier-COVID19.html" class="no-external">
-<div class="listing-author">
-Rodríguez-Caballero, C.V., J.E. Vera-Valdés
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="UHVibGlzaGVkJTJDQ2xpbWF0ZSUyMEVjb25vbWV0cmljcyUyQ0xvbmclMjBNZW1vcnklMkNEYXRhJTIwU2NpZW5jZQ==" data-listing-date-sort="1614121200000" data-listing-file-modified-sort="1731358739000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
-<div class="thumbnail"><a href="./publications/TemperatureAnomalies-LM-Aggregation.html" class="no-external">
-
-<img loading="lazy" src="./images/LM-Estimates-Temperatures.png" class="thumbnail-image" alt="Worldwide long memory estimates of temperature anomalies">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/TemperatureAnomalies-LM-Aggregation.html" class="no-external">Temperature Anomalies, Long Memory, and Aggregation</a>
-</h3>
-<div class="delink listing-description"><a href="./publications/TemperatureAnomalies-LM-Aggregation.html" class="no-external">
-Econometric studies for global heating have typically used regional or global temperature averages to study its long memory properties. One typical explanation behind the…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/TemperatureAnomalies-LM-Aggregation.html" class="no-external">
-<div class="listing-author">
-J.E. Vera-Valdés
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

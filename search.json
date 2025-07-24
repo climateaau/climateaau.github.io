@@ -364,107 +364,60 @@
     "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2025). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.” Accepted in Advances in Econometrics.\n\n\n@article{VERAVALDES2024c,\ntitle = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\nyear = {2025},\nauthor = {Vera-Valdés, J.E., and Kvist, O.},\njournal = {Advances in Econometrics},\nnumber = {Forthcoming},\n}"
   },
   {
-    "objectID": "publications/AirborneFraction.html",
-    "href": "publications/AirborneFraction.html",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html",
+    "href": "publications/GlobalTemperatureAnomalies.html",
+    "title": "Global Temperature Anomalies",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
   },
   {
-    "objectID": "publications/AirborneFraction.html#abstract",
-    "href": "publications/AirborneFraction.html#abstract",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "href": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "title": "Global Temperature Anomalies",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
   },
   {
-    "objectID": "publications/AirborneFraction.html#download",
-    "href": "publications/AirborneFraction.html#download",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#download",
+    "href": "publications/GlobalTemperatureAnomalies.html#download",
+    "title": "Global Temperature Anomalies",
     "section": "Download",
-    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+    "text": "Download\nDownload the datasets freely here."
   },
   {
-    "objectID": "publications/AirborneFraction.html#recommended-citation",
-    "href": "publications/AirborneFraction.html#recommended-citation",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "href": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "title": "Global Temperature Anomalies",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.\n\n\n@article{vera-valdés2024,\n  author = {Vera-Valdés, J. Eduardo and Kvist, Olivia},\n  title = {Breaching {1.5°C:} {Give} Me the Odds},\n  journal = {arXiv},\n  date = {2024-12-17},\n  url = {https://arxiv.org/abs/2412.13855},\n  doi = {10.48550/arXiv.2412.13855},\n}"
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html",
+    "href": "publications/AirPollutionCarrier-COVID19.html",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "",
-    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "",
-    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
-    "section": "Highlights",
-    "text": "Highlights\n\nAir pollution did not decrease following the restrictions imposed due to COVID-19.\nMobility in public transit systems in the MCMA decreased by more than 65%.\nPublic transport mobility does not Granger-cause air pollution after COVID-19."
-  },
-  {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
+    "href": "publications/AirPollutionCarrier-COVID19.html#download",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "Download",
     "text": "Download\nDownload the paper freely (open access) here."
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html",
-    "href": "earthday2025_callforspeakers.html",
-    "title": " Earth Day 2025",
-    "section": "",
-    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2026.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html#act-now",
-    "href": "earthday2025_callforspeakers.html#act-now",
-    "title": " Earth Day 2025",
-    "section": "Act Now",
-    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html#sponsorship",
-    "href": "earthday2025_callforspeakers.html#sponsorship",
-    "title": " Earth Day 2025",
-    "section": "Sponsorship",
-    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html#about-earth-day",
-    "href": "earthday2025_callforspeakers.html#about-earth-day",
-    "title": " Earth Day 2025",
-    "section": "About Earth Day",
-    "text": "About Earth Day\nIf you want to know more about Earth Day, follow this link.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
+    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
   },
   {
     "objectID": "earthday2024_callforspeakers.html",
@@ -517,32 +470,107 @@
     ]
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html",
-    "href": "publications/AirPollutionCarrier-COVID19.html",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "earthday2025_callforspeakers.html",
+    "href": "earthday2025_callforspeakers.html",
+    "title": " Earth Day 2025",
     "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2026.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
-    "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "objectID": "earthday2025_callforspeakers.html#act-now",
+    "href": "earthday2025_callforspeakers.html#act-now",
+    "title": " Earth Day 2025",
+    "section": "Act Now",
+    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
-    "href": "publications/AirPollutionCarrier-COVID19.html#download",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "earthday2025_callforspeakers.html#sponsorship",
+    "href": "earthday2025_callforspeakers.html#sponsorship",
+    "title": " Earth Day 2025",
+    "section": "Sponsorship",
+    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
+  },
+  {
+    "objectID": "earthday2025_callforspeakers.html#about-earth-day",
+    "href": "earthday2025_callforspeakers.html#about-earth-day",
+    "title": " Earth Day 2025",
+    "section": "About Earth Day",
+    "text": "About Earth Day\nIf you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "Highlights",
+    "text": "Highlights\n\nAir pollution did not decrease following the restrictions imposed due to COVID-19.\nMobility in public transit systems in the MCMA decreased by more than 65%.\nPublic transport mobility does not Granger-cause air pollution after COVID-19."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
     "section": "Download",
     "text": "Download\nDownload the paper freely (open access) here."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
+  },
+  {
+    "objectID": "publications/AirborneFraction.html",
+    "href": "publications/AirborneFraction.html",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#abstract",
+    "href": "publications/AirborneFraction.html#abstract",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#download",
+    "href": "publications/AirborneFraction.html#download",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Download",
+    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#recommended-citation",
+    "href": "publications/AirborneFraction.html#recommended-citation",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
   },
   {
     "objectID": "publications/HighFrequencyEnergyStocks.html",
@@ -688,7 +716,7 @@
     "href": "climateeconometrics.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nBreaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
+    "text": "Global Temperature Anomalies\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nBreaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "earthday2024_schedule.html",
