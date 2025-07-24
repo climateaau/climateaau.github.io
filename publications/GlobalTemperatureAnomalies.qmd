@@ -1,0 +1,41 @@
+---
+title: "Global Temperature Anomalies"
+author: ["J.E. Vera-Valdés"]
+date: today
+date-format: "YYYY"
+image: /images/Global_Temperature_Anomalies_Last_30_Years_ONI.png
+image-alt: "Plot showing the global temperature anomalies from preindustrial levels for different datasets since 1995."
+categories: ["Replication Files", "Climate Econometrics"]
+---
+
+## Abstract
+
+This notebook downloads and compiles the data used in the article [“Breaching 1.5°C: Give me the odds”](Breaching15C.qmd). It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events.
+
+## Download
+
+Download the datasets freely [here](https://everval.github.io/Global-Temperature-Anomalies/).
+
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.
+
+### BibTex
+
+```bibtex
+@article{vera-valdés2024,
+  author = {Vera-Valdés, J. Eduardo and Kvist, Olivia},
+  title = {Breaching {1.5°C:} {Give} Me the Odds},
+  journal = {arXiv},
+  date = {2024-12-17},
+  url = {https://arxiv.org/abs/2412.13855},
+  doi = {10.48550/arXiv.2412.13855},
+}
+```
+
+:::
