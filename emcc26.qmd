@@ -1,0 +1,41 @@
+---
+title: "2026 Econometric Models of Climate Change Conference"
+subtitle: "EMCC-X"
+image: /images/earth_day_cc.png
+---
+
+The 10th Conference on Econometric Models of Climate Change (EMCC) will be held at Aalborg University, Denmark, on August 20-21, 2026.
+
+The conference brings together economists, econometricians, climate scientists, statisticians, and policy researchers to improve our understanding of climate change, its impacts, and effective policy solutions. The EMCC conference series was established in 2016 and has been supported by themed issues of the Journal of Econometrics, Energy Economics, the International Journal of Forecasting, and Advances in Econometrics. Previous iterations of the conference are linked [here](https://sites.google.com/view/emccconference/conferences).
+
+## Call for Papers
+
+More information about submission of papers will be available soon.
+
+## Location
+
+The conference will be held at CREATE, Department of Architecture, Design, and Media Technology at Aalborg University. [Rendsburggade 14, 9000 Aalborg.](https://maps.app.goo.gl/MuY1dPZksKR6hGvr8)
+
+## Travel Information
+
+Aalborg University is located in Aalborg, Denmark. The nearest airport is Aalborg Airport (AAL), which has direct flights to and from several European cities. Alternatively, you can fly into Copenhagen Airport (CPH) or Billund Airport (BLL) and take a domestic flight or train to Aalborg. 
+
+
+## Local Organisers
+
+- [Olivia Kvist](https://www.linkedin.com/in/olivia-kvist-813251216/), PhD Student in Climate Econometrics, Aalborg University, Denmark.
+- [J. Eduardo Vera-Valdés](https://everval.github.io/), Associate Professor of Mathematics-Economics, Aalborg University, Denmark.
+
+### Conference Board
+
+- [Marina Friedrich](https://research.vu.nl/en/persons/marina-friedrich), Vrije Universiteit Amsterdam, The Netherlands
+- [Eric Hillebrand](https://sites.google.com/site/erichillebrand/), Aarhus University, Denmark
+- [Felix Pretis](https://www.uvic.ca/socialsciences/economics/faculty-staff/faculty-profiles/pretis-felix.php), University of Victoria, Canada
+- [Tommaso Proietti](https://economia.uniroma2.it/faculty/12/proietti-tommaso), U. degli Studi di Roma “Tor Vergata”, Italy
+
+
+### Sponsorship
+
+This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.dk/).
+
+![](/images/DDSA_PrimaryLogo.png){fig-alt="Danish Data Science Academy Logo." width=70%}

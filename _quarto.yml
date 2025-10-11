@@ -8,6 +8,8 @@ website:
     left:
       - text: "Home"
         file: index.qmd
+      - text: "EMCC-X"
+        file: emcc26.qmd
       - text: "Earth Day"
         menu:
           - sidebar:ed2025
