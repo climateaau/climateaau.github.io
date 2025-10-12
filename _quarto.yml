@@ -78,7 +78,7 @@ website:
 
 format:
   html:
-    theme: brite
+    theme: spacelab
     linkcolor: green
     linkhovercolor: purple
 #      light: flatly
