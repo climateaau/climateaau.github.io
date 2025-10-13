@@ -7,7 +7,7 @@ This is the website for climate-related research at [Aalborg University](https:/
 
 It hosts the [Earth Day Events](index.qmd#earth-day-events) and [Climate Econometrics Research Projects](index.qmd#climate-econometrics-research-projects) at the University.
 
-In 2026, Aalborg University will host the 2026 Econometric Models of Climate Change Conference (EMCC-X). More information about the conference can be found [here](emcc26.qmd) and at the [official website](https://sites.google.com/view/emccconference/home).
+In 2026, Aalborg University will host the 2026 Econometric Models of Climate Change Conference (EMCC-X). More information about the conference can be found [here](emcc-x.qmd) and at the [official website](https://sites.google.com/view/emccconference/home).
 
 ## [Earth Day Events](earthday2025.qmd)
 

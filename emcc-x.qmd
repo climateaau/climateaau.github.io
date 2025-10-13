@@ -4,9 +4,9 @@ subtitle: "EMCC-X"
 image: /images/earth_day_cc.png
 ---
 
-![Aalborg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2Fpw%2FAL9nZEXD_GON-n9etf_j6ef_bRnlYuvjJ1qYfvKxb3ohZ2kjfBNVt9YXkRLsbT6JqEShrZKDxFa9Mni33ZmGPA72SHL0HQKlObYrYDB0kIyqjvbOoot3tg5MylCkh5-SthCcj9084XNbdPq6cxOdLLNftf-4mA%3Dw2200-h1466-no%3Fauthuser%3D0&f=1&nofb=1&ipt=6f7f977f8b1c27ba3850e7b4ce50252635efd29e6c5cde0c370f421a6a2b1cc4)
+![Aalborg, Denmark](/images/emccx/Aalborg-City.jpg){fig-alt="Aalborg, Denmark"}
 
-The 10th Conference on Econometric Models of Climate Change (EMCC) will be held at Aalborg University, Denmark, on August 20-21, 2026.
+The 10th Conference on Econometric Models of Climate Change (EMCC-X) will be held at Aalborg University, Denmark, on August 20-21, 2026.
 
 The conference brings together economists, econometricians, climate scientists, statisticians, and policy researchers to improve our understanding of climate change, its impacts, and effective policy solutions. The EMCC conference series was established in 2016 and has been supported by themed issues of the Journal of Econometrics, Energy Economics, the International Journal of Forecasting, and Advances in Econometrics. Previous iterations of the conference are linked [here](https://sites.google.com/view/emccconference/conferences).
 
@@ -29,7 +29,7 @@ More information about submission of papers will be available soon.
   endTime="17:30"
   timeZone="Europe/Copenhagen"
   location="AAU CREATE, Rendsburggade 14, 9000 Aalborg."
-  options="'Google','Apple','Outlook.com','iCal'"
+  options="'Google','Apple', 'iCal','Microsoft365'"
   trigger="click"
   hideIconList
   hidecheckmark
@@ -83,3 +83,10 @@ Sign up to the [Research Network Mailing list](https://sites.google.com/view/emc
 This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.dk/).
 
 ![](/images/DDSA_PrimaryLogo.png){fig-alt="Danish Data Science Academy Logo." width=70%}
+
+
+### Act Now
+
+The time to act is now. We need to [act now](https://www.un.org/actnow) to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.
+
+![](/images/ActNow_UN_emblem_horizontal_E.png){fig-alt="Act Now Logo." width=70%}

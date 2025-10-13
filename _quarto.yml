@@ -9,7 +9,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "EMCC-X"
-        file: emcc26.qmd
+        file: emcc-x.qmd
       - text: "Earth Day"
         menu:
           - sidebar:ed2025
