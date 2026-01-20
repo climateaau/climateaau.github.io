@@ -9,7 +9,7 @@ It hosts the [Earth Day Events](index.qmd#earth-day-events) and [Climate Econome
 
 In 2026, Aalborg University will host the 2026 Econometric Models of Climate Change Conference (EMCC-X). More information about the conference can be found [here](emcc-x.qmd) and at the [official website](https://sites.google.com/view/emccconference/home).
 
-## [Earth Day Events](earthday2025.qmd)
+## [Earth Day Events](earthday2026.qmd)
 
 The [Department of Mathematical Sciences](https://www.math.aau.dk/) organizes yearly events to commemmorate Earth Day. The events consists of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.
 

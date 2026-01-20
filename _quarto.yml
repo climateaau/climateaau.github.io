@@ -12,6 +12,7 @@ website:
         file: emcc-x.qmd
       - text: "Earth Day"
         menu:
+          - sidebar:ed2026
           - sidebar:ed2025
           - sidebar:ed2024  
           - sidebar:ed2023
@@ -75,6 +76,13 @@ website:
         - text: "Call for Speakers"
           file: earthday2025_callforspeakers.qmd
 
+    - id: ed2026
+      title: "2026"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "Earth Day 2026"
+          file: earthday2026.qmd
 
 format:
   html:
