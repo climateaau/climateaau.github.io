@@ -83,7 +83,7 @@ website:
       contents:
         - text: "Earth Day 2026"
           file: earthday2026.qmd
-        - text: "REgister"
+        - text: "Register"
           url: "https://forms.office.com/e/e2PCdiQgpr"
 
 format:
