@@ -12,7 +12,13 @@ The conference brings together economists, econometricians, climate scientists, 
 
 ## Call for Papers
 
-More information about submission of papers will be available soon.
+The Conference aims to promote an interdisciplinary approach to the detection and attribution of climate change, econometric estimates of socio-economic and financial climate impacts, as well as policy evaluation. 
+
+We solicit submissions of papers whose novelty stems from the applications, development, and introduction of econometric methods to models of climate change - inviting papers using econometric methods to analyse climate data, as well as econometric studies of socio-economic climate impacts and policy. Papers that present challenges in climate science, where statistical methods can provide analytical insights, are especially welcome.
+
+Please submit your abstract or full paper by **March 26, 2026** via the following form: [https://forms.gle/nkkLP5JX9GJSr9ZF9](https://forms.gle/nkkLP5JX9GJSr9ZF9). 
+
+Notifications of acceptance will be sent by **May 1, 2026**.
 
 ## Important Dates
 
@@ -80,13 +86,13 @@ Sign up to the [Research Network Mailing list](https://sites.google.com/view/emc
 
 ### Sponsors
 
-This event is sponsored by the [Danish Data Science Academy DDSA](https://ddsa.dk/).
+This event is supported by the [Danish Data Science Academy DDSA](https://ddsa.dk/) and [Carlsberg Foundation](https://www.carlsbergfondet.dk/) (Grant CF25-2085). 
+
+::: {layout-ncol=2}
 
 ![](/images/DDSA_PrimaryLogo.png){fig-alt="Danish Data Science Academy Logo." width=70%}
 
+![](/images/Carlsbergfondet_logo_2-liner_UK_RGB_BLACK.png){fig-alt="Carlsberg Foundation Logo." width=50%}
 
-### Act Now
 
-The time to act is now. We need to [act now](https://www.un.org/actnow) to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.
-
-![](/images/ActNow_UN_emblem_horizontal_E.png){fig-alt="Act Now Logo." width=70%}
+:::
