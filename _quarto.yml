@@ -85,6 +85,8 @@ website:
           file: earthday2026.qmd
         - text: "Register"
           url: "https://forms.office.com/e/e2PCdiQgpr"
+        - text: "Schedule"
+          file: earthday2026_schedule.qmd
 
 format:
   html:
