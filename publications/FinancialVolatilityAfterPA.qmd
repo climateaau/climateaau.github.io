@@ -1,7 +1,7 @@
 ---
 title: "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis"
 author: ["J.E. Vera-Valdés", "O. Kvist"]
-date: "2025/01/27"
+date: "2026/04/18"
 date-format: "YYYY"
 image: /images/LM_Paris_Energy_LW_PRE_LogReturns.png
 image-alt: "Violing plots long memory estimate climate stocks after Paris Agreement"
@@ -20,17 +20,23 @@ The codes to replicate the results of this paper can be found [here](https://git
 
 ### Text
 
-Vera-Valdés, J.E., and Kvist, O. (2025). "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis." Accepted in Advances in Econometrics.
+Vera-Valdés, J.E., and Kvist, O. (2026). "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis." Advances in Econometrics. DOI: [10.1108/S0731-90532026000047B008](https://doi.org/10.1108/S0731-90532026000047B008)
+
 
 ### BibTex
 
 ```bibtex
-@article{VERAVALDES2024c,
-title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},
-year = {2025},
-author = {Vera-Valdés, J.E., and Kvist, O.},
-journal = {Advances in Econometrics},
-number = {Forthcoming},
+@incollection{Vera-Valdes2026,
+    author = {Vera-Valdés, J. E. and Kvist, O.},
+    editor = {Fomby, Thomas B. and Friedrich, Marina and Hillebrand, Eric},
+    isbn = {978-1-80686-484-3},
+    title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},
+    booktitle = {Econometrics of Climate, Energy, and Green Transition},
+    publisher = {Emerald Publishing Limited},
+    year = {2026},
+    month = {05},
+    url = {https://doi.org/10.1108/S0731-90532026000047B008},
+    eprint = {https://www.emerald.com/book/chapter-pdf/11510282/s0731-90532026000047b008en.pdf},
 }
 ```
 

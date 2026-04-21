@@ -10,11 +10,11 @@ image: /images/earth_day_cc.png
 
 - 10:00-10:30 **Uneven buffering of U.S. maize yields against extreme heat** by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich), Assistant Professor, Vrije Universiteit Amsterdam.
 
-- 10:30-11:00 **TBD** by [Kathrine By Larsen](https://www.linkedin.com/in/kathrine-by-larsen/?originalSubdomain=dk), PhD Student in Climate Econometrics in the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark.
+- 10:30-11:00 **Learning from Earth’s climate history** by [Kathrine By Larsen](https://www.linkedin.com/in/kathrine-by-larsen/?originalSubdomain=dk), PhD Student in Climate Econometrics in the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark.
 
 - 11:00-11:10 Coffee break.
 
-- 11:10-11:40 **TBD** by [Linde Kattenberg](https://sites.google.com/view/lindekattenberg), Postdoctoral Researcher in the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark.
+- 11:10-11:40 **Do Renewable Energy Subsidies Work?** by [Linde Kattenberg](https://sites.google.com/view/lindekattenberg), Postdoctoral Researcher in the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark.
 
 - 11:40-12:10 "**Spurious Relationships in Climate Data**" by [Daniel Ventosa-Santaulària](https://www.ventosa-santaularia.com/), Professor of Econometrics and Time Series Analysis at CIDE, Mexico City, Mexico.
 
