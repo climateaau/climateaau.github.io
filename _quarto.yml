@@ -87,6 +87,8 @@ website:
           url: "https://forms.office.com/e/e2PCdiQgpr"
         - text: "Schedule"
           file: earthday2026_schedule.qmd
+        - text: "Hackathon"
+          file: earthday2026_hackathon.qmd
 
 format:
   html:

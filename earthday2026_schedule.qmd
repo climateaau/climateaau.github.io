@@ -1,5 +1,5 @@
 ---
-title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2025"
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
 subtitle: "Climate Change Data Dashboards"
 image: /images/earth_day_cc.png
 ---
