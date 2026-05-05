@@ -6,19 +6,9 @@ image: /images/earth_day_cc.png
 
 ![Aalborg, Denmark](/images/emccx/Aalborg-City.jpg){fig-alt="Aalborg, Denmark"}
 
-The 10th Conference on Econometric Models of Climate Change (EMCC-X) will be held at Aalborg University, Denmark, on August 20-21, 2026.
+The 10th Conference on Econometric Models of Climate Change (EMCC-X) will be held at [Aalborg University](https://en.aau.dk/), Denmark, on August 20-21, 2026.
 
 The conference brings together economists, econometricians, climate scientists, statisticians, and policy researchers to improve our understanding of climate change, its impacts, and effective policy solutions. The EMCC conference series was established in 2016 and has been supported by themed issues of the Journal of Econometrics, Energy Economics, the International Journal of Forecasting, and Advances in Econometrics. Previous iterations of the conference are linked [here](https://sites.google.com/view/emccconference/conferences).
-
-## Call for Papers
-
-The Conference aims to promote an interdisciplinary approach to the detection and attribution of climate change, econometric estimates of socio-economic and financial climate impacts, as well as policy evaluation. 
-
-We solicit submissions of papers whose novelty stems from the applications, development, and introduction of econometric methods to models of climate change - inviting papers using econometric methods to analyse climate data, as well as econometric studies of socio-economic climate impacts and policy. Papers that present challenges in climate science, where statistical methods can provide analytical insights, are especially welcome.
-
-Please submit your abstract or full paper by **March 26, 2026** via the following form: [https://forms.gle/nkkLP5JX9GJSr9ZF9](https://forms.gle/nkkLP5JX9GJSr9ZF9). 
-
-Notifications of acceptance will be sent by **May 1, 2026**.
 
 ## Important Dates
 
@@ -42,6 +32,10 @@ Notifications of acceptance will be sent by **May 1, 2026**.
   lightMode="light"
 ></add-to-calendar-button>
 
+- **Registration Deadline:** June 30, 2026
+
+- **Accommodation Grant Deadline:** June 1, 2026
+
 <!---
 <details>
 <summary>📅 Add to Calendar</summary>
@@ -53,7 +47,16 @@ Notifications of acceptance will be sent by **May 1, 2026**.
 </details>
 --->
 
-## Location
+## Registration
+
+Register here: [The 10th Conference on Econometric Models of Climate Change (EMCC-X) Registration – Fill out form](https://forms.office.com/e/ygRR7tbw9K)
+
+Thanks to support from the Danish Data Science Academy and the Carlsberg Foundation, there is no registration fee and the conference dinner is included. We welcome colleagues who aren’t presenting to join us, however, because capacity is limited, priority will be given to presenters and co-authors on accepted papers. Non-presenter registrations will remain open on a first-come, first-served basis until capacity is reached. 
+
+Registration deadline: June 30, 2026.
+
+
+## Venue
 
 The conference will be held at CREATE, Department of Architecture, Design, and Media Technology at Aalborg University. [Rendsburggade 14, 9000 Aalborg.](https://maps.app.goo.gl/MuY1dPZksKR6hGvr8)
 
@@ -63,12 +66,38 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 
 :::
 
+
 ## Travel Information
 
-Aalborg University is located in Aalborg, Denmark. The nearest airport is Aalborg Airport (AAL), which has direct flights to and from several European cities. Alternatively, you can fly into Copenhagen Airport (CPH) or Billund Airport (BLL) and take a domestic flight or train to Aalborg. 
+Aalborg University is located in Aalborg, Denmark. The nearest airport is [Aalborg Airport (AAL)](https://aal.dk/en), which has direct flights to and from several European cities. Alternatively, you can fly into [Copenhagen Airport (CPH)](https://cph.dk/en) or [Billund Airport (BLL)](https://bll.dk/en) and take a domestic flight or train to Aalborg. 
 
 
-## Local Organisers
+## Hotel Recommendations
+
+Recommended hotels include [Cabinn](https://www.cabinn.com/hotel/cabinn-aalborg) and [Pier 5](https://pier5.dk/).
+
+- [Cabinn](https://www.cabinn.com/hotel/cabinn-aalborg), book directly at the website and use the Corporate/Promotion Code: CSTG26.
+
+- [Kompas Hotel Aalborg](https://aal-bookyourstay.bookyourstay.eu/booking/haa/room?pricecalculationratecode=BAR&promotioncode=BOOK10&lang=en-GB), book directly using this link or at the website and use the Promotion Code: BOOK10.
+
+- [Pier 5](https://pier5.dk/), conference code for a 10% discount coming soon.
+
+Other downtown options within walking distance:
+
+- [B&B Hotel Aalborg](https://www.hotel-bb.com/en/hotel/aalborg)
+
+- [Four Points by Sheraton](https://www.marriott.com/da/reservation/rateListMenu.mi)
+
+### Accommodation Grants
+
+We can cover 3 nights hotel costs (Aug 19–22) for a small number of attendees with demonstrated need who otherwise would be unable to attend. 
+
+Apply here: [The 10th Conference on Econometric Models of Climate Change (EMCC-X) Accommodation Grant – Fill out form](https://forms.office.com/e/trjzUHP55x), by June 1, 2026.
+
+
+## Organising Committee
+
+### Local Organisers
 
 - [Olivia Kvist](https://www.linkedin.com/in/olivia-kvist-813251216/), PhD Student in Climate Econometrics, Aalborg University, Denmark.
 - [J. Eduardo Vera-Valdés](https://everval.github.io/), Associate Professor of Mathematics-Economics, Aalborg University, Denmark.
@@ -84,7 +113,7 @@ Aalborg University is located in Aalborg, Denmark. The nearest airport is Aalbor
 
 Sign up to the [Research Network Mailing list](https://sites.google.com/view/emccconference/network) to stay up-to-date.
 
-### Sponsors
+## Sponsors
 
 This event is supported by the [Danish Data Science Academy DDSA](https://ddsa.dk/) and [Carlsberg Foundation](https://www.carlsbergfondet.dk/) (Grant CF25-2085). 
 
