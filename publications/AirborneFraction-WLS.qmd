@@ -1,0 +1,37 @@
+---
+title: "Multi-source land-use emissions reveal rising airborne fraction"
+author: "J.E. Vera-Valdés"
+date: "2026/05/23"
+date-format: "YYYY"
+image: /images/AF_trends_all_lulc_measurements_WLS.png
+image-alt: "OLS and WLS estimates of a linear trend in airborne fraction using multiple data sources for land-use emissions"
+categories: ["Working Paper", "Econometrics", "Climate Econometrics"]
+---
+
+## Abstract
+
+The airborne fraction is the share of human carbon dioxide emissions that remains in the atmosphere, and it is a key indicator of how the climate system is responding to continued emissions. Whether this share is rising remains debated because conclusions depend strongly on uncertain estimates of emissions from land-use and land-cover change (LULC). To address this, we use all available LULC measurement series constructed from Global Carbon Budget 2025 data and apply a trend framework that explicitly accounts for measurement uncertainty. We show that the airborne fraction has increased over time, and that this conclusion remains when we test sensitivity to excluding the final year and to serial dependence in annual data. These results strengthen evidence that a growing share of emitted carbon dioxide is accumulating in the atmosphere rather than being taken up by land and ocean sinks, with direct implications for carbon-budget assessments and near-term mitigation requirements.
+
+## Download
+
+Read the working paper freely in the [manuscript repository here](https://everval.github.io/Airborne-Fraction-WLS-Trend/). 
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Vera-Valdés, J.E. (2026). "Multi-source land-use emissions reveal rising airborne fraction". 
+
+### BibTex
+
+```bibtex
+@article{veravaldes2026multisourcelanduse,
+      title={Multi-source land-use emissions reveal rising airborne fraction}, 
+      author={J. Eduardo Vera-Valdés},
+      year={2026},
+}
+```
+
+:::
