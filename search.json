@@ -145,7 +145,7 @@
     "href": "climateeconometrics.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Global Temperature Anomalies\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nBreaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
+    "text": "Global Temperature Anomalies\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nMulti-source land-use emissions reveal rising airborne fraction\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nBreaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -321,81 +321,163 @@
     "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2021). “Temperature Anomalies, Long Memory, and Aggregation.” Econometrics. 9(1). https://www.mdpi.com/2225-1146/9/1/9\n\n\n@article{VERAVALDES2021c,\ntitle = {Temperature Anomalies, Long Memory, and Aggregation},\njournal = {Econometrics},\nvolume = {9},\nnumber = {1},\nyear = {2021},\ndoi = {10.3390/econometrics9010009},\nurl = {https://www.mdpi.com/2225-1146/9/1/9},\nissn = {2225-1146},\nauthor = {Vera-Valdés, J.E.},\n}"
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html",
-    "href": "publications/FinancialVolatilityAfterPA.html",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "objectID": "publications/Nonfractional-LRD.html",
+    "href": "publications/Nonfractional-LRD.html",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
     "section": "",
-    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html#abstract",
-    "href": "publications/FinancialVolatilityAfterPA.html#abstract",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "objectID": "publications/Nonfractional-LRD.html#abstract",
+    "href": "publications/Nonfractional-LRD.html#abstract",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
     "section": "",
-    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
-    "href": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
-    "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2026). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.” Advances in Econometrics. DOI: 10.1108/S0731-90532026000047B008\n\n\n@incollection{Vera-Valdes2026,\n    author = {Vera-Valdés, J. E. and Kvist, O.},\n    editor = {Fomby, Thomas B. and Friedrich, Marina and Hillebrand, Eric},\n    isbn = {978-1-80686-484-3},\n    title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\n    booktitle = {Econometrics of Climate, Energy, and Green Transition},\n    publisher = {Emerald Publishing Limited},\n    year = {2026},\n    month = {05},\n    url = {https://doi.org/10.1108/S0731-90532026000047B008},\n    eprint = {https://www.emerald.com/book/chapter-pdf/11510282/s0731-90532026000047b008en.pdf},\n}"
-  },
-  {
-    "objectID": "publications/GlobalTemperatureAnomalies.html",
-    "href": "publications/GlobalTemperatureAnomalies.html",
-    "title": "Global Temperature Anomalies",
-    "section": "",
-    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
-  },
-  {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#abstract",
-    "href": "publications/GlobalTemperatureAnomalies.html#abstract",
-    "title": "Global Temperature Anomalies",
-    "section": "",
-    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
-  },
-  {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#download",
-    "href": "publications/GlobalTemperatureAnomalies.html#download",
-    "title": "Global Temperature Anomalies",
+    "objectID": "publications/Nonfractional-LRD.html#download",
+    "href": "publications/Nonfractional-LRD.html#download",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
     "section": "Download",
-    "text": "Download\nDownload the datasets freely here."
+    "text": "Download\nThe version of record can be freely (open access) downloaded here."
   },
   {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
-    "href": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
-    "title": "Global Temperature Anomalies",
+    "objectID": "publications/Nonfractional-LRD.html#recommended-citation",
+    "href": "publications/Nonfractional-LRD.html#recommended-citation",
+    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.\n\n\n@article{vera-valdés2024,\n  author = {Vera-Valdés, J. Eduardo and Kvist, Olivia},\n  title = {Breaching {1.5°C:} {Give} Me the Odds},\n  journal = {arXiv},\n  date = {2024-12-17},\n  url = {https://arxiv.org/abs/2412.13855},\n  doi = {10.48550/arXiv.2412.13855},\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2021). “Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation.” Econometrics. 9(39). https://www.mdpi.com/2225-1146/9/4/39\n\n\n@article{VERAVALDES2021c,\ntitle = {Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation},\njournal = {Econometrics},\nvolume = {9},\nnumber = {4},\nyear = {2021},\ndoi = {10.3390/econometrics9010009},\nurl = {https://www.mdpi.com/2225-1146/9/4/39},\nissn = {2225-1146},\nauthor = {J.E. Vera-Valdés},\n}"
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html",
-    "href": "publications/AirPollutionCarrier-COVID19.html",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/HighFrequencyEnergyStocks.html",
+    "href": "publications/HighFrequencyEnergyStocks.html",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
     "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "href": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
     "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
-    "href": "publications/AirPollutionCarrier-COVID19.html#download",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/HighFrequencyEnergyStocks.html#download",
+    "href": "publications/HighFrequencyEnergyStocks.html#download",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "Download",
+    "text": "Download\nThe paper can be downloaded here."
+  },
+  {
+    "objectID": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "href": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nKvist, O., and Vera-Valdés, J.E. (2024). “The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis.”\n\n\n@article{KVIST2024,\ntitle = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},\nyear = {2024},\nauthor = {Kvist, O., and Vera-Valdés, J.E.},\n}"
+  },
+  {
+    "objectID": "publications/AirborneFraction.html",
+    "href": "publications/AirborneFraction.html",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#abstract",
+    "href": "publications/AirborneFraction.html#abstract",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "",
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#download",
+    "href": "publications/AirborneFraction.html#download",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Download",
+    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+  },
+  {
+    "objectID": "publications/AirborneFraction.html#recommended-citation",
+    "href": "publications/AirborneFraction.html#recommended-citation",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "",
+    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "section": "Highlights",
+    "text": "Highlights\n\nAir pollution did not decrease following the restrictions imposed due to COVID-19.\nMobility in public transit systems in the MCMA decreased by more than 65%.\nPublic transport mobility does not Granger-cause air pollution after COVID-19."
+  },
+  {
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
     "section": "Download",
     "text": "Download\nDownload the paper freely (open access) here."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
+    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
+  },
+  {
+    "objectID": "earthday2025_callforspeakers.html",
+    "href": "earthday2025_callforspeakers.html",
+    "title": " Earth Day 2025",
+    "section": "",
+    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2026.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
+  },
+  {
+    "objectID": "earthday2025_callforspeakers.html#act-now",
+    "href": "earthday2025_callforspeakers.html#act-now",
+    "title": " Earth Day 2025",
+    "section": "Act Now",
+    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
+  },
+  {
+    "objectID": "earthday2025_callforspeakers.html#sponsorship",
+    "href": "earthday2025_callforspeakers.html#sponsorship",
+    "title": " Earth Day 2025",
+    "section": "Sponsorship",
+    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
+  },
+  {
+    "objectID": "earthday2025_callforspeakers.html#about-earth-day",
+    "href": "earthday2025_callforspeakers.html#about-earth-day",
+    "title": " Earth Day 2025",
+    "section": "About Earth Day",
+    "text": "About Earth Day\nIf you want to know more about Earth Day, follow this link.",
+    "crumbs": [
+      "Call for Speakers"
+    ]
   },
   {
     "objectID": "earthday2024_callforspeakers.html",
@@ -448,163 +530,109 @@
     ]
   },
   {
-    "objectID": "earthday2025_callforspeakers.html",
-    "href": "earthday2025_callforspeakers.html",
-    "title": " Earth Day 2025",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html",
+    "href": "publications/AirPollutionCarrier-COVID19.html",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "",
-    "text": "Important\n\n\n\nThe call for speakers has been closed. Thank you to all the speakers who submitted their proposals. The call for speakers will open again in early 2026.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
   },
   {
-    "objectID": "earthday2025_callforspeakers.html#act-now",
-    "href": "earthday2025_callforspeakers.html#act-now",
-    "title": " Earth Day 2025",
-    "section": "Act Now",
-    "text": "Act Now\nThe time to act is now. We need to act now to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html#sponsorship",
-    "href": "earthday2025_callforspeakers.html#sponsorship",
-    "title": " Earth Day 2025",
-    "section": "Sponsorship",
-    "text": "Sponsorship\nThis event is sponsored by the Danish Data Science Academy DDSA.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "earthday2025_callforspeakers.html#about-earth-day",
-    "href": "earthday2025_callforspeakers.html#about-earth-day",
-    "title": " Earth Day 2025",
-    "section": "About Earth Day",
-    "text": "About Earth Day\nIf you want to know more about Earth Day, follow this link.",
-    "crumbs": [
-      "Call for Speakers"
-    ]
-  },
-  {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "",
-    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#abstract",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
-    "section": "",
-    "text": "This paper analyzes the relation between COVID-19, air pollution, and public transport mobility in the Mexico City Metropolitan Area (MCMA). We test if the restrictions to economic activity introduced to mitigate the spread of COVID-19 are associated with a structural change in air pollution levels and public transport mobility. Our results show that mobility in public transportation was significantly reduced following the government’s recommendations. Nonetheless, we show that the reduction in mobility was not accompanied by a reduction in air pollution. Furthermore, Granger-causality tests show that the precedence relation between public transport mobility and air pollution disappeared as a product of the restrictions. Thus, our results suggest that air pollution in the MCMA seems primarily driven by industry and private car usage. In this regard, the government should redouble its efforts to develop policies to reduce industrial pollution and private car usage."
-  },
-  {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#highlights",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
-    "section": "Highlights",
-    "text": "Highlights\n\nAir pollution did not decrease following the restrictions imposed due to COVID-19.\nMobility in public transit systems in the MCMA decreased by more than 65%.\nPublic transport mobility does not Granger-cause air pollution after COVID-19."
-  },
-  {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#download",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
+    "href": "publications/AirPollutionCarrier-COVID19.html#download",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "Download",
     "text": "Download\nDownload the paper freely (open access) here."
   },
   {
-    "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
-    "href": "publications/AirPollutionCausality-MCMA-COVID19.html#recommended-citation",
-    "title": "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19",
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
   },
   {
-    "objectID": "publications/AirborneFraction.html",
-    "href": "publications/AirborneFraction.html",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html",
+    "href": "publications/GlobalTemperatureAnomalies.html",
+    "title": "Global Temperature Anomalies",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
   },
   {
-    "objectID": "publications/AirborneFraction.html#abstract",
-    "href": "publications/AirborneFraction.html#abstract",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "href": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "title": "Global Temperature Anomalies",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "This notebook downloads and compiles the data used in the article “Breaching 1.5°C: Give me the odds”. It contains the code used to download the data from the HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ONI datasets. For each dataset, the preindustrial level is computed making it easy to compare the temperature anomalies across datasets. The data is downloaded in CSV format and directly accessible from the notebook. At the end of the notebook, all data from the different sources is stored in a single CSV file. The notebook also includes code to plot the data and highlight El Niño and La Niña events."
   },
   {
-    "objectID": "publications/AirborneFraction.html#download",
-    "href": "publications/AirborneFraction.html#download",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#download",
+    "href": "publications/GlobalTemperatureAnomalies.html#download",
+    "title": "Global Temperature Anomalies",
     "section": "Download",
-    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+    "text": "Download\nDownload the datasets freely here."
   },
   {
-    "objectID": "publications/AirborneFraction.html#recommended-citation",
-    "href": "publications/AirborneFraction.html#recommended-citation",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "href": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "title": "Global Temperature Anomalies",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.\n\n\n@article{vera-valdés2024,\n  author = {Vera-Valdés, J. Eduardo and Kvist, Olivia},\n  title = {Breaching {1.5°C:} {Give} Me the Odds},\n  journal = {arXiv},\n  date = {2024-12-17},\n  url = {https://arxiv.org/abs/2412.13855},\n  doi = {10.48550/arXiv.2412.13855},\n}"
   },
   {
-    "objectID": "publications/HighFrequencyEnergyStocks.html",
-    "href": "publications/HighFrequencyEnergyStocks.html",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/FinancialVolatilityAfterPA.html",
+    "href": "publications/FinancialVolatilityAfterPA.html",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
     "section": "",
-    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
   },
   {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#abstract",
-    "href": "publications/HighFrequencyEnergyStocks.html#abstract",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "href": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
     "section": "",
-    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
   },
   {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#download",
-    "href": "publications/HighFrequencyEnergyStocks.html#download",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "href": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2026). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.” Advances in Econometrics. DOI: 10.1108/S0731-90532026000047B008\n\n\n@incollection{Vera-Valdes2026,\n    author = {Vera-Valdés, J. E. and Kvist, O.},\n    editor = {Fomby, Thomas B. and Friedrich, Marina and Hillebrand, Eric},\n    isbn = {978-1-80686-484-3},\n    title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\n    booktitle = {Econometrics of Climate, Energy, and Green Transition},\n    publisher = {Emerald Publishing Limited},\n    year = {2026},\n    month = {05},\n    url = {https://doi.org/10.1108/S0731-90532026000047B008},\n    eprint = {https://www.emerald.com/book/chapter-pdf/11510282/s0731-90532026000047b008en.pdf},\n}"
+  },
+  {
+    "objectID": "publications/AirborneFraction-WLS.html",
+    "href": "publications/AirborneFraction-WLS.html",
+    "title": "Multi-source land-use emissions reveal rising airborne fraction",
+    "section": "",
+    "text": "The airborne fraction is the share of human carbon dioxide emissions that remains in the atmosphere, and it is a key indicator of how the climate system is responding to continued emissions. Whether this share is rising remains debated because conclusions depend strongly on uncertain estimates of emissions from land-use and land-cover change (LULC). To address this, we use all available LULC measurement series constructed from Global Carbon Budget 2025 data and apply a trend framework that explicitly accounts for measurement uncertainty. We show that the airborne fraction has increased over time, and that this conclusion remains when we test sensitivity to excluding the final year and to serial dependence in annual data. These results strengthen evidence that a growing share of emitted carbon dioxide is accumulating in the atmosphere rather than being taken up by land and ocean sinks, with direct implications for carbon-budget assessments and near-term mitigation requirements."
+  },
+  {
+    "objectID": "publications/AirborneFraction-WLS.html#abstract",
+    "href": "publications/AirborneFraction-WLS.html#abstract",
+    "title": "Multi-source land-use emissions reveal rising airborne fraction",
+    "section": "",
+    "text": "The airborne fraction is the share of human carbon dioxide emissions that remains in the atmosphere, and it is a key indicator of how the climate system is responding to continued emissions. Whether this share is rising remains debated because conclusions depend strongly on uncertain estimates of emissions from land-use and land-cover change (LULC). To address this, we use all available LULC measurement series constructed from Global Carbon Budget 2025 data and apply a trend framework that explicitly accounts for measurement uncertainty. We show that the airborne fraction has increased over time, and that this conclusion remains when we test sensitivity to excluding the final year and to serial dependence in annual data. These results strengthen evidence that a growing share of emitted carbon dioxide is accumulating in the atmosphere rather than being taken up by land and ocean sinks, with direct implications for carbon-budget assessments and near-term mitigation requirements."
+  },
+  {
+    "objectID": "publications/AirborneFraction-WLS.html#download",
+    "href": "publications/AirborneFraction-WLS.html#download",
+    "title": "Multi-source land-use emissions reveal rising airborne fraction",
     "section": "Download",
-    "text": "Download\nThe paper can be downloaded here."
+    "text": "Download\nRead the working paper freely in the manuscript repository here."
   },
   {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
-    "href": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/AirborneFraction-WLS.html#recommended-citation",
+    "href": "publications/AirborneFraction-WLS.html#recommended-citation",
+    "title": "Multi-source land-use emissions reveal rising airborne fraction",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nKvist, O., and Vera-Valdés, J.E. (2024). “The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis.”\n\n\n@article{KVIST2024,\ntitle = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},\nyear = {2024},\nauthor = {Kvist, O., and Vera-Valdés, J.E.},\n}"
-  },
-  {
-    "objectID": "publications/Nonfractional-LRD.html",
-    "href": "publications/Nonfractional-LRD.html",
-    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
-    "section": "",
-    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
-  },
-  {
-    "objectID": "publications/Nonfractional-LRD.html#abstract",
-    "href": "publications/Nonfractional-LRD.html#abstract",
-    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
-    "section": "",
-    "text": "This paper used cross-sectional aggregation as the inspiration for a model with long-range dependence that arises in actual data. One of the advantages of our model is that it is less brittle than fractionally integrated processes. In particular, we showed that the antipersistent phenomenon is not present for the cross-sectionally aggregated process. We proved that this has implications for estimators of long-range dependence in the frequency domain, which will be misspecified for nonfractional long-range-dependent processes with negative degrees of persistence. As an application, we showed how we can approximate a fractionally differenced process using theoretically-motivated cross-sectional aggregated long-range-dependent processes. An example with temperature data showed that our framework provides a better fit to the data than the fractional difference operator."
-  },
-  {
-    "objectID": "publications/Nonfractional-LRD.html#download",
-    "href": "publications/Nonfractional-LRD.html#download",
-    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
-    "section": "Download",
-    "text": "Download\nThe version of record can be freely (open access) downloaded here."
-  },
-  {
-    "objectID": "publications/Nonfractional-LRD.html#recommended-citation",
-    "href": "publications/Nonfractional-LRD.html#recommended-citation",
-    "title": "Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation",
-    "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2021). “Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation.” Econometrics. 9(39). https://www.mdpi.com/2225-1146/9/4/39\n\n\n@article{VERAVALDES2021c,\ntitle = {Nonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation},\njournal = {Econometrics},\nvolume = {9},\nnumber = {4},\nyear = {2021},\ndoi = {10.3390/econometrics9010009},\nurl = {https://www.mdpi.com/2225-1146/9/4/39},\nissn = {2225-1146},\nauthor = {J.E. Vera-Valdés},\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2026). “Multi-source land-use emissions reveal rising airborne fraction”.\n\n\n@article{veravaldes2026multisourcelanduse,\n      title={Multi-source land-use emissions reveal rising airborne fraction}, \n      author={J. Eduardo Vera-Valdés},\n      year={2026},\n}"
   },
   {
     "objectID": "publications/Breaching15C.html",
