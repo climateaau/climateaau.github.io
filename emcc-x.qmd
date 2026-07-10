@@ -32,8 +32,6 @@ The conference brings together economists, econometricians, climate scientists, 
   lightMode="light"
 ></add-to-calendar-button>
 
-- **Registration Deadline:** June 30, 2026
-
 
 <!---
 <details>
@@ -44,7 +42,10 @@ The conference brings together economists, econometricians, climate scientists, 
 - [Download .ics file](event.ics)
 
 </details>
---->
+
+- **Registration Deadline:** June 30, 2026
+
+
 
 ## Registration
 
@@ -54,6 +55,7 @@ Thanks to support from the Danish Data Science Academy and the Carlsberg Foundat
 
 Registration deadline: June 30, 2026.
 
+--->
 
 ## Venue
 

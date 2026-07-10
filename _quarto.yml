@@ -12,6 +12,7 @@ website:
         file: emcc-x.qmd
       - text: "Earth Day"
         menu:
+          - sidebar:edall
           - sidebar:ed2026
           - sidebar:ed2025
           - sidebar:ed2024  
@@ -22,6 +23,15 @@ website:
   open-graph: true
 
   sidebar:
+
+    - id: edall
+      title: "Earth Day Events"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "Earth Day Events"
+          file: earthdays.qmd
+
     - id: ed2023
       title: "2023"
       style: "docked"

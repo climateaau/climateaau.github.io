@@ -1,0 +1,26 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day Events"
+image: /images/earth_day_cc.png
+---
+
+![](/images/earth_day_cc.png){fig-alt="Earth Day Poster."}
+
+Earth Day is an annual event celebrated on April 22 to demonstrate support for environmental protection. The Department of Mathematical Sciences at Aalborg University organizes yearly events to commemorate Earth Day. The events consist of a day of learning and exploring how Mathematics and Data Science can contribute to Climate Change Research, help us understand and predict our future climate, and design mitigation policies.
+
+## Previous Earth Day Events
+
+- [Earth Day 2026](earthday2026.qmd)
+- [Earth Day 2025](earthday2025.qmd)
+- [Earth Day 2024](earthday2024.qmd)
+- [Earth Day 2023](previousevents/earthday2023.qmd)
+
+## About Earth Day
+
+If you want to know more about Earth Day, follow [this link](aboutearthday.qmd).
+
+
+## Act Now
+
+The time to act is now. We need to [act now](https://www.un.org/actnow) to combat global heating. We need to act now to protect our planet. We need to act now to ensure a sustainable future for the next generations.
+
+![](/images/ActNow_UN_emblem_horizontal_E.png){fig-alt="Act Now Logo." width=70%}
