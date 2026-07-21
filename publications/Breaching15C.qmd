@@ -1,11 +1,11 @@
 ---
 title: "Breaching 1.5°C: Give me the odds"
 author: ["J.E. Vera-Valdés", "O. Kvist"]
-date: "2024/12/17"
+date: "2026/07/17"
 date-format: "YYYY"
 image: /images/Breaching-Realization10.png
 image-alt: "Animation showing the breach of the 1.5°C threshold for realization 10 of the HadCRUT5 dataset"
-categories: ["Working Paper", "Econometrics", "Climate Econometrics"]
+categories: ["Accepted", "Econometrics", "Climate Econometrics"]
 ---
 
 ## Abstract
@@ -14,9 +14,9 @@ Climate change communication is crucial to raising awareness and motivating acti
 
 ## Download
 
-Download the working paper freely (open access) [here](https://arxiv.org/abs/2412.13855).
+Download the working paper freely (open access) [here](https://arxiv.org/abs/2412.13855). But a much nicer looking version is available at the [manuscript repository here](https://everval.github.io/Odds-of-breaching-1.5C/). This version is done using Quarto and contains links to the code and data used in the paper. The paper is forthcoming in the International Journal of Forecasting.
 
-But a much nicer looking version is available at the [manuscript repository here](https://everval.github.io/Odds-of-breaching-1.5C/). This version is done using Quarto and contains links to the code and data used in the paper.
+The code and data used to produce the results in the paper are available at the [GitHub repository here](https://github.com/everval/Breaching-1.5C).
 
 Continuously updated results can be accessed via the [dashboard here](https://everval.github.io/Dashboard-Breaching-1.5C).
 
@@ -26,7 +26,7 @@ Continuously updated results can be accessed via the [dashboard here](https://ev
 
 ### Text
 
-Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” arXiv, December. https://doi.org/10.48550/arXiv.2412.13855.
+Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” International Journal of Forecasting. Forthcoming. Pre-print DOI: [10.48550/arXiv.2412.13855](https://doi.org/10.48550/arXiv.2412.13855).
 
 ### BibTex
 
@@ -34,8 +34,8 @@ Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me t
 @article{vera-valdés2024,
   author = {Vera-Valdés, J. Eduardo and Kvist, Olivia},
   title = {Breaching {1.5°C:} {Give} Me the Odds},
-  journal = {arXiv},
-  date = {2024-12-17},
+  journal = {International Journal of Forecasting},
+  date = {2026-07-17},
   url = {https://arxiv.org/abs/2412.13855},
   doi = {10.48550/arXiv.2412.13855},
 }

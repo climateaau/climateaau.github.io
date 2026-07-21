@@ -1,0 +1,41 @@
+---
+title: "Spatial Emergence of Acceleration in Global Warming"
+author: ["T.K. Bugajski", "N.P.B. Pedersen", "J.E. Vera-Valdés"]
+date: "2026/06/18"
+date-format: "YYYY"
+image: /images/acceleration_prob_gridded.jpg
+image-alt: "Probability of positive acceleration in global temperature trends across grid cells for the 1970-1990 estimation window"
+categories: ["Working Paper", "Econometrics", "Climate Econometrics"]
+---
+
+## Abstract
+
+Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable.
+
+## Download
+
+The paper is available as a preprint on [ArXiv here](https://arxiv.org/abs/2606.18806).
+
+## Recommended citation
+
+::: {.panel-tabset}
+
+### Text
+
+Bugajski, T.K., Pedersen, N.P.B., and Vera-Valdés, J.E. (2026). "Spatial Emergence of Acceleration in Global Warming". [ArXiv (2606.18806)](https://arxiv.org/abs/2606.18806).
+
+
+### BibTex
+
+```bibtex
+@article{bugajski2026spatialemergenceaccelerationglobal,
+      title={Spatial emergence of acceleration in global warming}, 
+      author={Tanja Korsten Bugajski and Nicolai Peder Bulow Pedersen and J. Eduardo Vera-Valdes},
+      journal={arXiv preprint arXiv:2606.18806},
+      year={2026},
+      doi={10.48550/arXiv.2606.18806},
+      url={https://arxiv.org/abs/2606.18806}, 
+}
+```
+
+:::
