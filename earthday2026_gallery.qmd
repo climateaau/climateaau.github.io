@@ -1,0 +1,23 @@
+---
+title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
+subtitle: "Communicating Climate Change Research"
+image: /images/earth_day_cc.png
+---
+
+
+# Photo Gallery
+
+
+::: {layout="[[1,1], [1,1]]"}
+
+!["Uneven buffering of U.S. maize yields against extreme heat" by [*Marina Friedrich*](https://sites.google.com/view/mfriedrich)](/images/ed26/MF_26.jpg)
+
+!["Learning from Earth’s climate history" by [*Kathrine By Larsen*](https://www.linkedin.com/in/kathrine-by-larsen/)](/images/ed26/KL_26.jpg)
+
+!["Do Renewable Energy Subsidies Work?," by [*Linde Kattenberg*](https://www.ventosa-santaularia.com/)](/images/ed26/PD_26.jpg)
+
+!["Spurious Relationships in Climate Data" by [*Daniel Ventosa-Santaulària*](https://sites.google.com/site/erichillebrand/)](/images/ed26/DVS_26.jpg)
+
+
+:::
+
