@@ -29,5 +29,3 @@ image: /images/earth_day_cc.png
 - 18:30 Event dinner for speakers.
 
 [^1]: The research presentations are aimed at a general audience. *No previous experience on the topics is needed*. Presentations are 25 minutes + 5 minutes for questions.
-
-[^2]: Prizes will be awarded to the best solutions.
