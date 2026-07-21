@@ -99,6 +99,8 @@ website:
           file: earthday2026_schedule.qmd
         - text: "Hackathon"
           file: earthday2026_hackathon.qmd
+        - text: "Photo Gallery"
+          file: earthday2026_gallery.qmd
 
 format:
   html:
