@@ -6,10 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="T.K. Bugajski">
+<meta name="author" content="N.P.B. Pedersen">
 <meta name="author" content="J.E. Vera-Valdés">
 <meta name="dcterms.date" content="2026-01-01">
 
-<title>Global Temperature Anomalies in Practice – AAU Climate</title>
+<title>Spatial Emergence of Acceleration in Global Warming – AAU Climate</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -110,13 +112,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Global Temperature Anomalies in Practice – AAU Climate">
-<meta property="og:description" content="An Open, Reproducible Framework for Baseline Harmonisation and ENSO-Aware Visualisation">
-<meta property="og:image" content="https://climateaau.github.io//images/Global_Temperature_Anomalies_Last_30_Years_ONI.png">
+<meta property="og:title" content="Spatial Emergence of Acceleration in Global Warming – AAU Climate">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://climateaau.github.io//images/acceleration_prob_gridded.jpg">
 <meta property="og:site_name" content="AAU Climate">
-<meta property="og:image:height" content="2000">
-<meta property="og:image:width" content="3000">
-<meta property="og:image:alt" content="Global temperature anomalies in the last 30 years and the Oceanic Niño Index (ONI) for the same period">
+<meta property="og:image:alt" content="Probability of positive acceleration in global temperature trends across grid cells for the 1970-1990 estimation window">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -202,11 +202,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Global Temperature Anomalies in Practice</h1>
-<p class="subtitle lead">An Open, Reproducible Framework for Baseline Harmonisation and ENSO-Aware Visualisation</p>
+<h1 class="title">Spatial Emergence of Acceleration in Global Warming</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Working Paper</div>
-    <div class="quarto-category">Software</div>
+    <div class="quarto-category">Econometrics</div>
     <div class="quarto-category">Climate Econometrics</div>
   </div>
   </div>
@@ -216,8 +215,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="quarto-title-meta">
 
     <div>
-    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
+             <p>T.K. Bugajski </p>
+             <p>N.P.B. Pedersen </p>
              <p>J.E. Vera-Valdés </p>
           </div>
   </div>
@@ -239,12 +240,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>We present a reproducible pipeline for downloading, processing, and harmonising global temperature anomaly series from HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ERA5. All datasets are aligned to a common 1850-1900 pre-industrial baseline to enable direct compar-ison. The workflow also integrates the Oceanic Niño Index (ONI) to annotate El Niño and La Niña phases in the figures, helping distinguish short-term variability from the long-term warming signal. Final outputs are exported as transparent, analysis-ready CSV files, available through the repository.</p>
+<p>Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable.</p>
 </section>
 <section id="download" class="level2">
 <h2 class="anchored" data-anchor-id="download">Download</h2>
-<p>Read the working paper freely in the <a href="https://everval.github.io/Global-Temperature-Anomalies/">manuscript repository here</a>. The repository contains links to the code and data used in the paper.</p>
-<p>The paper is also available as a preprint on <a href="https://eartharxiv.org/repository/view/13310/">EarthArXiv here</a>.</p>
+<p>The paper is available as a preprint on <a href="https://arxiv.org/abs/2606.18806">ArXiv here</a>.</p>
 </section>
 <section id="recommended-citation" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-citation">Recommended citation</h2>
@@ -252,16 +252,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Text</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">BibTex</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p>Vera-Valdés, J.E. (2026). “Global Temperature Anomalies in Practice”. <a href="https://eartharxiv.org/repository/view/13310/">EarthArXiv (13310)</a> DOI: 10.31223/X56N3Z.</p>
+<p>Bugajski, T.K., Pedersen, N.P.B., and Vera-Valdés, J.E. (2026). “Spatial Emergence of Acceleration in Global Warming”. <a href="https://arxiv.org/abs/2606.18806">ArXiv (2606.18806)</a>.</p>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">vera</span>-<span class="ot">valdesGlobalTemperatureAnomalies</span>,</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="dt">title</span> = {Global Temperature Anomalies in Practice},</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="dt">author</span> = {Vera-Valdés, J Eduardo},</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span> = {2026},</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> = {EarthArXiv},</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span> = {10.31223/X56N3Z},</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span> = {https://doi.org/10.31223/X56N3Z}</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">bugajski2026spatialemergenceaccelerationglobal</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>      <span class="dt">title</span>={Spatial emergence of acceleration in global warming}, </span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>      <span class="dt">author</span>={Tanja Korsten Bugajski and Nicolai Peder Bulow Pedersen and J. Eduardo Vera-Valdes},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>      <span class="dt">journal</span>={arXiv preprint arXiv:2606.18806},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>      <span class="dt">year</span>={2026},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>      <span class="dt">doi</span>={10.48550/arXiv.2606.18806},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>      <span class="dt">url</span>={https://arxiv.org/abs/2606.18806}, </span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
