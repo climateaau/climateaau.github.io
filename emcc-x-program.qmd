@@ -7,7 +7,7 @@ image: /images/earth_day_cc.png
 ![Aalborg, Denmark](/images/emccx/Aalborg-City.jpg){fig-alt="Aalborg, Denmark"}
 
 
-The [10th Conference on Econometric Models of Climate Change (EMCC-X)](emcc-x-program.qmd) will be held at [Aalborg University](https://en.aau.dk/), Denmark, on August 20-21, 2026.
+The [10th Conference on Econometric Models of Climate Change (EMCC-X)](emcc-x.qmd) will be held at [Aalborg University](https://en.aau.dk/), Denmark, on August 20-21, 2026.
 
 The conference will be held at CREATE, Department of Architecture, Design, and Media Technology at Aalborg University. [Rendsburggade 14, 9000 Aalborg.](https://maps.app.goo.gl/MuY1dPZksKR6hGvr8)
 
