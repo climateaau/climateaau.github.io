@@ -18,7 +18,7 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 :::
 
 
-# Draft Program *(version as of July 29, 2026)*
+# Draft Program *(version as of August 4, 2026)*
 
 ## Day 1 -  20th of August
 
@@ -37,7 +37,7 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 - **José Alves** — Climate Resilience and the Adaptation Trap: A Macroeconomic Framework for Joint Fiscal–External Sustainability.
 - **Giacomo Toscano** — Nonparametric estimation of temperature shock volatility.
 - **Yin Shi** — Forecasting Carbon Dioxide Emissions in Canada: An Empirical Macroeconomic Framework.
-- **Dennis Cordes** — Modeling Spatio-Temporal Peer Effects in Count Data for Residential Photovoltaic Adoption.
+- **Dennis Cordes** — Modeling Peer Effects in Residential Solar Panel Adoption.
 - **Ruriko Yoshida** — Inference on Edge Weights and Temporal Lags in Discrete Max-Linear Bayesian Networks.
 - **Cheyenne Amoroso** — A Dynamic Nonlinear Panel Decomposition Model for the Global Environmental Kuznets Curve.
 - **Sebastian Mathias Jensen** — Neural networks for nonlinear regression with serially correlated disturbances: Evidence from cloud cover.
@@ -59,7 +59,7 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 - **Haodong Qi** — Climate Risks and Subjective Well-being: Insights from Human Flourishing Geographic Index (USA, 2013-2023).
 - **Dhruv Akshay Pandit** — The impacts of weather anomalies on international tourism demand.
 - **Francisco Javier Martinez Ramirez** — The effects of temperature and rainfall anomalies on macroeconomic variables: The case of Mexico.
-- **Niki Demosthenous** — Heterogeneous Firm Belief Updating to Climate News Shocks.
+- **Niki Demosthenous** — Heterogeneous Firms' Expectations Responses to Climate News.
 - **Marina Friedrich** — Evaluating the robustness of REDD+ project impacts on avoided deforestation in Amazonian Brazil across synthetic control methods.
 
 #### 15:40-16:10	Break
