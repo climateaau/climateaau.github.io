@@ -9,7 +9,9 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "EMCC-X"
-        file: emcc-x.qmd
+        menu:
+          - sidebar:emccx
+          - sidebar:emccxprogram
       - text: "Earth Day"
         menu:
           - sidebar:edall
@@ -24,6 +26,23 @@ website:
 
   sidebar:
 
+    - id: emccx
+      title: "EMCC-X"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "EMCC-X"
+          file: emcc-x.qmd
+        - text: "Program"
+          file: emcc-x-program.qmd
+    - id: emccxprogram
+      title: "Program"
+      style: "docked"
+      background: "light"
+      contents:
+        - text: "Program"
+          file: emcc-x-program.qmd
+
     - id: edall
       title: "Earth Day Events"
       style: "docked"
@@ -31,6 +50,14 @@ website:
       contents:
         - text: "Earth Day Events"
           file: earthdays.qmd
+        - text: "2026"
+          file: earthday2026.qmd
+        - text: "2025"
+          file: earthday2025.qmd
+        - text: "2024"
+          file: earthday2024.qmd
+        - text: "2023"
+          file: previousevents/earthday2023.qmd
 
     - id: ed2023
       title: "2023"

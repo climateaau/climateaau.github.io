@@ -18,12 +18,12 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 :::
 
 
-# Draft Program *(version as of August 4, 2026)*
+# Draft Program *(version as of August 18, 2026)*
 
 ## Day 1 -  20th of August
 
 #### 08:30-09:00	Registration Open
-#### 09:10-09:20	Welcome
+#### 09:00-09:20	Welcome
 #### 09:20-10:20	Talk Slot 1: Climate Econometrics and Applied Evidence
 
 - **Alessandro Giovannelli** — Forecasting ENSO with High-Dimensional time series. 
@@ -48,7 +48,7 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 
 - **Alessandra Canepa** — From Shocks to Feedbacks: Regime-Dependent Persistence in   Arctic Temperature Anomalies.
 - **Siem Jan Koopman** — An assessment of statistical predictive models for Arctic sea ice projections.
-- **Felix Pretis** — Who Opens the Arctic: The Impact of Sea Ice and Global Economic Shocks on Arctic Vessel Traffic.
+- **Felix Pretis** — From Melting Point to Tipping Point: Sea Ice, Shipping, and Emissions in the Arctic.
 
 #### 14:00-14:30	Break
 
@@ -79,9 +79,9 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 
 ## Day 2 - 21st of August
 
-#### 09:00-10:20 Talk Slot 4: Climate-Growth and Macroeconomic Impacts
+#### 09:00-09:20	Welcome
+#### 09:20-10:20 Talk Slot 4: Climate-Growth and Macroeconomic Impacts
 
-- **Luca Benati** — Estimating the Long-Run Impact of Climate Change on GDP.
 - **Marius Just** — Evidence on the Climate-Growth Relationship.
 - **Menghan Yuan** — Interactive Climate Effects on Economic Growth.
 - **C. Vladimir Rodríguez-Caballero** — Economic Outlook from Climate Conditions.
@@ -94,7 +94,6 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 - **Shanmukha Srinivas Byrukuri Gangadhar** — Experience with Extreme Events and Wind Energy Impact: Causal Evidence from Flood Exposure, Wind Energy, and Housing Markets.
 - **Carolina García-Martos** — Structural Changes in Trend-Seasonal Decompositions for Climate and Energy Time Series.
 - **Reza Modarres** — Meteorological drought volatility in Iranian areas has either increased or decreased during 1952-2022.
-- **Subir Sen** — Extreme Climatic Events and Insurance Consumption: A Study of selected Asian Economies.
 - **Sania Wadud** — Persistence in Chinese Climate Policy Uncertainty
 - **Matthias Wirth** — Recovering continuous-time parameters of a k-box energy balance model from a discrete-time CVAR.
 
