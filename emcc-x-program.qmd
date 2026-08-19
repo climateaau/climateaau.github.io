@@ -18,58 +18,58 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 :::
 
 
-# Draft Program *(version as of August 18, 2026)*
+# Draft Program *(version as of August 19, 2026)*
 
-## Day 1 -  20th of August
+## Day 1 - 20th of August
 
 #### 08:30-09:00	Registration Open
 #### 09:00-09:20	Welcome
 #### 09:20-10:20	Talk Slot 1: Climate Econometrics and Applied Evidence
 
-- **Alessandro Giovannelli** — Forecasting ENSO with High-Dimensional time series. 
-- **Feridoon Koohi-Kamali** — The dynamic common corelated spill-over effects estimation of budget neutral environmental policy & risk preference for transition to a low carbon economy-with application to the OECD. 
-- **Mikkel Bennedsen** — The kinematics of global temperature: Semiparametric analysis of trend, warming rate, and acceleration.
+- **Alessandro Giovannelli** *(University of L'Aquila)* — Forecasting ENSO with High-Dimensional time series.
+- **Feridoon Koohi-Kamali** *(Ontofuture.org and New School for Social Research)* — The dynamic common correlated effects estimation of budget-neutral environmental policy & risk preference for transition to a low carbon economy, with application to the OECD.
+- **Mikkel Bennedsen** *(Aarhus University)* — The kinematics of global temperature: Semiparametric analysis of trend, warming rate, and acceleration.
 
 #### 10:20-10:50	Break
 
 #### 10:50-12:00	Spotlight Slot 1: Methods in Climate Time-Series Econometrics
 
-- **José Alves** — Climate Resilience and the Adaptation Trap: A Macroeconomic Framework for Joint Fiscal–External Sustainability.
-- **Giacomo Toscano** — Nonparametric estimation of temperature shock volatility.
-- **Yin Shi** — Forecasting Carbon Dioxide Emissions in Canada: An Empirical Macroeconomic Framework.
-- **Dennis Cordes** — Modeling Peer Effects in Residential Solar Panel Adoption.
-- **Ruriko Yoshida** — Inference on Edge Weights and Temporal Lags in Discrete Max-Linear Bayesian Networks.
-- **Cheyenne Amoroso** — A Dynamic Nonlinear Panel Decomposition Model for the Global Environmental Kuznets Curve.
-- **Sebastian Mathias Jensen** — Neural networks for nonlinear regression with serially correlated disturbances: Evidence from cloud cover.
+- **José Alves** *(ISEG - Lisbon School of Economics and Management)* — Climate Resilience and the Adaptation Trap: A Macroeconomic Framework for Joint Fiscal–External Sustainability.
+- **Giacomo Toscano** *(University of Florence)* — Nonparametric estimation of temperature shock volatility.
+- **Yin Shi** *(University of Victoria)* — Forecasting Carbon Dioxide Emissions in Canada: An Empirical Macroeconomic Framework.
+- **Dennis Cordes** *(Universiteit van Amsterdam)* — Modeling Peer Effects in Residential Solar Panel Adoption.
+- **Ruriko Yoshida** *(Naval Postgraduate School/Aalborg University)* — Inference on Edge Weights and Temporal Lags in Discrete Max-Linear Bayesian Networks.
+- **Cheyenne Amoroso** *(Universidade da Coruña)* — A Dynamic Nonlinear Panel Decomposition Model for the Global Environmental Kuznets Curve.
+- **Sebastian Mathias Jensen** *(Aarhus University)* — Neural networks for nonlinear regression with serially correlated disturbances: Evidence from cloud cover.
 
 #### 12:00-13:00	Lunch
 
 #### 13:00-14:00	Talk Slot 2: Arctic Dynamics and Sea Ice
 
-- **Alessandra Canepa** — From Shocks to Feedbacks: Regime-Dependent Persistence in   Arctic Temperature Anomalies.
-- **Siem Jan Koopman** — An assessment of statistical predictive models for Arctic sea ice projections.
-- **Felix Pretis** — From Melting Point to Tipping Point: Sea Ice, Shipping, and Emissions in the Arctic.
+- **Alessandra Canepa** *(University of Turin)* — From Shocks to Feedbacks: Regime-Dependent Persistence in Arctic Temperature Anomalies.
+- **Siem Jan Koopman** *(Vrije Universiteit Amsterdam)* — An assessment of statistical predictive models for Arctic sea ice projections.
+- **Felix Pretis** *(University of Victoria)* — From Melting Point to Tipping Point: Sea Ice, Shipping, and Emissions in the Arctic.
 
 #### 14:00-14:30	Break
 
-#### 14:30-15:40 Spotlight Slot 2: Climate-Growth and Macroeconomic Impacts
+#### 14:30-15:40	Spotlight Slot 2: Climate-Growth and Macroeconomic Impacts
 
-- **Sachintha Fernando** — Donor Pool Selection in Synthetic Controls: Lessons from Carbon tax Evaluations.
-- **Stefano Ninfole** — Econometric Modelling of Norwegian CO2 Emissions.
-- **Haodong Qi** — Climate Risks and Subjective Well-being: Insights from Human Flourishing Geographic Index (USA, 2013-2023).
-- **Dhruv Akshay Pandit** — The impacts of weather anomalies on international tourism demand.
-- **Francisco Javier Martinez Ramirez** — The effects of temperature and rainfall anomalies on macroeconomic variables: The case of Mexico.
-- **Niki Demosthenous** — Heterogeneous Firms' Expectations Responses to Climate News.
-- **Marina Friedrich** — Evaluating the robustness of REDD+ project impacts on avoided deforestation in Amazonian Brazil across synthetic control methods.
+- **Sachintha Fernando** *(Martin Luther University Halle-Wittenberg)* — Donor Pool Selection in Synthetic Controls: Lessons from Carbon tax Evaluations.
+- **Stefano Ninfole** *(NMBU - Norwegian University of Life Sciences)* — Econometric Modelling of Norwegian CO2 Emissions.
+- **Haodong Qi** *(Malmo University)* — Climate Risks and Subjective Well-being: Insights from Human Flourishing Geographic Index (USA, 2013-2023).
+- **Dhruv Akshay Pandit** *(NOVA Information Management School, Universidade de Nova Lisboa)* — The impacts of weather anomalies on international tourism demand.
+- **Francisco Javier Martinez Ramirez** *(Bank of Mexico)* — The effects of temperature and rainfall anomalies on macroeconomic variables: The case of Mexico.
+- **Niki Demosthenous** *(University of Cyprus)* — Heterogeneous Firms' Expectations Responses to Climate News.
+- **Marina Friedrich** *(Vrije Universiteit Amsterdam)* — Evaluating the robustness of REDD+ project impacts on avoided deforestation in Amazonian Brazil across synthetic control methods.
 
 #### 15:40-16:10	Break
 
-#### 16:10-17:30 Talk Slot 3: Extremes, Hazards, and Adaptation
+#### 16:10-17:30	Talk Slot 3: Extremes, Hazards, and Adaptation
 
-- **Moritz Schwarz** — Using the statistical IAM-emulator statIAM to empirically constrain energy system results.
-- **Marco Bidoia** — Dynamic Models for Climate Extremes.
-- **Chenhui Wang** — Estimation and inference for the persistence of extremely high temperatures.
-- **Markus Fritsch** — On the process of threshold exceedances of precipitation series under unknown heterogeneity and dependence.
+- **Moritz Schwarz** *(TU Berlin / PIK Potsdam)* — Using the statistical IAM-emulator statIAM to empirically constrain energy system results.
+- **Marco Bidoia** *(Ca' Foscari - University of Venice)* — Dynamic Models for Climate Extremes.
+- **Chenhui Wang** *(Vrije Universiteit Amsterdam)* — Estimation and inference for the persistence of extremely high temperatures.
+- **Markus Fritsch** *(University of Passau)* — On the process of threshold exceedances of precipitation series under unknown heterogeneity and dependence.
 
 #### 17:30	END OF DAY 1
 
@@ -80,44 +80,44 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 ## Day 2 - 21st of August
 
 #### 09:00-09:20	Welcome
-#### 09:20-10:20 Talk Slot 4: Climate-Growth and Macroeconomic Impacts
+#### 09:20-10:20	Talk Slot 4: Climate-Growth and Macroeconomic Impacts
 
-- **Marius Just** — Evidence on the Climate-Growth Relationship.
-- **Menghan Yuan** — Interactive Climate Effects on Economic Growth.
-- **C. Vladimir Rodríguez-Caballero** — Economic Outlook from Climate Conditions.
+- **Marius Just** *(Aarhus University)* — Evidence on the Climate-Growth Relationship.
+- **Menghan Yuan** *(Nord University)* — Interactive Climate Effects on Economic Growth.
+- **C. Vladimir Rodríguez-Caballero** *(ITAM)* — Economic Outlook from Climate Conditions.
 
 #### 10:20-10:50	Break
 
-#### 10:50-12:00 Spotlight Slot 3: Energy Systems and Renewable Transitions
+#### 10:50-12:00	Spotlight Slot 3: Energy Systems and Renewable Transitions
 
-- **Diego Alejandro Prieto Melo** — Quantifying the Quiet Creep: Degradation of 15,000 Wind Turbines in Germany.
-- **Shanmukha Srinivas Byrukuri Gangadhar** — Experience with Extreme Events and Wind Energy Impact: Causal Evidence from Flood Exposure, Wind Energy, and Housing Markets.
-- **Carolina García-Martos** — Structural Changes in Trend-Seasonal Decompositions for Climate and Energy Time Series.
-- **Reza Modarres** — Meteorological drought volatility in Iranian areas has either increased or decreased during 1952-2022.
-- **Sania Wadud** — Persistence in Chinese Climate Policy Uncertainty
-- **Matthias Wirth** — Recovering continuous-time parameters of a k-box energy balance model from a discrete-time CVAR.
+- **Diego Alejandro Prieto Melo** *(Brandenburg University of Technology Cottbus-Senftenberg)* — Quantifying the Quiet Creep: Degradation of 15,000 Wind Turbines in Germany.
+- **Shanmukha Srinivas Byrukuri Gangadhar** *(Brandenburg University of Technology Cottbus-Senftenberg)* — Experience with Extreme Events and Wind Energy Impact: Causal Evidence from Flood Exposure, Wind Energy, and Housing Markets.
+- **Carolina García-Martos** *(UPM - Technical University of Madrid)* — Structural Changes in Trend-Seasonal Decompositions for Climate and Energy Time Series.
+- **Reza Modarres** *(Isfahan University of Technology)* — Meteorological drought volatility in Iranian areas has either increased or decreased during 1952-2022.
+- **Sania Wadud** *(University of Leeds)* — Persistence in Chinese Climate Policy Uncertainty.
+- **Matthias Wirth** *(University of Hohenheim)* — Recovering continuous-time parameters of a k-box energy balance model from a discrete-time CVAR.
 
 #### 12:00-13:00	Lunch
 
-#### 13:00-14:00 Talk Slot 5: Carbon, Emissions, and Climate Policy
+#### 13:00-14:00	Talk Slot 5: Carbon, Emissions, and Climate Policy
 
-- **Paul Haimerl** — Identifying the Carbon Sink Saturation Threshold.
-- **Tobias Eibinger** — Zero fare, cleaner air? The causal effect of free public transportation on transport emissions.
-- **Bent Jesper Christensen** — Intermittency and the potential of wind energy for CO2 abatement.
+- **Paul Haimerl** *(Aarhus University)* — Identifying the Carbon Sink Saturation Threshold.
+- **Tobias Eibinger** *(University of Graz)* — Zero fare, cleaner air? The causal effect of free public transportation on transport emissions.
+- **Bent Jesper Christensen** *(Aarhus University)* — Intermittency and the potential of wind energy for CO2 abatement.
 
-#### 14:00-14:30	Break 
+#### 14:00-14:30	Break
 
-#### 14:30-15:30 Talk Slot 6: Methods in Climate Time-Series Econometrics
+#### 14:30-15:30	Talk Slot 6: Methods in Climate Time-Series Econometrics
 
-- **Giovanni Urga** — Common Green Bubbles Detection in Real Time.
-- **Philipp Sibbertsen** — Change-Point Testing for Spectral Densities under Cyclical Long Memory.
-- **Tommaso Proietti** — Trend Filtering with Fractional Splines.
+- **Giovanni Urga** *(Bayes Business School, University of London)* — Common Green Bubbles Detection in Real Time.
+- **Philipp Sibbertsen** *(Leibniz University of Hannover)* — Change-Point Testing for Spectral Densities under Cyclical Long Memory.
+- **Tommaso Proietti** *(University of Rome Tor Vergata)* — Trend Filtering with Fractional Splines.
 
 #### 15:30-15:45	Closing Remarks
 
 #### 15:45	END OF CONFERENCE
 
---- 
+---
 
 
 ## Organising Committee
@@ -140,7 +140,7 @@ Sign up to the [Research Network Mailing list](https://sites.google.com/view/emc
 
 ## Sponsors
 
-This event is supported by the [Danish Data Science Academy DDSA](https://ddsa.dk/) and [Carlsberg Foundation](https://www.carlsbergfondet.dk/) (Grant CF25-2085). 
+This event is supported by the [Danish Data Science Academy DDSA](https://ddsa.dk/) and [Carlsberg Foundation](https://www.carlsbergfondet.dk/) (Grant CF25-2085).
 
 ::: {layout-ncol=2}
 
