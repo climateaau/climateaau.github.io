@@ -88,14 +88,15 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 
 #### 10:20-10:50	Break
 
-#### 10:50-12:00	Spotlight Slot 3: Energy Systems and Renewable Transitions
+#### 10:50-11:50	Spotlight Slot 3: Energy Systems and Renewable Transitions
 
 - **Diego Alejandro Prieto Melo** *(Brandenburg University of Technology Cottbus-Senftenberg)* — Quantifying the Quiet Creep: Degradation of 15,000 Wind Turbines in Germany.
 - **Shanmukha Srinivas Byrukuri Gangadhar** *(Brandenburg University of Technology Cottbus-Senftenberg)* — Experience with Extreme Events and Wind Energy Impact: Causal Evidence from Flood Exposure, Wind Energy, and Housing Markets.
 - **Carolina García-Martos** *(UPM - Technical University of Madrid)* — Structural Changes in Trend-Seasonal Decompositions for Climate and Energy Time Series.
-- **Reza Modarres** *(Isfahan University of Technology)* — Meteorological drought volatility in Iranian areas has either increased or decreased during 1952-2022.
-- **Sania Wadud** *(University of Leeds)* — Persistence in Chinese Climate Policy Uncertainty.
+- **Sania Wadud** *(University of Leeds)* — Ambiguity in China's Climate Policy Discourse: A Provincial Level Analysis.
 - **Matthias Wirth** *(University of Hohenheim)* — Recovering continuous-time parameters of a k-box energy balance model from a discrete-time CVAR.
+
+#### 11:50-12:00	Group Photo
 
 #### 12:00-13:00	Lunch
 
@@ -109,7 +110,7 @@ The conference will be held at CREATE, Department of Architecture, Design, and M
 
 #### 14:30-15:30	Talk Slot 6: Methods in Climate Time-Series Econometrics
 
-- **Giovanni Urga** *(Bayes Business School, University of London)* — Common Green Bubbles Detection in Real Time.
+- **Elisabetta Pellini** *(Bayes Business School, University of London)* — Bubbles in Green Equity Markets: The Role of Macro-Financial and Climate Drivers.
 - **Philipp Sibbertsen** *(Leibniz University of Hannover)* — Change-Point Testing for Spectral Densities under Cyclical Long Memory.
 - **Tommaso Proietti** *(University of Rome Tor Vergata)* — Trend Filtering with Fractional Splines.
 
