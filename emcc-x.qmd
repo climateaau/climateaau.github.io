@@ -10,11 +10,18 @@ The 10th Conference on Econometric Models of Climate Change (EMCC-X) will be hel
 
 The conference brings together economists, econometricians, climate scientists, statisticians, and policy researchers to improve our understanding of climate change, its impacts, and effective policy solutions. The EMCC conference series was established in 2016 and has been supported by themed issues of the Journal of Econometrics, Energy Economics, the International Journal of Forecasting, and Advances in Econometrics. Previous iterations of the conference are linked [here](https://sites.google.com/view/emccconference/conferences).
 
+
+::: {.callout-note}
+
+Thanks to all the participants, speakers, and sponsors for making the EMCC-X Conference a success. 
+
+:::
+
 ## Program
 
 :::{.callout-note title="Program"}
 
-The first version of the program is now available [here](emcc-x-program.qmd). Please note that the program is still subject to change. The final version will be published closer to the conference date.
+The final version of the program is now available [here](emcc-x-program.qmd). 
 
 :::
 
