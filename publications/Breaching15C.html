@@ -162,23 +162,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-earth-day">    
         <li>
-    <a class="dropdown-item" href="../earthdays.html">
+    <a class="dropdown-item" href="../earthday/earthdays.html">
  <span class="dropdown-text">Earth Day Events</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../earthday2026.html">
+    <a class="dropdown-item" href="../earthday/earthday2026.html">
  <span class="dropdown-text">2026</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../earthday2025.html">
+    <a class="dropdown-item" href="../earthday/earthday2025.html">
  <span class="dropdown-text">2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../earthday2024.html">
+    <a class="dropdown-item" href="../earthday/earthday2024.html">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../previousevents/earthday2023.html">
+    <a class="dropdown-item" href="../earthday/previousevents/earthday2023.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
@@ -216,9 +216,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="quarto-title">
 <h1 class="title">Breaching 1.5°C: Give me the odds</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Accepted</div>
+    <div class="quarto-category">Published</div>
     <div class="quarto-category">Econometrics</div>
     <div class="quarto-category">Climate Econometrics</div>
+    <div class="quarto-category">Forecasting</div>
   </div>
   </div>
 
@@ -251,13 +252,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Climate change communication is crucial to raising awareness and motivating action. In the context of breaching the limits set out by the Paris Agreement, we argue that climate scientists should move away from point estimates and towards reporting probabilities. Reporting probabilities will provide policymakers with a range of possible outcomes and will allow them to make informed timely decisions. To achieve this goal, we propose a method to calculate the probability of breaching the limits set out by the Paris Agreement. The method can be summarized as predicting future temperatures under different scenarios and calculating the number of possible outcomes that breach the limits as a proportion of the total number of outcomes. The probabilities can be computed for different time horizons and can be updated as new data become available. As an illustration, we performed a simulation study to investigate the probability of breaching the limits in a statistical model. Our results show that the probability of breaching the 1.5°C limit is already greater than zero for 2024. Moreover, the probability of breaching the limit is greater than 99% by 2042 if no action is taken to reduce greenhouse gas emissions. Our methodology is simple to implement and can easily be extended to more complex models of the climate system. We encourage climate model developers to include the probabilities of breaching the limits in their reports.</p>
+<p>This paper develops a probability framework to convey the uncertainty surrounding predictions of when the temperature thresholds established by the Paris Agreement will be breached. The motivation for reporting probabilities is that they enable policymakers to make timely and informed decisions. The method can be summarised as predicting future temperatures under different scenarios and calculating the proportion of predicted outcomes that exceed the specified limits. These probabilities can be computed for different time horizons and updated as new data become available. We illustrate our method using two forecasting mechanisms. The first model links temperature anomalies to effective radiative forcings, enabling the assessment of how emissions scenarios affect breaching probabilities. The second model relies solely on the time series dynamics of observed temperatures and does not require additional inputs for forecasting. Our methodology is simple to implement and can be readily adapted to more complex climate models. We encourage climate model developers to include probabilities of breaching these limits in their reports.</p>
 </section>
 <section id="download" class="level2">
 <h2 class="anchored" data-anchor-id="download">Download</h2>
-<p>Download the working paper freely (open access) <a href="https://arxiv.org/abs/2412.13855">here</a>. But a much nicer looking version is available at the <a href="https://everval.github.io/Odds-of-breaching-1.5C/">manuscript repository here</a>. This version is done using Quarto and contains links to the code and data used in the paper. The paper is forthcoming in the International Journal of Forecasting.</p>
+<p>Download the paper (gold open access) <a href="https://www.sciencedirect.com/science/article/pii/S0169207026000646#d1e2232">here</a>.</p>
 <p>The code and data used to produce the results in the paper are available at the <a href="https://github.com/everval/Breaching-1.5C">GitHub repository here</a>.</p>
 <p>Continuously updated results can be accessed via the <a href="https://everval.github.io/Dashboard-Breaching-1.5C">dashboard here</a>.</p>
+<p>The working paper version is available for free (open access) <a href="https://arxiv.org/abs/2412.13855">here</a>. But a much nicer looking version is available at the <a href="https://everval.github.io/Odds-of-breaching-1.5C/">manuscript repository here</a>. This version is done using Quarto and contains links to the code and data used in the paper. The paper is forthcoming in the International Journal of Forecasting.</p>
 </section>
 <section id="recommended-citation" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-citation">Recommended citation</h2>
@@ -265,16 +267,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Text</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">BibTex</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p>Vera-Valdés, J. Eduardo, and Olivia Kvist. 2024. “Breaching 1.5°C: Give Me the Odds.” International Journal of Forecasting. Forthcoming. Pre-print DOI: <a href="https://doi.org/10.48550/arXiv.2412.13855">10.48550/arXiv.2412.13855</a>.</p>
+<p>Vera-Valdés, J. Eduardo, and Olivia Kvist. 2026. “Breaching 1.5°C: Give Me the Odds.” International Journal of Forecasting. Forthcoming. DOI: <a href="https://doi.org/10.1016/j.ijforecast.2026.07.004">10.1016/j.ijforecast.2026.07.004</a>.</p>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">vera</span>-<span class="ot">vald</span>é<span class="ot">s2024</span>,</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">vera</span>-<span class="ot">vald</span>é<span class="ot">s2026</span>,</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span> = {Vera-Valdés, J. Eduardo and Kvist, Olivia},</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span> = {Breaching {1.5°C:} {Give} Me the Odds},</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> = {International Journal of Forecasting},</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">date</span> = {2026-07-17},</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span> = {https://arxiv.org/abs/2412.13855},</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span> = {10.48550/arXiv.2412.13855},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">date</span> = {2026-08-10},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span> = {https://doi.org/10.1016/j.ijforecast.2026.07.004},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span> = {10.1016/j.ijforecast.2026.07.004</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
