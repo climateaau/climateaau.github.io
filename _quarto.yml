@@ -49,15 +49,15 @@ website:
       background: "light"
       contents:
         - text: "Earth Day Events"
-          file: earthdays.qmd
+          file: earthday/earthdays.qmd
         - text: "2026"
-          file: earthday2026.qmd
+          file: earthday/earthday2026.qmd
         - text: "2025"
-          file: earthday2025.qmd
+          file: earthday/earthday2025.qmd
         - text: "2024"
-          file: earthday2024.qmd
+          file: earthday/earthday2024.qmd
         - text: "2023"
-          file: previousevents/earthday2023.qmd
+          file: earthday/previousevents/earthday2023.qmd
 
     - id: ed2023
       title: "2023"
@@ -65,13 +65,13 @@ website:
       background: "light"
       contents:
         - text: "Earth Day 2023"
-          file: previousevents/earthday2023.qmd
+          file: earthday/previousevents/earthday2023.qmd
         - text: "Schedule"
-          file: previousevents/earthday2023_schedule.qmd
+          file: earthday/previousevents/earthday2023_schedule.qmd
         - text: "Hackathon"
-          file: previousevents/earthday2023_hackathon.qmd
+          file: earthday/previousevents/earthday2023_hackathon.qmd
         - text: "Photo Gallery"
-          file: previousevents/earthday2023_gallery.qmd
+          file: earthday/previousevents/earthday2023_gallery.qmd
 
     - id: ed2024
       title: "2024"
@@ -79,21 +79,21 @@ website:
       background: "light"
       contents:
         - text: "Earth Day 2024"
-          file: earthday2024.qmd
+          file: earthday/earthday2024.qmd
         - text: "Schedule"
-          file: earthday2024_schedule.qmd
+          file: earthday/earthday2024_schedule.qmd
         - text: "Research Presentations"
-          file: earthday2024_researchpresentations.qmd
+          file: earthday/earthday2024_researchpresentations.qmd
         - text: "Hackathon"
-          file: earthday2024_hackathon.qmd
+          file: earthday/earthday2024_hackathon.qmd
         - text: "Meme Competition"
-          file: earthday2024_hackathon.qmd#meme-competition
+          file: earthday/earthday2024_hackathon.qmd#meme-competition
         - text: "Photo Gallery"
-          file: earthday2024_gallery.qmd
+          file: earthday/earthday2024_gallery.qmd
         - text: "Register"
           url: "https://forms.office.com/pages/responsepage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUMTNYWjNWWlgxTUlCVkNUWFNEMDRISkFVUC4u"
         - text: "Call for Speakers"
-          file: earthday2024_callforspeakers.qmd
+          file: earthday/earthday2024_callforspeakers.qmd
 
     - id: ed2025
       title: "2025"
@@ -101,17 +101,17 @@ website:
       background: "light"
       contents:
         - text: "Earth Day 2025"
-          file: earthday2025.qmd
+          file: earthday/earthday2025.qmd
         - text: "Schedule"
-          file: earthday2025_schedule.qmd
+          file: earthday/earthday2025_schedule.qmd
         - text: "Hackathon"
-          file: earthday2025_hackathon.qmd
+          file: earthday/earthday2025_hackathon.qmd
         - text: "Photo Gallery"
-          file: earthday2025_gallery.qmd
+          file: earthday/earthday2025_gallery.qmd
         - text: "Register"
           url: "https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJURUU5S1Q0Q09MT09RVkFaVkFRMEhXTFJZQy4u"
         - text: "Call for Speakers"
-          file: earthday2025_callforspeakers.qmd
+          file: earthday/earthday2025_callforspeakers.qmd
 
     - id: ed2026
       title: "2026"
@@ -119,15 +119,15 @@ website:
       background: "light"
       contents:
         - text: "Earth Day 2026"
-          file: earthday2026.qmd
+          file: earthday/earthday2026.qmd
         - text: "Register"
           url: "https://forms.office.com/e/e2PCdiQgpr"
         - text: "Schedule"
-          file: earthday2026_schedule.qmd
+          file: earthday/earthday2026_schedule.qmd
         - text: "Hackathon"
-          file: earthday2026_hackathon.qmd
+          file: earthday/earthday2026_hackathon.qmd
         - text: "Photo Gallery"
-          file: earthday2026_gallery.qmd
+          file: earthday/earthday2026_gallery.qmd
 
 format:
   html:

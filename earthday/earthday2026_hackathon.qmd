@@ -1,5 +1,5 @@
 ---
-title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
+title: "![AAU logo](../images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
 subtitle: "Communicating Climate Change Research"
 image: /images/earth_day_cc.png
 ---
@@ -48,11 +48,11 @@ Examples of data sources include:
 
 As inspiration, you can look at [*show your stripes*](https://showyourstripes.info/):
 
-![Temperature change in Denmark since 1850 #showyourstripes](images/ed24/EUROPE-Denmark-Stripes.png)
+![Temperature change in Denmark since 1850 #showyourstripes](../images/ed24/EUROPE-Denmark-Stripes.png)
 
 Or the following gif:
 
-![Global temperature anomalies for August 2020 vs 1951-1980 baseline](images/ed24/Globe_Temperature_Anomalies_August.gif)
+![Global temperature anomalies for August 2020 vs 1951-1980 baseline](../images/ed24/Globe_Temperature_Anomalies_August.gif)
 
 ### The judging
 

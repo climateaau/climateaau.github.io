@@ -1,7 +1,8 @@
 ---
-title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2025"
-subtitle: "Climate Change Data Dashboards"
+title: "![AAU logo](../images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2024"
+subtitle: "Communicating Climate Change Research"
 image: /images/earth_day_cc.png
+sidebar: ed2024
 ---
 
 ![](/images/earth_day_cc.png){fig-alt="Earth Day Poster."}
@@ -10,15 +11,15 @@ image: /images/earth_day_cc.png
 
 ::: {.callout-note}
 
-Thanks to all the participants, speakers, and sponsors for making the Earth Day 2025 Event a success. We hope to see you next year!
+Thanks to all the participants, speakers, and sponsors for making the Earth Day 2024 Event a success. We hope to see you next year!
 
 :::
 
-The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the **Earth Day 2025 Event**. The theme for this year is "*Climate Change Data Dashboards*".  
+The [Department of Mathematical Sciences](https://www.math.aau.dk/) invites students, faculty, and the public to join us for the **Earth Day 2024 Event**. The theme for this year is "*Communicating Climate Change Research*".  
 
 The event is a day-long celebration of the importance and challenges of communicating climate change research to the public. *The event is open to researchers, students, and anyone who is interested in learning more about this pressing topic*. 
 
-The event will take place on [April 22](https://www.earthday.org/), 2025, at [Aalborg University](https://www.en.aau.dk/), Denmark.
+The event will take place on [April 22](https://www.earthday.org/), 2024, at [Aalborg University](https://www.en.aau.dk/), Denmark.
 
 
 ## Event Program
@@ -29,31 +30,33 @@ The event features:
 
 - **A climate-related hackathon** to design the best way to communicate to the general public . The theme for this year means that the best solutions will come from cross-disciplinary collaboration between participants with different sets of skills. So, convince all your friends to join your team. *You don't need to be an expert to join*, just bring your enthusiasm and willingness to learn and work with others!
 
-    - Free coffe ☕️, cake 🥮, pizza 🍕, and drinks 🥤 for all hackathon participants.
+    - Free pizza 🍕 and drinks 🥤 for all hackathon participants.
  
 - **A climate change-related meme-competition**. Show off your sense of humour and your knowledge of climate change by creating and sharing memes that are funny, informative, and relevant. The best memes will be voted by the experts panel and displayed on the event's website.
 
+Complete program can be seen [here](earthday2024_schedule.qmd).
 
-## External Speakers
+## Confirmed External Speakers
  
-- [Eric Hillebrand](https://sites.google.com/site/erichillebrand/home), Professor of Econometrics at the Department of Economics and Business Economics and CoRE, Aarhus University, Denmark. 
+- [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/), Associate Professor of Economics, Aarhus University, Denmark.
 
-- [Marina Friedrich](https://sites.google.com/view/mfriedrich), Assistant Professor at the Department of Econometrics and Data Science at Vrije Universiteit (VU) Amsterdam, Netherlands.
+- [Chiara Binelli](https://sites.google.com/view/chiara-binelli/home), Associate Professor of Economics, University of Bologna, Italy.
 
-- [Simon Luck](https://www.unibo.it/sitoweb/simon.luck2/en), PhD Student at the Department of Political and Social Sciences, University of Bologna, Italy.
+- [Eric Hillebrand](https://sites.google.com/site/erichillebrand/home), Professor of Econometrics, Aarhus University, Denmark. Board Member of the [Econometric Models of Climate Change Conference Series.](https://sites.google.com/view/emccconference/home)
 
+- [Josué M. Polanco-Martínez](https://www.researchgate.net/profile/Josue-Polanco-Martinez), Assistant Professor of Statistics, University of Salamanca, Spain.
 
 ## Date and Location
 
-- **Date**: April 22, 2025.
+- **Date**: April 22, 2024.
 
-- **Time**: 8:25 am to 5 pm. More details will be provided soon.
+- **Time**: 8:25 am to 5 pm organized as presentations from 8:25 am to 11:30 and hackathon from 11:30 to 5pm. Exact schedule can be seen [here](earthday2024_schedule.qmd).
 
-- **Location**: [AAU Innovate](https://maps.app.goo.gl/BSsHTNUGzp9EmiCP6).
+- **Location**: [Department of Mathematical Sciences, Skjernvej 4A, 9220, Aalborg](https://maps.app.goo.gl/sEQNm9HnZhpPoTLR7).
 
 ## Registration
 
-Registration is closed, thank you for your interest.
+Registration is closed. Thanks to all the participants, speakers, and sponsors for making the Earth Day 2024 Event a success. We hope to see you next year!
 
 ## Organizers
 
@@ -63,7 +66,13 @@ Registration is closed, thank you for your interest.
 
 - [Olivia Kvist](https://www.linkedin.com/in/olivia-kvist-813251216/)
 
-- [Charisios Grivas](https://sites.google.com/view/charisiosgrivas/home)
+### Hackathon Committee
+
+- [J. Eduardo Vera-Valdés](https://everval.github.io/)
+
+- [Christophe Biscio](https://biscio.github.io/)
+
+- [Yossi Bleile](https://github.com/yossibokorbleile)
 
 
 ## Act Now

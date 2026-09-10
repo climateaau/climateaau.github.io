@@ -1,7 +1,8 @@
 ---
-title: "![AAU logo](images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
+title: "![AAU logo](../images/AAU_GREEN_DARKTONE.png){width=5%} Earth Day 2026"
 subtitle: "Data Science for Climate Research"
 image: /images/ed26_wide_birds.Jpeg
+sidebar: ed2026
 ---
 
 ![](/images/ed26_wide_birds.Jpeg){fig-alt="Earth Day Poster."}
