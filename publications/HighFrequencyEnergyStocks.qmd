@@ -1,20 +1,37 @@
 ---
-title: "The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis"
+title: "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis"
+outlet: "Applied Finance Letters"
 author: ["O. Kvist", "J.E. Vera-Valdés"]
-date: "2024/01/02"
+date: "2026/10/14"
 date-format: "YYYY"
 image: /images/HF_RBV.png
 image-alt: "High frequency jump test on energy stocks"
-categories: ["Working Paper", "Climate Econometrics", "Data Science"]
+categories: ["Accepted", "Climate Econometrics", "Financial Econometrics", "Data Science"]
 ---
 
 ## Abstract
 
-We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement.
+The latest report by the Intergovernmental Panel on Climate Change acknowledges that funding
+must significantly increase to meet climate objectives. Yet how equity markets respond to individ-
+ual climate negotiations at high frequency remains under-explored. This paper adds to the literature
+by analysing the effect of news surrounding the 28th United Nations Climate Change Conference
+on the performance of green and brown energy stocks. The conference marked the first time parties
+agreed to transition away from fossil fuels in energy systems, which is vital in mitigating climate
+change. We analyse whether announcements around COP28 were accompanied by jumps in se-
+lected stocks. The study employs high-frequency trading data to separate the various, occasionally
+opposing, signals associated with the conference. We consider 30 stocks: 15 green and 15 brown.
+The stocks are from the European energy market. We motivate the choice by noting that the notion
+of green versus brown is better understood in the energy sector. Moreover, the EU is considered
+one of the leaders in climate policies. Our results indicate that news around COP28 affected the
+financial performance of the stocks, signalling a potential reaction of investors to the event. The
+results are of interest to firms in the energy sector, governments, and policymakers in light of the
+increased importance that green finance has in achieving the goals set in the Paris Agreement.
+Policymakers and central banks can use these insights to support an orderly energy transition.
 
 ## Download
 
-The paper can be downloaded [here]().
+A previous version of the paper was circulated under the title "The Effect of News from COP28 on Green and Brown Stocks: A High-Frequency Analysis" and is available on [SSRN here](https://ssrn.com/abstract=5024408).
+
 
 ## Recommended citation
 
@@ -22,15 +39,16 @@ The paper can be downloaded [here]().
 
 ### Text
 
-Kvist, O., and Vera-Valdés, J.E. (2024). "The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis." 
+Kvist, O., and Vera-Valdés, J.E. (2026). "Kvist, Olivia and Vera-Valdés, J. Eduardo, The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis". Applied Finance Letters. Forthcoming.
 
 ### BibTex
 
 ```bibtex
-@article{KVIST2024,
-title = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},
-year = {2024},
+@article{KVIST2026b,
+title = {The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis},
+year = {2026},
 author = {Kvist, O., and Vera-Valdés, J.E.},
+journal = {Applied Finance Letters},
 }
 ```
 
