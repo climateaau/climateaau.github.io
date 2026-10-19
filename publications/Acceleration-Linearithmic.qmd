@@ -1,12 +1,14 @@
 ---
 title: "Detecting acceleration in global mean temperature using supralinear trends"
 outlet: "Environmental Research Letters"
+outlet-score: Q1 (SJR)
+outlet-percentile: 94% (Scopus)
 author: "J.E. Vera-Valdés"
-date: "2026/10/13"
+date: "2026/10/16"
 date-format: "YYYY"
 image: /images/bootstrap_pvalues_linearithmic_linear_exog.png
 image-alt: "Bootstrap p-values for linearithmic specifications of global temperature trends without exogenous controls"
-categories: ["Accepted", "Econometrics", "Climate Econometrics"]
+categories: ["Published", "Econometrics", "Climate Econometrics"]
 ---
 
 ## Abstract
@@ -15,9 +17,13 @@ Whether global mean surface temperature has accelerated has received opposite an
 
 ## Download
 
-A previous version of the paper was circulated under the title "Global warming has been accelerating since at least 1990" and is available on [ArXiv here](https://arxiv.org/abs/2606.04114v1). 
+The paper is available freely (open access) [here](https://iopscience.iop.org/article/10.1088/1748-9326/aeb55e).
 
 Replication code for the paper is available at [Zenodo](https://zenodo.org/records/23323750) and the [GitHub repository](https://github.com/everval/Supralinear-Warming-Acceleration).
+
+## Media coverage
+
+This paper was featured in the article ["Warming Is Speeding up, but the Date It Became Visible Depends on the Record"](https://allatra.media/environment/environment-gmst-acceleration-supralinear-trends), which discusses its findings on detecting acceleration in global mean temperature using supralinear trends.
 
 ## Recommended citation
 
@@ -25,17 +31,18 @@ Replication code for the paper is available at [Zenodo](https://zenodo.org/recor
 
 ### Text
 
-Vera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. Forthcoming.
+Vera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. DOI: [10.1088/1748-9326/aeb55e](https://doi.org/10.1088/1748-9326/aeb55e).
 
 
 ### BibTex
 
 ```bibtex
-@article{VeraValdes2026acceleration,
+@article{VeraValdes2026a,
   title   = {Detecting acceleration in global mean temperature using supralinear trends},
-  author  = {Vera-Vald{\'e}s, J. Eduardo},
+  author = {Vera-Valdés, J.E.},
   journal = {Environmental Research Letters},
   year    = {2026},
+  doi     = {10.1088/1748-9326/aeb55e},
 }
 ```
 

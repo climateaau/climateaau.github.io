@@ -1,32 +1,19 @@
 ---
 title: "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis"
 outlet: "Applied Finance Letters"
+outlet-score:
+outlet-percentile:
 author: ["O. Kvist", "J.E. Vera-Valdés"]
 date: "2026/10/14"
 date-format: "YYYY"
 image: /images/HF_RBV.png
 image-alt: "High frequency jump test on energy stocks"
-categories: ["Accepted", "Climate Econometrics", "Financial Econometrics", "Data Science"]
+categories: ["Published", "Climate Econometrics", "Financial Econometrics", "Data Science"]
 ---
 
 ## Abstract
 
-The latest report by the Intergovernmental Panel on Climate Change acknowledges that funding
-must significantly increase to meet climate objectives. Yet how equity markets respond to individ-
-ual climate negotiations at high frequency remains under-explored. This paper adds to the literature
-by analysing the effect of news surrounding the 28th United Nations Climate Change Conference
-on the performance of green and brown energy stocks. The conference marked the first time parties
-agreed to transition away from fossil fuels in energy systems, which is vital in mitigating climate
-change. We analyse whether announcements around COP28 were accompanied by jumps in se-
-lected stocks. The study employs high-frequency trading data to separate the various, occasionally
-opposing, signals associated with the conference. We consider 30 stocks: 15 green and 15 brown.
-The stocks are from the European energy market. We motivate the choice by noting that the notion
-of green versus brown is better understood in the energy sector. Moreover, the EU is considered
-one of the leaders in climate policies. Our results indicate that news around COP28 affected the
-financial performance of the stocks, signalling a potential reaction of investors to the event. The
-results are of interest to firms in the energy sector, governments, and policymakers in light of the
-increased importance that green finance has in achieving the goals set in the Paris Agreement.
-Policymakers and central banks can use these insights to support an orderly energy transition.
+The latest report by the Intergovernmental Panel on Climate Change acknowledges that funding must significantly increase to meet climate objectives. Yet how equity markets respond to individual climate negotiations at high frequency remains under-explored. This paper adds to the literature by analysing the effect of news surrounding the 28th United Nations Climate Change Conference on the performance of green and brown energy stocks. The conference marked the first time parties agreed to transition away from fossil fuels in energy systems, which is vital in mitigating climate change. We analyse whether announcements around COP28 were accompanied by jumps in selected stocks. The study employs high-frequency trading data to separate the various, occasionally opposing, signals associated with the conference. We consider 30 stocks: 15 green and 15 brown. The stocks are from the European energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the EU is considered one of the leaders in climate policies. Our results indicate that news around COP28 affected the financial performance of the stocks, signalling a potential reaction of investors to the event. The results are of interest to firms in the energy sector, governments, and policymakers in light of the increased importance that green finance has in achieving the goals set in the Paris Agreement. Policymakers and central banks can use these insights to support an orderly energy transition.
 
 ## Download
 
@@ -39,15 +26,15 @@ A previous version of the paper was circulated under the title "The Effect of Ne
 
 ### Text
 
-Kvist, O., and Vera-Valdés, J.E. (2026). "Kvist, Olivia and Vera-Valdés, J. Eduardo, The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis". Applied Finance Letters. Forthcoming.
+Kvist, O., and Vera-Valdés, J.E. (2026). "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis". Applied Finance Letters. Forthcoming.
 
 ### BibTex
 
 ```bibtex
-@article{KVIST2026b,
+@article{Kvist2026c,
 title = {The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis},
 year = {2026},
-author = {Kvist, O., and Vera-Valdés, J.E.},
+author = {Kvist, O. and Vera-Valdés, J.E.},
 journal = {Applied Finance Letters},
 }
 ```
