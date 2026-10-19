@@ -54,7 +54,7 @@
     "href": "climateeconometrics.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Breaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Emergence of Acceleration in Global Warming\n\n\n\n\n\n\n\n\nT.K. Bugajski, N.P.B. Pedersen, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nMulti-source land-use emissions reveal rising airborne fraction\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nGlobal Temperature Anomalies in Practice\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
+    "text": "Detecting acceleration in global mean temperature using supralinear trends\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nThe Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis\n\n\n\n\n\n\n\n\nO. Kvist, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nBreaching 1.5°C: Give me the odds\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Emergence of Acceleration in Global Warming\n\n\n\n\n\n\n\n\nT.K. Bugajski, N.P.B. Pedersen, J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nMulti-source land-use emissions reveal rising airborne fraction\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, O. Kvist\n\n\n\n\n\n\n\n\n\n\n\n\nGlobal Temperature Anomalies in Practice\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nRobust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C. Grivas\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés, C.V. Rodríguez-Caballero\n\n\n\n\n\n\n\n\n\n\n\n\nNonfractional Long-Range Dependence: Long Memory, Antipersistence, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nAir Pollution and Mobility, What Drives COVID-19?\n\n\n\n\n\n\n\n\nRodríguez-Caballero, C.V., J.E. Vera-Valdés\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature Anomalies, Long Memory, and Aggregation\n\n\n\n\n\n\n\n\nJ.E. Vera-Valdés\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "earthday/earthday2025_gallery.html",
@@ -476,81 +476,123 @@
     "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2026). “Multi-source land-use emissions reveal rising airborne fraction”.\n\n\n@article{veravaldes2026multisourcelanduse,\n      title={Multi-source land-use emissions reveal rising airborne fraction}, \n      author={J. Eduardo Vera-Valdés},\n      year={2026},\n}"
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html",
-    "href": "publications/FinancialVolatilityAfterPA.html",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "objectID": "publications/Acceleration-Linearithmic.html",
+    "href": "publications/Acceleration-Linearithmic.html",
+    "title": "Detecting acceleration in global mean temperature using supralinear trends",
     "section": "",
-    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+    "text": "Whether global mean surface temperature has accelerated has received opposite answers in quick succession, reported as undetectable on data to 2023 and as significant on data to 2024. This raises two questions: since when is acceleration detectable, and how far does the answer depend on the test used? We show that structural-break tests, often used for this purpose, cannot reliably date the onset of a continuously accelerating warming rate. We therefore test for curvature directly, under specifications whose null is exactly a constant warming rate and whose alternative is curvature rather than a break. One is a linearithmic trend, a lower bound for the supralinear polynomial class; the other estimates the curvature freely from the data. We report alongside them the quadratic trend used in the recent literature. Over 1970–2025, the linearithmic and quadratic coefficients are positive and statistically significant in all five major temperature datasets once El Niño and solar variability are controlled for. The onset of acceleration is dated by re-estimating over expanding windows and correcting for multiple testing. Under the linearithmic specification, acceleration first becomes detectable in windows ending in mid-2023 for NOAA, late 2023 for GISTEMP and mid-2024 for ERA5, and not yet in HadCRUT or Berkeley. The free-curvature specification agrees on direction and on which datasets show the acceleration most strongly, but rejects in fewer of them, since estimating the shape costs precision. Among the three specifications the linearithmic implies the least curvature, so the acceleration it reports, and the warming that follows from extending it to 2050, are the lowest of the three, a conservative basis for policy."
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html#abstract",
-    "href": "publications/FinancialVolatilityAfterPA.html#abstract",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
+    "objectID": "publications/Acceleration-Linearithmic.html#abstract",
+    "href": "publications/Acceleration-Linearithmic.html#abstract",
+    "title": "Detecting acceleration in global mean temperature using supralinear trends",
     "section": "",
-    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
+    "text": "Whether global mean surface temperature has accelerated has received opposite answers in quick succession, reported as undetectable on data to 2023 and as significant on data to 2024. This raises two questions: since when is acceleration detectable, and how far does the answer depend on the test used? We show that structural-break tests, often used for this purpose, cannot reliably date the onset of a continuously accelerating warming rate. We therefore test for curvature directly, under specifications whose null is exactly a constant warming rate and whose alternative is curvature rather than a break. One is a linearithmic trend, a lower bound for the supralinear polynomial class; the other estimates the curvature freely from the data. We report alongside them the quadratic trend used in the recent literature. Over 1970–2025, the linearithmic and quadratic coefficients are positive and statistically significant in all five major temperature datasets once El Niño and solar variability are controlled for. The onset of acceleration is dated by re-estimating over expanding windows and correcting for multiple testing. Under the linearithmic specification, acceleration first becomes detectable in windows ending in mid-2023 for NOAA, late 2023 for GISTEMP and mid-2024 for ERA5, and not yet in HadCRUT or Berkeley. The free-curvature specification agrees on direction and on which datasets show the acceleration most strongly, but rejects in fewer of them, since estimating the shape costs precision. Among the three specifications the linearithmic implies the least curvature, so the acceleration it reports, and the warming that follows from extending it to 2050, are the lowest of the three, a conservative basis for policy."
   },
   {
-    "objectID": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
-    "href": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
-    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
-    "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2026). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.” Advances in Econometrics. DOI: 10.1108/S0731-90532026000047B008\n\n\n@incollection{Vera-Valdes2026,\n    author = {Vera-Valdés, J. E. and Kvist, O.},\n    editor = {Fomby, Thomas B. and Friedrich, Marina and Hillebrand, Eric},\n    isbn = {978-1-80686-484-3},\n    title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\n    booktitle = {Econometrics of Climate, Energy, and Green Transition},\n    publisher = {Emerald Publishing Limited},\n    year = {2026},\n    month = {05},\n    url = {https://doi.org/10.1108/S0731-90532026000047B008},\n    eprint = {https://www.emerald.com/book/chapter-pdf/11510282/s0731-90532026000047b008en.pdf},\n}"
-  },
-  {
-    "objectID": "publications/HighFrequencyEnergyStocks.html",
-    "href": "publications/HighFrequencyEnergyStocks.html",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
-    "section": "",
-    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
-  },
-  {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#abstract",
-    "href": "publications/HighFrequencyEnergyStocks.html#abstract",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
-    "section": "",
-    "text": "We analyse the effect that the publication of the AR6 Synthesis Report (SYR) of the Intergovernmental Panel on Climate Change (IPCC) had on the performance of green and brown stocks. We use high frequency data to test whether there were jumps in the stocks after the publication of SYR. Both jumps in the returns and their volatility are analysed. We consider 30 stocks: 15 green and 15 brown stocks. Green stocks are taken from the green energy market in Europe, whereas brown stocks are taken from the European brown energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the European market is considered one of the leaders in climate policies. Furthermore, we use high frequency trading prices to analyse both daily and intraday jumps based on two different jump tests. One aim of this paper is to advance the use of high frequency data in extending the traditional notion of event studies. Our results indicate that the release had an effect on the chosen stocks around the time of interest, signalling a potential reaction of investors to the findings reported in SYR. The results are of interest to firms in the energy sector, governments, and policy-makers in light of the increased importance that green finance has for achieving the goals set in the Paris Agreement."
-  },
-  {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#download",
-    "href": "publications/HighFrequencyEnergyStocks.html#download",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/Acceleration-Linearithmic.html#download",
+    "href": "publications/Acceleration-Linearithmic.html#download",
+    "title": "Detecting acceleration in global mean temperature using supralinear trends",
     "section": "Download",
-    "text": "Download\nThe paper can be downloaded here."
+    "text": "Download\nThe paper is available freely (open access) here.\nReplication code for the paper is available at Zenodo and the GitHub repository."
   },
   {
-    "objectID": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
-    "href": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
-    "title": "The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis",
+    "objectID": "publications/Acceleration-Linearithmic.html#media-coverage",
+    "href": "publications/Acceleration-Linearithmic.html#media-coverage",
+    "title": "Detecting acceleration in global mean temperature using supralinear trends",
+    "section": "Media coverage",
+    "text": "Media coverage\nThis paper was featured in the article “Warming Is Speeding up, but the Date It Became Visible Depends on the Record”, which discusses its findings on detecting acceleration in global mean temperature using supralinear trends."
+  },
+  {
+    "objectID": "publications/Acceleration-Linearithmic.html#recommended-citation",
+    "href": "publications/Acceleration-Linearithmic.html#recommended-citation",
+    "title": "Detecting acceleration in global mean temperature using supralinear trends",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nKvist, O., and Vera-Valdés, J.E. (2024). “The Effect of the IPCC’s Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis.”\n\n\n@article{KVIST2024,\ntitle = {The Effect of the IPCC's Sixth Synthesis Report on Green and Brown Stocks: A High-Frequency Analysis},\nyear = {2024},\nauthor = {Kvist, O., and Vera-Valdés, J.E.},\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. DOI: 10.1088/1748-9326/aeb55e.\n\n\n@article{VeraValdes2026a,\n  title   = {Detecting acceleration in global mean temperature using supralinear trends},\n  author = {Vera-Valdés, J.E.},\n  journal = {Environmental Research Letters},\n  year    = {2026},\n  doi     = {10.1088/1748-9326/aeb55e},\n}"
   },
   {
-    "objectID": "publications/AirborneFraction.html",
-    "href": "publications/AirborneFraction.html",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/Acceleration-Gridded.html",
+    "href": "publications/Acceleration-Gridded.html",
+    "title": "Spatial Emergence of Acceleration in Global Warming",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable."
   },
   {
-    "objectID": "publications/AirborneFraction.html#abstract",
-    "href": "publications/AirborneFraction.html#abstract",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/Acceleration-Gridded.html#abstract",
+    "href": "publications/Acceleration-Gridded.html#abstract",
+    "title": "Spatial Emergence of Acceleration in Global Warming",
     "section": "",
-    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
+    "text": "Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable."
   },
   {
-    "objectID": "publications/AirborneFraction.html#download",
-    "href": "publications/AirborneFraction.html#download",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/Acceleration-Gridded.html#download",
+    "href": "publications/Acceleration-Gridded.html#download",
+    "title": "Spatial Emergence of Acceleration in Global Warming",
     "section": "Download",
-    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
+    "text": "Download\nThe paper is available as a preprint on ArXiv here."
   },
   {
-    "objectID": "publications/AirborneFraction.html#recommended-citation",
-    "href": "publications/AirborneFraction.html#recommended-citation",
-    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
+    "objectID": "publications/Acceleration-Gridded.html#recommended-citation",
+    "href": "publications/Acceleration-Gridded.html#recommended-citation",
+    "title": "Spatial Emergence of Acceleration in Global Warming",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nBugajski, T.K., Pedersen, N.P.B., and Vera-Valdés, J.E. (2026). “Spatial Emergence of Acceleration in Global Warming”. ArXiv (2606.18806).\n\n\n@article{bugajski2026spatialemergenceaccelerationglobal,\n      title={Spatial emergence of acceleration in global warming}, \n      author={Tanja Korsten Bugajski and Nicolai Peder Bulow Pedersen and J. Eduardo Vera-Valdes},\n      journal={arXiv preprint arXiv:2606.18806},\n      year={2026},\n      doi={10.48550/arXiv.2606.18806},\n      url={https://arxiv.org/abs/2606.18806}, \n}"
+  },
+  {
+    "objectID": "publications/GlobalTemperatureAnomalies.html",
+    "href": "publications/GlobalTemperatureAnomalies.html",
+    "title": "Global Temperature Anomalies in Practice",
+    "section": "",
+    "text": "We present a reproducible pipeline for downloading, processing, and harmonising global temperature anomaly series from HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ERA5. All datasets are aligned to a common 1850-1900 pre-industrial baseline to enable direct compar-ison. The workflow also integrates the Oceanic Niño Index (ONI) to annotate El Niño and La Niña phases in the figures, helping distinguish short-term variability from the long-term warming signal. Final outputs are exported as transparent, analysis-ready CSV files, available through the repository."
+  },
+  {
+    "objectID": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "href": "publications/GlobalTemperatureAnomalies.html#abstract",
+    "title": "Global Temperature Anomalies in Practice",
+    "section": "",
+    "text": "We present a reproducible pipeline for downloading, processing, and harmonising global temperature anomaly series from HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ERA5. All datasets are aligned to a common 1850-1900 pre-industrial baseline to enable direct compar-ison. The workflow also integrates the Oceanic Niño Index (ONI) to annotate El Niño and La Niña phases in the figures, helping distinguish short-term variability from the long-term warming signal. Final outputs are exported as transparent, analysis-ready CSV files, available through the repository."
+  },
+  {
+    "objectID": "publications/GlobalTemperatureAnomalies.html#download",
+    "href": "publications/GlobalTemperatureAnomalies.html#download",
+    "title": "Global Temperature Anomalies in Practice",
+    "section": "Download",
+    "text": "Download\nRead the working paper freely in the manuscript repository here. The repository contains links to the code and data used in the paper.\nThe paper is also available as a preprint on EarthArXiv here."
+  },
+  {
+    "objectID": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "href": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
+    "title": "Global Temperature Anomalies in Practice",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2026). “Global Temperature Anomalies in Practice”. EarthArXiv (13310) DOI: 10.31223/X56N3Z.\n\n\n@article{vera-valdesGlobalTemperatureAnomalies,\n    title = {Global Temperature Anomalies in Practice},\n    author = {Vera-Valdés, J Eduardo},\n  year = {2026},\n  journal = {EarthArXiv},\n  doi = {10.31223/X56N3Z},\n  url = {https://doi.org/10.31223/X56N3Z}\n}"
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html",
+    "href": "publications/AirPollutionCarrier-COVID19.html",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "",
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "",
+    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
+    "href": "publications/AirPollutionCarrier-COVID19.html#download",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "Download",
+    "text": "Download\nDownload the paper freely (open access) here."
+  },
+  {
+    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
+    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "section": "Recommended citation",
+    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
   },
   {
     "objectID": "publications/AirPollutionCausality-MCMA-COVID19.html",
@@ -588,88 +630,81 @@
     "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Rodríguez-Caballero, C.V. (2023). “Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19.” Atmósfera. 36(2) https://doi.org/10.20937/ATM.53052\n\n\n@article{VERAVALDES2023,\ntitle = {Air Pollution And Mobility In The Mexico City Metropolitan Area In Times of COVID-19},\nauthor = {Vera-Valdés, J.E. and Rodríguez-Caballero, C.V.},\njournal = {Atmósfera},\nvolume = {36},\nyear = {2023},\nnumber = {2},\nurl = {https://doi.org/10.20937/ATM.53052},\ndoi = {https://doi.org/10.20937/ATM.53052}\n}"
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html",
-    "href": "publications/AirPollutionCarrier-COVID19.html",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirborneFraction.html",
+    "href": "publications/AirborneFraction.html",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
     "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "href": "publications/AirPollutionCarrier-COVID19.html#abstract",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirborneFraction.html#abstract",
+    "href": "publications/AirborneFraction.html#abstract",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
     "section": "",
-    "text": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns."
+    "text": "The carbon dioxide (CO2) airborne fraction, the proportion of anthropogenic CO2 emissions that remain in the atmosphere, is a critical metric for research on the carbon cycle and climate change. One possible complication with its estimation is that the data may contain measurement errors given old or unreliable tools, particularly in early years. Hence, this paper obtains estimates that are robust to measurement errors. We are the first to present estimates and standard errors for the regression-based estimator that are robust to measurement errors. Our estimates for the airborne fraction are 44.8%(+/- 1.4%; 1σ) for the simple specification, and 47.3%(+/- 1.1%; 1σ) for an extended specification that adds additional explanatory variables to reduce the variance of the errors. To achieve this goal, we add to the literature in several ways: we generalise the Deming regression to handle multiple variables; we introduce a bootstrap approach to construct confidence intervals for Deming regression; and we propose to estimate the airborne fraction using instrumental variables, using as instruments the variation of additional data sets."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#download",
-    "href": "publications/AirPollutionCarrier-COVID19.html#download",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirborneFraction.html#download",
+    "href": "publications/AirborneFraction.html#download",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
     "section": "Download",
-    "text": "Download\nDownload the paper freely (open access) here."
+    "text": "Download\nDownload the accepted manuscript freely (open access) here.\nA Jupyter notebook version of the submitted manuscript is available at the repository here. This version is done using Quarto and contains links to the code and data used in the paper."
   },
   {
-    "objectID": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "href": "publications/AirPollutionCarrier-COVID19.html#recommended-citation",
-    "title": "Air Pollution and Mobility, What Drives COVID-19?",
+    "objectID": "publications/AirborneFraction.html#recommended-citation",
+    "href": "publications/AirborneFraction.html#recommended-citation",
+    "title": "Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nRodríguez-Caballero, C.V., and Vera-Valdés, J.E. (2021). “Air Pollution and Mobility, What Drives COVID-19?.” Econometrics. 9(4). https://www.mdpi.com/2225-1146/9/4/37\n\n\n@article{VERAVALDES2021c,\ntitle = {Air Pollution and Mobility, What Drives COVID-19?},\nauthor = {Rodríguez-Caballero, C.V. and Vera-Valdés, J.E.},\njournal = {Econometrics},\nvolume = {9},\nyear = {2021},\nnumber = {4},\nissue = {37},\nurl = {https://www.mdpi.com/2225-1146/9/4/37},\ndoi = {10.3390/econometrics9040037}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Grivas, C. (2025). “Robust Estimation of the Carbon Dioxide Airborne Fraction Under Measurement Errors”. Environmental Research Communications. 7(3). DOI: 10.1088/2515-7620/adc06b.\n\n\n@article{veravaldes2025robustestimationco2,\n      title={Robust estimation of carbon dioxide airborne fraction under measurement errors}, \n      author={J. Eduardo Vera-Valdés and Charisios Grivas},\n      year={2025},\n      journal={Environmental Research Communications},\n      url={http://iopscience.iop.org/article/10.1088/2515-7620/adc06b}, \n      doi={10.1088/2515-7620/adc06b},\n      volume={7},\n      number={3},\n      pages={031009},\n      publisher={IOP Publishing}\n}"
   },
   {
-    "objectID": "publications/GlobalTemperatureAnomalies.html",
-    "href": "publications/GlobalTemperatureAnomalies.html",
-    "title": "Global Temperature Anomalies in Practice",
+    "objectID": "publications/HighFrequencyEnergyStocks.html",
+    "href": "publications/HighFrequencyEnergyStocks.html",
+    "title": "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis",
     "section": "",
-    "text": "We present a reproducible pipeline for downloading, processing, and harmonising global temperature anomaly series from HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ERA5. All datasets are aligned to a common 1850-1900 pre-industrial baseline to enable direct compar-ison. The workflow also integrates the Oceanic Niño Index (ONI) to annotate El Niño and La Niña phases in the figures, helping distinguish short-term variability from the long-term warming signal. Final outputs are exported as transparent, analysis-ready CSV files, available through the repository."
+    "text": "The latest report by the Intergovernmental Panel on Climate Change acknowledges that funding must significantly increase to meet climate objectives. Yet how equity markets respond to individual climate negotiations at high frequency remains under-explored. This paper adds to the literature by analysing the effect of news surrounding the 28th United Nations Climate Change Conference on the performance of green and brown energy stocks. The conference marked the first time parties agreed to transition away from fossil fuels in energy systems, which is vital in mitigating climate change. We analyse whether announcements around COP28 were accompanied by jumps in selected stocks. The study employs high-frequency trading data to separate the various, occasionally opposing, signals associated with the conference. We consider 30 stocks: 15 green and 15 brown. The stocks are from the European energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the EU is considered one of the leaders in climate policies. Our results indicate that news around COP28 affected the financial performance of the stocks, signalling a potential reaction of investors to the event. The results are of interest to firms in the energy sector, governments, and policymakers in light of the increased importance that green finance has in achieving the goals set in the Paris Agreement. Policymakers and central banks can use these insights to support an orderly energy transition."
   },
   {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#abstract",
-    "href": "publications/GlobalTemperatureAnomalies.html#abstract",
-    "title": "Global Temperature Anomalies in Practice",
+    "objectID": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "href": "publications/HighFrequencyEnergyStocks.html#abstract",
+    "title": "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis",
     "section": "",
-    "text": "We present a reproducible pipeline for downloading, processing, and harmonising global temperature anomaly series from HadCRUT5, GISTEMP, NOAAGlobalTemp, Berkeley Earth, and ERA5. All datasets are aligned to a common 1850-1900 pre-industrial baseline to enable direct compar-ison. The workflow also integrates the Oceanic Niño Index (ONI) to annotate El Niño and La Niña phases in the figures, helping distinguish short-term variability from the long-term warming signal. Final outputs are exported as transparent, analysis-ready CSV files, available through the repository."
+    "text": "The latest report by the Intergovernmental Panel on Climate Change acknowledges that funding must significantly increase to meet climate objectives. Yet how equity markets respond to individual climate negotiations at high frequency remains under-explored. This paper adds to the literature by analysing the effect of news surrounding the 28th United Nations Climate Change Conference on the performance of green and brown energy stocks. The conference marked the first time parties agreed to transition away from fossil fuels in energy systems, which is vital in mitigating climate change. We analyse whether announcements around COP28 were accompanied by jumps in selected stocks. The study employs high-frequency trading data to separate the various, occasionally opposing, signals associated with the conference. We consider 30 stocks: 15 green and 15 brown. The stocks are from the European energy market. We motivate the choice by noting that the notion of green versus brown is better understood in the energy sector. Moreover, the EU is considered one of the leaders in climate policies. Our results indicate that news around COP28 affected the financial performance of the stocks, signalling a potential reaction of investors to the event. The results are of interest to firms in the energy sector, governments, and policymakers in light of the increased importance that green finance has in achieving the goals set in the Paris Agreement. Policymakers and central banks can use these insights to support an orderly energy transition."
   },
   {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#download",
-    "href": "publications/GlobalTemperatureAnomalies.html#download",
-    "title": "Global Temperature Anomalies in Practice",
+    "objectID": "publications/HighFrequencyEnergyStocks.html#download",
+    "href": "publications/HighFrequencyEnergyStocks.html#download",
+    "title": "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis",
     "section": "Download",
-    "text": "Download\nRead the working paper freely in the manuscript repository here. The repository contains links to the code and data used in the paper.\nThe paper is also available as a preprint on EarthArXiv here."
+    "text": "Download\nA previous version of the paper was circulated under the title “The Effect of News from COP28 on Green and Brown Stocks: A High-Frequency Analysis” and is available on SSRN here."
   },
   {
-    "objectID": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
-    "href": "publications/GlobalTemperatureAnomalies.html#recommended-citation",
-    "title": "Global Temperature Anomalies in Practice",
+    "objectID": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "href": "publications/HighFrequencyEnergyStocks.html#recommended-citation",
+    "title": "The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E. (2026). “Global Temperature Anomalies in Practice”. EarthArXiv (13310) DOI: 10.31223/X56N3Z.\n\n\n@article{vera-valdesGlobalTemperatureAnomalies,\n    title = {Global Temperature Anomalies in Practice},\n    author = {Vera-Valdés, J Eduardo},\n  year = {2026},\n  journal = {EarthArXiv},\n  doi = {10.31223/X56N3Z},\n  url = {https://doi.org/10.31223/X56N3Z}\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nKvist, O., and Vera-Valdés, J.E. (2026). “The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis”. Applied Finance Letters. Forthcoming.\n\n\n@article{Kvist2026c,\ntitle = {The Effect of Climate News on Green and Brown Energy Stocks: A High-Frequency Analysis},\nyear = {2026},\nauthor = {Kvist, O. and Vera-Valdés, J.E.},\njournal = {Applied Finance Letters},\n}"
   },
   {
-    "objectID": "publications/Acceleration-Gridded.html",
-    "href": "publications/Acceleration-Gridded.html",
-    "title": "Spatial Emergence of Acceleration in Global Warming",
+    "objectID": "publications/FinancialVolatilityAfterPA.html",
+    "href": "publications/FinancialVolatilityAfterPA.html",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
     "section": "",
-    "text": "Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable."
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
   },
   {
-    "objectID": "publications/Acceleration-Gridded.html#abstract",
-    "href": "publications/Acceleration-Gridded.html#abstract",
-    "title": "Spatial Emergence of Acceleration in Global Warming",
+    "objectID": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "href": "publications/FinancialVolatilityAfterPA.html#abstract",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
     "section": "",
-    "text": "Whether global warming is accelerating remains contested because internal variability and spatial heterogeneity can obscure changes in warming rates. Here we use a Bayesian hierarchical spatio-temporal model with structured spatial dependence to estimate local warming trajectories and acceleration, and apply the model to progressively truncated observations to infer when acceleration becomes detectable. We find that detectable acceleration emerges unevenly across the climate system, with the earliest high-confidence signals concentrated in selected high-latitude regions. Across retained grid cells, the proportion exceeding a 90% posterior probability of positive acceleration increases from 13.6% for 1970-1990 to 39.7% for 1970-2026, while the proportion exceeding a 50% threshold increases from 46.4% to 70.3%. These results show that spatial aggregation can delay detection by averaging regions where acceleration has already emerged with regions where it remains weak or uncertain. The framework provides a probabilistic diagnostic for identifying where warming is intensifying and when acceleration becomes statistically detectable."
+    "text": "This paper evaluates the effect that the Paris Agreement (PA) and the COVID-19 pandemic had on the persistence of volatility in stocks associated with the climate crisis. Both brown stocks (those associated with increases in greenhouse gas emissions) and green stocks (the ones related to renewable energies) are analysed, and we compare their dynamics against stocks not necessarily associated with the global warming crisis. We find evidence that all brown and green stocks experienced a decrease in volatility persistence after the PA entered into force. In contrast, the persistence of volatility for stocks not associated with the climate crisis experienced an increase in persistence. Furthermore, we show that the COVID-19 pandemic increased volatility persistence for most stocks, regardless of whether they are associated with the climate crisis or not. The contrasting results could signal the benefit that international cooperation agreements, such as the PA, have on the financial stability of stocks associated with the climate crisis through the establishment of clear emission goals. Furthermore, a notable aim of this paper is to advance the use of multiverse analysis in econometric studies. Therefore, we detail how multiverse analysis can be used to show that our results are robust to bandwidth selection. In general, this paper opens up a new research agenda on the volatility stabilising mechanism of international treaties to tackle global warming. In particular, this paper supports the notion that international collaboration, such as the PA can help reduce volatility persistence, making it more likely to avoid the green swan.\nThe codes to replicate the results of this paper can be found here."
   },
   {
-    "objectID": "publications/Acceleration-Gridded.html#download",
-    "href": "publications/Acceleration-Gridded.html#download",
-    "title": "Spatial Emergence of Acceleration in Global Warming",
-    "section": "Download",
-    "text": "Download\nThe paper is available as a preprint on ArXiv here."
-  },
-  {
-    "objectID": "publications/Acceleration-Gridded.html#recommended-citation",
-    "href": "publications/Acceleration-Gridded.html#recommended-citation",
-    "title": "Spatial Emergence of Acceleration in Global Warming",
+    "objectID": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "href": "publications/FinancialVolatilityAfterPA.html#recommended-citation",
+    "title": "Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nBugajski, T.K., Pedersen, N.P.B., and Vera-Valdés, J.E. (2026). “Spatial Emergence of Acceleration in Global Warming”. ArXiv (2606.18806).\n\n\n@article{bugajski2026spatialemergenceaccelerationglobal,\n      title={Spatial emergence of acceleration in global warming}, \n      author={Tanja Korsten Bugajski and Nicolai Peder Bulow Pedersen and J. Eduardo Vera-Valdes},\n      journal={arXiv preprint arXiv:2606.18806},\n      year={2026},\n      doi={10.48550/arXiv.2606.18806},\n      url={https://arxiv.org/abs/2606.18806}, \n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J.E., and Kvist, O. (2026). “Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis.” Advances in Econometrics. DOI: 10.1108/S0731-90532026000047B008\n\n\n@incollection{Vera-Valdes2026,\n    author = {Vera-Valdés, J. E. and Kvist, O.},\n    editor = {Fomby, Thomas B. and Friedrich, Marina and Hillebrand, Eric},\n    isbn = {978-1-80686-484-3},\n    title = {Effects of the Paris Agreement and the COVID-19 Pandemic on Volatility Persistence of Stocks Associated with the Climate Crisis: A Multiverse Analysis},\n    booktitle = {Econometrics of Climate, Energy, and Green Transition},\n    publisher = {Emerald Publishing Limited},\n    year = {2026},\n    month = {05},\n    url = {https://doi.org/10.1108/S0731-90532026000047B008},\n    eprint = {https://www.emerald.com/book/chapter-pdf/11510282/s0731-90532026000047b008en.pdf},\n}"
   },
   {
     "objectID": "publications/Nonfractional-LRD.html",
