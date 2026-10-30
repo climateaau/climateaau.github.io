@@ -31,7 +31,7 @@ This paper was featured in the article ["Warming Is Speeding up, but the Date It
 
 ### Text
 
-Vera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. DOI: [10.1088/1748-9326/aeb55e](https://doi.org/10.1088/1748-9326/aeb55e).
+Vera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. 21(214009) DOI: [10.1088/1748-9326/aeb55e](https://doi.org/10.1088/1748-9326/aeb55e).
 
 
 ### BibTex
@@ -43,6 +43,11 @@ Vera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean tempera
   journal = {Environmental Research Letters},
   year    = {2026},
   doi     = {10.1088/1748-9326/aeb55e},
+  volume  = {21},
+  pages   = {214009},
+  month   = {nov},
+  issn    = {1748-9326},
+  url     = {https://iopscience.iop.org/article/10.1088/1748-9326/aeb55e},
 }
 ```
 
