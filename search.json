@@ -508,7 +508,7 @@
     "href": "publications/Acceleration-Linearithmic.html#recommended-citation",
     "title": "Detecting acceleration in global mean temperature using supralinear trends",
     "section": "Recommended citation",
-    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. DOI: 10.1088/1748-9326/aeb55e.\n\n\n@article{VeraValdes2026a,\n  title   = {Detecting acceleration in global mean temperature using supralinear trends},\n  author = {Vera-Valdés, J.E.},\n  journal = {Environmental Research Letters},\n  year    = {2026},\n  doi     = {10.1088/1748-9326/aeb55e},\n}"
+    "text": "Recommended citation\n\nTextBibTex\n\n\nVera-Valdés, J. Eduardo. 2026. “Detecting acceleration in global mean temperature using supralinear trends.” Environmental Research Letters. 21(214009) DOI: 10.1088/1748-9326/aeb55e.\n\n\n@article{VeraValdes2026a,\n  title   = {Detecting acceleration in global mean temperature using supralinear trends},\n  author = {Vera-Valdés, J.E.},\n  journal = {Environmental Research Letters},\n  year    = {2026},\n  doi     = {10.1088/1748-9326/aeb55e},\n  volume  = {21},\n  pages   = {214009},\n  month   = {nov},\n  issn    = {1748-9326},\n  url     = {https://iopscience.iop.org/article/10.1088/1748-9326/aeb55e},\n}"
   },
   {
     "objectID": "publications/Acceleration-Gridded.html",
